@@ -4123,4 +4123,47 @@ http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/690420
 http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/690421
 #EXTINF:-1,GS TV HD IN
 http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/690422
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/683289
+#EXTINF:-1,DIGI Sport 1 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/149962
+#EXTINF:-1,Digi Sport 1 RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5321
+#EXTINF:-1,DIGI Sport 2 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/14995
+#EXTINF:-1,Digi Sport 2 RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5320
+#EXTINF:-1,DIGI Sport 3 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/14994
+#EXTINF:-1,Digi Sport 3 RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5319
+#EXTINF:-1,Digi Sport 4 RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5318
+#EXTINF:-1,Telekom Sport 1 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/53855
+#EXTINF:-1,Telekom Sport 1 HD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/128252
+#EXTINF:-1,Telekom Sport 2 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/12920
+#EXTINF:-1,Telekom Sport 3 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/12979
+#EXTINF:-1,Telekom Sport 4 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/12042
+#EXTINF:-1,Telekom Sport 5 FHD [Match Time] RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/688519
+#EXTINF:-1,Eurosport 1 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5292
+#EXTINF:-1,Eurosport 1 HD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/12981
+#EXTINF:-1,Eurosport 2 FHD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5291
+#EXTINF:-1,Eurosport 2 HD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/14990
+#EXTINF:-1,Pro X RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/12057
+#EXTINF:-1,Look Sport HD RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5314
+#EXTINF:-1,Look Sport Plus RO
+http://ipflix.click:8080/zwp43fzbc/ygbk0amdh/5313
+
+
 
