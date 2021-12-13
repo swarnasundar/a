@@ -1514,7 +1514,2383 @@ https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manife
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000205&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmYTZhOTVkOS02NTcwLTRjYzYtOTVhZC1lZGJjZTcxYzNlMmEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjM5NDgzMTM0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjM5Mzk2NzM0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.LXWGe6swQi1kvvXL1DKze_E01urgk0R_Wkn-H8P1DOw
 https://delta9tatasky.akamaized.net/out/i/2100220.mpd
-
+#EXTM3U
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3220
+#EXTINF:-1,RMC 4K
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3881
+#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3221
+#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3222
+#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3223
+#EXTINF:-1,beIN SPORTS FullHD1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3224
+#EXTINF:-1,beIN SPORTS FullHD2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3225
+#EXTINF:-1,beIN SPORTS FullHD3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3226
+#EXTINF:-1,beIN SPORTS FullHD4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3227
+#EXTINF:-1,beIN SPORTS FullHD5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3228
+#EXTINF:-1,beIN SPORTS FullHD6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3230
+#EXTINF:-1,beIN SPORTS FullHD7
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3229
+#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3703
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/459
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/450
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/451
+#EXTINF:-1,beIN SPORTS1 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/452
+#EXTINF:-1,beIN SPORTS2 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/453
+#EXTINF:-1,beIN SPORTS3 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3875
+#EXTINF:-1,beIN SPORTS4 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/455
+#EXTINF:-1,beIN SPORTS5 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/456
+#EXTINF:-1,beIN SPORTS6 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/457
+#EXTINF:-1,beIN SPORTS7 H265
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/458
+#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/117
+#EXTINF:-1,AR; Sriea A hd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3877
+#EXTINF:-1,Duhok Sports HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3874
+#EXTINF:-1,beIN SPORTS News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2051
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/960
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3620
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3621
+#EXTINF:-1,beIN SPORTS PREMIUM1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/46
+#EXTINF:-1,beIN SPORTS PREMIUM2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/47
+#EXTINF:-1,beIN SPORTS PREMIUM3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/48
+#EXTINF:-1,beIN SPORTS 1HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/49
+#EXTINF:-1,beIN SPORTS 2HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/50
+#EXTINF:-1,beIN SPORTS 3HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/51
+#EXTINF:-1,beIN SPORTS 4HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/52
+#EXTINF:-1,beIN SPORTS 5HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/53
+#EXTINF:-1,beIN SPORTS 6HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/54
+#EXTINF:-1,beIN SPORTS 7HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/55
+#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3001
+#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3002
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2873
+#EXTINF:-1,beIN SPORTS PREMIUM1 SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/56
+#EXTINF:-1,beIN SPORTS PREMIUM2 SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/57
+#EXTINF:-1,beIN SPORTS PREMIUM3 SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/58
+#EXTINF:-1,beIN SPORTS 1SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/59
+#EXTINF:-1,beIN SPORTS 2SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/60
+#EXTINF:-1,beIN SPORTS 3SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/93
+#EXTINF:-1,beIN SPORTS 4SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/92
+#EXTINF:-1,beIN SPORTS 5SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/91
+#EXTINF:-1,beIN SPORTS 6SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/61
+#EXTINF:-1,beIN SPORTS 7SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1459
+#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/119
+#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/62
+#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/63
+#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3791
+#EXTINF:-1,beIN SPORTS 1 LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3792
+#EXTINF:-1,beIN SPORTS 2LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2108
+#EXTINF:-1,beIN SPORTS 4LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2109
+#EXTINF:-1,beIN SPORTS 5LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2110
+#EXTINF:-1,beIN SPORTS 6LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2111
+#EXTINF:-1,beIN SPORTS 7LOW
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2112
+#EXTINF:-1,Radio Bein 1 PR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3546
+#EXTINF:-1,Radio Bein 2 PR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3547
+#EXTINF:-1,Radio Bein 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3548
+#EXTINF:-1,Radio Bein 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3549
+#EXTINF:-1,Radio Bein 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3550
+#EXTINF:-1,Radio Bein 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3551
+#EXTINF:-1,Radio Bein 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3552
+#EXTINF:-1,Radio Bein 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3553
+#EXTINF:-1,Radio Bein 7
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3554
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/21
+#EXTINF:-1,AR:  beIN Outdoor
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/13
+#EXTINF:-1,AR:  beIN AMC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/14
+#EXTINF:-1,AR: beIN  Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/15
+#EXTINF:-1,AR: beIN  Gourmet
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/16
+#EXTINF:-1,AR: beIN Jeem HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/25
+#EXTINF:-1,AR: beIN Baraeem
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2028
+#EXTINF:-1,AR :beIN_BOOMERANG
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2945
+#EXTINF:-1,AR: beIN DTX
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2946
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3276
+#EXTINF:-1,AR: beIN BOXOFFICE HD2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3706
+#EXTINF:-1,AR: beIN BOXOFFICE HD3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3709
+#EXTINF:-1,•●★★--- MBC HD ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/125
+#EXTINF:-1,MYHD: MBC 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/845
+#EXTINF:-1,MYHD: MBC 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/846
+#EXTINF:-1,MYHD: MBC 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/847
+#EXTINF:-1,MYHD: MBC 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/848
+#EXTINF:-1,MYHD: MBC 5 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2114
+#EXTINF:-1,MYHD: MBC Bollywood HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/849
+#EXTINF:-1,MYHD: MBC Massr HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/850
+#EXTINF:-1,MYHD: MBC Masr 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/851
+#EXTINF:-1,MYHD: MBC Drama HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/852
+#EXTINF:-1,MYHD: MBC Action HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/853
+#EXTINF:-1,MYHD: MBC Max HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/854
+#EXTINF:-1,MYHD: MBC Iraq HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/855
+#EXTINF:-1,MYHD: MBC Drama+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/856
+#EXTINF:-1,MYHD: MBC+Variety HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/857
+#EXTINF:-1,MYHD: MBC Persia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3802
+#EXTINF:-1,MYHD: MBC Wanasah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3803
+#EXTINF:-1,AR: MBC FM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3737
+#EXTINF:-1,MYHD: FOX Rewayat HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/859
+#EXTINF:-1,MYHD: FOX Life HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/860
+#EXTINF:-1,MYHD: Family Movies HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/861
+#EXTINF:-1,MYHD: FOX Crime HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/862
+#EXTINF:-1,MYHD: Fox Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/863
+#EXTINF:-1,MYHD: Docu Box HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/865
+#EXTINF:-1,MYHD: Fox Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/867
+#EXTINF:-1,MYHD: Planet Earth HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/869
+#EXTINF:-1,MYHD: Discovery SC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/871
+#EXTINF:-1,MYHD: Gulli Arabic HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/872
+#EXTINF:-1,MYHD: Duck TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/874
+#EXTINF:-1,MBC_1 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2771
+#EXTINF:-1,MBC_2 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2772
+#EXTINF:-1,MBC_3 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2773
+#EXTINF:-1,MBC_4 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2774
+#EXTINF:-1,,MBC_5 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2775
+#EXTINF:-1,MBC_MAX sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2776
+#EXTINF:-1,MBC_ACTION sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2777
+#EXTINF:-1,MBC_DRAMA sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2778
+#EXTINF:-1,MBC_MASR sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2779
+#EXTINF:-1,MBC_MASR 2 sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2780
+#EXTINF:-1,MBC_FM_PANORAMA sd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2781
+#EXTINF:-1,•●★★--- OSN HD ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/124
+#EXTINF:-1,OSN YAHALA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/156
+#EXTINF:-1,OSN Ya Hala Cinema
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/161
+#EXTINF:-1,OSN:  AL YAWM HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2828
+#EXTINF:-1,OSN:  Alfa Fann
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2830
+#EXTINF:-1,OSN :MIX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3542
+#EXTINF:-1,OSN :POP UP HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3543
+#EXTINF:-1,OSN: TLC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3871
+#EXTINF:-1,OSN Star Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/159
+#EXTINF:-1,OSN Star World 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/160
+#EXTINF:-1,OSN: Star-Gold-HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3707
+#EXTINF:-1,OSN: E
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3284
+#EXTINF:-1,[OSN]  Planet Earth
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/968
+#EXTINF:-1,AR: OSN PLAY TRILLER HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/84
+#EXTINF:-1,OSN:  Nick Jr
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2172
+#EXTINF:-1, OSN Series HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3704
+#EXTINF:-1,AR: OSN SERIES FIRST HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/89
+#EXTINF:-1,[OSN] Mezze
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/975
+#EXTINF:-1,[OSN] OSN Boxoffice1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/973
+#EXTINF:-1,OSN OSN MOVIES BOX OFFICE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/971
+#EXTINF:-1, OSN MOVIES BOX OFFICE 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/981
+#EXTINF:-1,OSN Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/155
+#EXTINF:-1,[OSN] OSN Movies First
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/980
+#EXTINF:-1,[OSN] OSN PLAY TRILLER HD 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/977
+#EXTINF:-1,[OSN] FX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2826
+#EXTINF:-1,[OSN] OSN Kids
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/976
+#EXTINF:-1,[OSN] OSN PLAY PREMIERE 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/964
+#EXTINF:-1,[OSN] Movies firest
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2825
+#EXTINF:-1,[OSN] OSN Discovery H
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/969
+#EXTINF:-1,OSN: OSN BBC earth
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2831
+#EXTINF:-1,[OSN] OSN TRACE URBAN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/966
+#EXTINF:-1,[OSN] OSN Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/965
+#EXTINF:-1,OSN History Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/167
+#EXTINF:-1,OSN PLAY PREMIERE 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3705
+#EXTINF:-1,OSN Discovery Science 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/168
+#EXTINF:-1,OSN Series First 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/170
+#EXTINF:-1,OSN Movies Disney
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/171
+#EXTINF:-1, OSN: Disney Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/667
+#EXTINF:-1,OSN Disny Junior
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/162
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2832
+#EXTINF:-1,OSN: NICKELODEON HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3541
+#EXTINF:-1,OSN Movies +2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/153
+#EXTINF:-1,OSN Disney XD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2543
+#EXTINF:-1,[OSN] Alfa Mosalsalat
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/995
+#EXTINF:-1,AR: OSN Star Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/90
+#EXTINF:-1,OSN : ID
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/154
+#EXTINF:-1,OSN Nat Geo
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/157
+#EXTINF:-1,OSN Nat Geo Pepole
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/158
+#EXTINF:-1,OSN E
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/164
+#EXTINF:-1,OSN Discovery 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/165
+#EXTINF:-1,OSN  Movies First  
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/175
+#EXTINF:-1,OSN: Movies First  ++2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/738
+#EXTINF:-1,[OSN] Movies Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/963
+#EXTINF:-1,[OSN] wwe
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/994
+#EXTINF:-1,[OSN] Food
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/993
+#EXTINF:-1,[OSN] Alfa Cinema 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/991
+#EXTINF:-1,[OSN] Alfa Cinema 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/992
+#EXTINF:-1,[OSN] SYFY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/990
+#EXTINF:-1,[OSN] OSN Ya Hala Aloula
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/988
+#EXTINF:-1,[OSN] : enigma
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/987
+#EXTINF:-1,[OSN] OSN Animal Planet
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/962
+#EXTINF:-1,[OSN] OSN Nat Geo Abudhabi
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/983
+#EXTINF:-1,[OSN] OSN Nat Geo Wild
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/982
+#EXTINF:-1,[OSN] nickToons
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/979
+#EXTINF:-1,[OSN] OSN ON DEMANDE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/974
+#EXTINF:-1,OSN: Nickelodeon HD AR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2829
+#EXTINF:-1,AR: OSN Nat Geo SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/85
+#EXTINF:-1,AR: OSN Alyoum
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/86
+#EXTINF:-1,AR: OSN Nat Geo pepole 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/88
+#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/513
+#EXTINF:-1,KAICER BOX OFFICE 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/494
+#EXTINF:-1,KAICER BOX OFFICE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/512
+#EXTINF:-1,KAICER BOX OFFICE 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/515
+#EXTINF:-1,KAICER BOX OFFICE 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/514
+#EXTINF:-1,KAICER BOX OFFICE 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/516
+#EXTINF:-1,KAICER BOX OFFICE 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2465
+#EXTINF:-1,KAICER BOX OFFICE 7
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2466
+#EXTINF:-1,KAICER BOX Hendi 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1476
+#EXTINF:-1,KAICER BOX ARAB 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1477
+#EXTINF:-1,KAICER BOX ARAB 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1478
+#EXTINF:-1,KAICER BOX ARAB 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1479
+#EXTINF:-1,KAICER BOX ARAB 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1480
+#EXTINF:-1,[NETFLIX] Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2418
+#EXTINF:-1,[NETFLIX] Thriller
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2419
+#EXTINF:-1,[NETFLIX] SCi-Fi
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2420
+#EXTINF:-1,[NETFLIX] Hendy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2421
+#EXTINF:-1,[NETFLIX] Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2422
+#EXTINF:-1,NETFLIX_Comedy+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2505
+#EXTINF:-1,NETFLIX_SCI FI
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2506
+#EXTINF:-1,NETFLIX_HOME_CINEMA_1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2507
+#EXTINF:-1,NETFLIX N action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2463
+#EXTINF:-1,Netflex Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2116
+#EXTINF:-1,Netflix SCF FI
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2041
+#EXTINF:-1,Netflix Kids
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2042
+#EXTINF:-1,Netflix Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2043
+#EXTINF:-1,Netflix Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2044
+#EXTINF:-1,NETFLIX  ACTION
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2047
+#EXTINF:-1,Netflix Comedy 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2346
+#EXTINF:-1,NETFLIX_DRAMA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2347
+#EXTINF:-1,NETFLIX ANIMATION HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2349
+#EXTINF:-1,Netflix Horror 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2350
+#EXTINF:-1,Netflix Bollywood
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2351
+#EXTINF:-1,NETFLIX_Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2357
+#EXTINF:-1,NETFLIX_THRILLER
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2358
+#EXTINF:-1,AR: Netflix Series
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3410
+#EXTINF:-1,AR: NETFLIX JR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3416
+#EXTINF:-1,AR: Netflix documentary
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3417
+#EXTINF:-1,AR: NETFLIX COMEDY +2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3422
+#EXTINF:-1,AR: Netflix Horror+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3429
+#EXTINF:-1,AR: NETFLIX Kids +1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3436
+#EXTINF:-1,AR: Netflix KIDS +2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3437
+#EXTINF:-1,AR: NETFLIX ARABIC 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3718
+#EXTINF:-1,AR: NETFLIX ARABIC 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3719
+#EXTINF:-1,AR: Netflix Romance HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3724
+#EXTINF:-1,Netflix+ Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3536
+#EXTINF:-1,Netflix +Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3537
+#EXTINF:-1,Netflix+ Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3538
+#EXTINF:-1,NETFLIX+ HORROR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3539
+#EXTINF:-1,shahid TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2464
+#EXTINF:-1,[Shahid Action]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2423
+#EXTINF:-1,[Shahid Aflam]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2424
+#EXTINF:-1,[Shahid Aflam2]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2425
+#EXTINF:-1,[Shahid HINDI]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2426
+#EXTINF:-1,[Shahid HORROR]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2427
+#EXTINF:-1,[Shahid action 2]
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2428
+#EXTINF:-1,AR:SHAHID_ِAflam5+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3250
+#EXTINF:-1,AR:SHAHID_Aflam4+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3251
+#EXTINF:-1,AR:SHAHID_Aflam3+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3252
+#EXTINF:-1,AR:SHAHID Aflam2+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3253
+#EXTINF:-1,AR:SHAHID Aflam1+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3254
+#EXTINF:-1,Alkaicer Action Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2398
+#EXTINF:-1,Alkaicer B-Cinema
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2399
+#EXTINF:-1,Alkaicer Box-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2400
+#EXTINF:-1,Alkaicer Comedy-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2401
+#EXTINF:-1,Alkaicer Disney-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2402
+#EXTINF:-1,Alkaicer  Cinema_One
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2403
+#EXTINF:-1,Alkaicer Famely-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2404
+#EXTINF:-1,Alkaicer KidsCo-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2405
+#EXTINF:-1,Alkaicer MasterPiece-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2406
+#EXTINF:-1,Alkaicer Premiere-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2407
+#EXTINF:-1,Alkaicer Thriller-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2408
+#EXTINF:-1,Alkaicer W-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2409
+#EXTINF:-1,Alkaicer The-Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2410
+#EXTINF:-1,Alkaicer The-Movies2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2411
+#EXTINF:-1,TOM &JERRY LIVE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2819
+#EXTINF:-1,Tom & Jerry TV 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3656
+#EXTINF:-1,SHAHID_CARTON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2928
+#EXTINF:-1,SHAHID_ZAMAN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2929
+#EXTINF:-1,SHAHID_ROAP
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2930
+#EXTINF:-1,SHAHID_ACTION
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2931
+#EXTINF:-1,Majestic movies3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3009
+#EXTINF:-1,Majestic Classic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3011
+#EXTINF:-1,Majestic cinema1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3014
+#EXTINF:-1,majestic cinema2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3015
+#EXTINF:-1,fushar-action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2978
+#EXTINF:-1,Egy Best Arabic Film
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3507
+#EXTINF:-1,HOME CINEMA 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3508
+#EXTINF:-1,HOME CINEMA 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3509
+#EXTINF:-1,HOME CINEMA 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3510
+#EXTINF:-1,HOME CINEMA 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3511
+#EXTINF:-1,HOME CINEMA 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3512
+#EXTINF:-1,HOME CINEMA 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3513
+#EXTINF:-1,Aroma Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3514
+#EXTINF:-1,Aroma Arabic Films
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3515
+#EXTINF:-1,Aroma Kids
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3516
+#EXTINF:-1,Aroma Discovery
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3517
+#EXTINF:-1,Aroma Drama Films
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3518
+#EXTINF:-1,Aroma Masra7yat
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3519
+#EXTINF:-1,Aroma Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3520
+#EXTINF:-1,Aroma Zaman
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3521
+#EXTINF:-1,Aroma WWE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3522
+#EXTINF:-1,Box Office 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3523
+#EXTINF:-1,Box Office 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3524
+#EXTINF:-1,Box Office 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3525
+#EXTINF:-1,Box Office 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3526
+#EXTINF:-1,beOUT Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3580
+#EXTINF:-1,beOUT Arabia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3581
+#EXTINF:-1,beOUT Cinema
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3582
+#EXTINF:-1,Casper Action 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3886
+#EXTINF:-1,Casper Action 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3887
+#EXTINF:-1,Casper Action 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3888
+#EXTINF:-1,Casper Anime
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3889
+#EXTINF:-1,Casper Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3890
+#EXTINF:-1,Casper Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3891
+#EXTINF:-1,Casper Documentary
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3892
+#EXTINF:-1,Casper Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3893
+#EXTINF:-1,Casper Turki مدبلج
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3894
+#EXTINF:-1,Casper horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3895
+#EXTINF:-1,AR: RADIO FAIROUZ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3529
+#EXTINF:-1,AR: RADIO CLASSIC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3530
+#EXTINF:-1,AR: RADIO ZAMAN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3531
+#EXTINF:-1,AR: RADIO AMR DIAB
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3532
+#EXTINF:-1,AR: RADIO GEORGE WASOUF
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3533
+#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3534
+#EXTINF:-1,AR: RADIO UMM KULTHUM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3535
+#EXTINF:-1,best tv movies ch
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3555
+#EXTINF:-1,Majestic Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3556
+#EXTINF:-1,Majestic Cinema
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3557
+#EXTINF:-1,Majestic Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3558
+#EXTINF:-1,Mix Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3559
+#EXTINF:-1,Mix Cimena
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3560
+#EXTINF:-1,Mix Crime
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3561
+#EXTINF:-1,Mix Mystery
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3562
+#EXTINF:-1,Mix Sport Movies
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3563
+#EXTINF:-1,Dragon Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3564
+#EXTINF:-1,Dragon Fantasia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3565
+#EXTINF:-1,Dragon Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3566
+#EXTINF:-1,Dragon Western
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3567
+#EXTINF:-1,Dragon Classic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3568
+#EXTINF:-1,Amazon Prime WAR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3569
+#EXTINF:-1,Amazon Prime Thriller
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3570
+#EXTINF:-1,Amazon Prime KIDS
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3571
+#EXTINF:-1,Amazon Prime Adventure
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3572
+#EXTINF:-1,Amazon Prime Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3573
+#EXTINF:-1,iflix Arabia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3574
+#EXTINF:-1,iflix Turk
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3575
+#EXTINF:-1,iflix Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3576
+#EXTINF:-1,iflix Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3577
+#EXTINF:-1,iflix moudablaj
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3578
+#EXTINF:-1,iflix Prime
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3579
+#EXTINF:-1,Masr7 Masr (مسرح مصر)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3583
+#EXTINF:-1,Scare tv
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3585
+#EXTINF:-1,ShowTime1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3586
+#EXTINF:-1,showTime2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3587
+#EXTINF:-1,sarhan ACTION
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3590
+#EXTINF:-1,sarhan CLASSIC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3591
+#EXTINF:-1,ON Asia HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3592
+#EXTINF:-1,ON Horror HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3593
+#EXTINF:-1,ON Series HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3594
+#EXTINF:-1,ON comedy HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3595
+#EXTINF:-1,ON Docunentary HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3596
+#EXTINF:-1,ON LOVEH HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3597
+#EXTINF:-1,ON Turkey HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3598
+#EXTINF:-1,ON Arabic HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3599
+#EXTINF:-1,ON 2K Cinema HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3600
+#EXTINF:-1,ON Cartoon Zaman HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3601
+#EXTINF:-1,ON SCIFI HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3602
+#EXTINF:-1,ON Movies HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3603
+#EXTINF:-1,HULU Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3695
+#EXTINF:-1,HUlu Box-office
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3696
+#EXTINF:-1,Hulu Arabia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3697
+#EXTINF:-1,Hulu Bollywood
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3698
+#EXTINF:-1,AR: NETFLIX DISNEY 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3726
+#EXTINF:-1,AR: SKY FLIX ACTION
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3727
+#EXTINF:-1,AR: SKY FLIX AFLAM 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3728
+#EXTINF:-1,AR: SKY FLIX AFLAM 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3729
+#EXTINF:-1,AR: SKY FLIX DRAMA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3730
+#EXTINF:-1,AR: SKY FLIX COMEDY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3731
+#EXTINF:-1,AR: SKY FLIX HORROR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3732
+#EXTINF:-1,AR: SKY FLIX BOX OFFICE 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3733
+#EXTINF:-1,AR: SKY FLIX BOXOFFICE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3734
+#EXTINF:-1,AR: SKY FLIX BOLLYWOODY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3735
+#EXTINF:-1,AR: SKY FLIX ANIME 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3736
+#EXTINF:-1,SKYFLIX 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3691
+#EXTINF:-1,SKYFLIX 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3692
+#EXTINF:-1,SKYFLIX 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3693
+#EXTINF:-1,SKYFLIX 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3694
+#EXTINF:-1,AR: Shahid VIP Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3722
+#EXTINF:-1,AR: Shahid VIP Horror
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3723
+#EXTINF:-1,AR: Shahid VIP INDIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3714
+#EXTINF:-1,AR: Shahid VIP Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3715
+#EXTINF:-1,AR: Shahid VIP TURKISH
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3716
+#EXTINF:-1,AR: Shahid VIP Action
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3713
+#EXTINF:-1,AR:Shahid VIP Documentary
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3717
+#EXTINF:-1,AR: Shahid VIP Wild
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3720
+#EXTINF:-1,AR: Shahid VIP Anime
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3721
+#EXTINF:-1,AR: Shahid VIP WAR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3725
+#EXTINF:-1,•●★★--- ART Channels ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/122
+#EXTINF:-1,AR: ART Aflam 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/997
+#EXTINF:-1,AR: ART Aflam  2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/102
+#EXTINF:-1,AR: ART Cinema
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/103
+#EXTINF:-1,AR: ART Hekayat 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/104
+#EXTINF:-1,AR: ART Hekayat 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/105
+#EXTINF:-1,•●★★--- KIDS ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1009
+#EXTINF:-1,AR: hodhod
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1010
+#EXTINF:-1,AR: Cartoon Network
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1011
+#EXTINF:-1,AR: PBS Kids 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1012
+#EXTINF:-1,AR: Sky KIDS1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1013
+#EXTINF:-1,AR: KARAMEESH
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1014
+#EXTINF:-1,AR: Kooky
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1015
+#EXTINF:-1,AR: Toyor Al Ganna
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1020
+#EXTINF:-1,AR: Maged
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1019
+#EXTINF:-1,AR: Spacetoon
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1017
+#EXTINF:-1,AR: Mwaheb
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1016
+#EXTINF:-1,•●★★--- NEWS ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/998
+#EXTINF:-1,AR: Al Jazeera
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/999
+#EXTINF:-1,AR: Al Jazeera Documentry
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1000
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3208
+#EXTINF:-1,AR: AlJazeera-English
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3209
+#EXTINF:-1,AR: AlJazeera Eng
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3210
+#EXTINF:-1,AR: Al Jazeera FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1003
+#EXTINF:-1,AR: Al ALArabiya
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1001
+#EXTINF:-1,AR: Al ALArabiya Alhadaath
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1002
+#EXTINF:-1,AR: BBC Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1005
+#EXTINF:-1,AR: RT News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1008
+#EXTINF:-1,AR: Sky News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1007
+#EXTINF:-1,AR: TRT-ELARABIYE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1006
+#EXTINF:-1,AR: RT Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1004
+#EXTINF:-1, AR: FR 24 arabic HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3206
+#EXTINF:-1,AR: DW Arabic
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3207
+#EXTINF:-1,AR:  Alhurra
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3211
+#EXTINF:-1,CNN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3212
+#EXTINF:-1,France 24 (En Francais)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3213
+#EXTINF:-1,AR:Houra News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3214
+#EXTINF:-1,•●★★--- Rotana ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/176
+#EXTINF:-1,AR:Rotana Cinema 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/106
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/107
+#EXTINF:-1,AR:Rotana Aflam
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/108
+#EXTINF:-1,AR: Rotana  Comedy 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/109
+#EXTINF:-1,AR: Rotana Classic 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/110
+#EXTINF:-1,AR: Rotana Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3215
+#EXTINF:-1,AR: Rotana Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3216
+#EXTINF:-1,AR: Rotana Clip
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3217
+#EXTINF:-1,AR: Rotana Kids HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3469
+#EXTINF:-1,AR: Rotana Khaliji
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3218
+#EXTINF:-1,•●★★--- Egypt ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/511
+#EXTINF:-1,AR: ON Time Sport 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2397
+#EXTINF:-1,AR: ON Time Sport 1HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/507
+#EXTINF:-1,AR: ON Time Sport 2 SD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2396
+#EXTINF:-1,AR: ON Time Sport 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/949
+#EXTINF:-1,AR: Time Sport
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/951
+#EXTINF:-1,AR: Alahly
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/952
+#EXTINF:-1,AR: Zamalek TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2068
+#EXTINF:-1,AR: :Al Oula
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3655
+#EXTINF:-1,AR:  Sada Elbabad
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/495
+#EXTINF:-1,AR:  Nile Sport
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/496
+#EXTINF:-1,AR:  Nile Comedy
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/497
+#EXTINF:-1,AR: Nile News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/498
+#EXTINF:-1,AR: D Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/499
+#EXTINF:-1,AR:CBC Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/500
+#EXTINF:-1,AR:CBC Sofra
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/501
+#EXTINF:-1,AR:CBC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/502
+#EXTINF:-1,AR:DMC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/503
+#EXTINF:-1,AR:Alnahar
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/504
+#EXTINF:-1,AR: ALnahar Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/505
+#EXTINF:-1,AR: ON Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/506
+#EXTINF:-1,AR: ON E
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/508
+#EXTINF:-1,AR: Alhayah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/509
+#EXTINF:-1,AR:  Maspero-Zaman
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/950
+#EXTINF:-1,AR: Mehwar
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/510
+#EXTINF:-1,AR : Zee Alwan
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3308
+#EXTINF:-1,AR : ZEE AFLAM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3309
+#EXTINF:-1,•●★★--- SUDAN ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3158
+#EXTINF:-1,AR: SUDAN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3142
+#EXTINF:-1,AR: Sudan AlIstijaba
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3143
+#EXTINF:-1,AR: Sudan Ashorooq
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3144
+#EXTINF:-1,AR: Sudan BlueNile
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3145
+#EXTINF:-1,AR: Sudan Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3146
+#EXTINF:-1,AR: Sudan Jazeera_Green
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3147
+#EXTINF:-1,AR: Sudan Kassala
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3148
+#EXTINF:-1,AR: Sudan Khartoum
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3149
+#EXTINF:-1,AR: Sudan Knowledge
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3150
+#EXTINF:-1,AR: Sudan Monwaat
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3151
+#EXTINF:-1,AR: Sudan Music
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3152
+#EXTINF:-1,AR: Sudan OmDorman
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3153
+#EXTINF:-1,AR: Sudan Sport HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3155
+#EXTINF:-1,AR: Sudan Tybah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3156
+#EXTINF:-1,AR: Sudania 24
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3157
+#EXTINF:-1,•●★★--- PALESTINE ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/493
+#EXTINF:-1,AR: betlahem 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2843
+#EXTINF:-1,AR: Betlahem 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2842
+#EXTINF:-1,AR: FajerTV1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/584
+#EXTINF:-1,AR: FajerTV2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/587
+#EXTINF:-1,AR: palastine  live
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/590
+#EXTINF:-1,AR: FajerTV 1 1080
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/593
+#EXTINF:-1,AR: radio marah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/596
+#EXTINF:-1,AR: Raya
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/481
+#EXTINF:-1,AR: Ajyal
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/482
+#EXTINF:-1,Al nagah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/483
+#EXTINF:-1,AR: Palastine Sport 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3314
+#EXTINF:-1,AR: HalowTV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3316
+#EXTINF:-1,AR: Palstine Today
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/486
+#EXTINF:-1,AR: Aqsa tv
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2944
+#EXTINF:-1,AR: nablus live
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3045
+#EXTINF:-1,AR: You sat
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/448
+#EXTINF:-1,AR: Fajr 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/449
+#EXTINF:-1,•●★★--- LIBYA ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3141
+#EXTINF:-1,[LIB] Libya Sport Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3455
+#EXTINF:-1,AR: Libya Sport 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3652
+#EXTINF:-1,AR: LIBYA 218 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3128
+#EXTINF:-1,AR: Libya 218 News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3129
+#EXTINF:-1,AR: Libya AlAhrar
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3130
+#EXTINF:-1,AR: Libya Alhadath
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3131
+#EXTINF:-1,AR: Lpc
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3132
+#EXTINF:-1,AR: Libya Alwatanya
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3133
+#EXTINF:-1,AR: Libya elwatan
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3134
+#EXTINF:-1,AR: Libya 218 News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3135
+#EXTINF:-1,AR: LIBYA WTV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3136
+#EXTINF:-1,AR: Libya 218
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3137
+#EXTINF:-1,AR: Libya Tanasuh
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3138
+#EXTINF:-1,AR: Libya Waad
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3139
+#EXTINF:-1,AR: Libyas Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3140
+#EXTINF:-1,•●★★--- MAROC ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/725
+#EXTINF:-1, MA:ALOULA INT 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/726
+#EXTINF:-1, MA:ALMAGHRIBIA 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/727
+#EXTINF:-1, MA:2M 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/728
+#EXTINF:-1, MA: CHADA TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/729
+#EXTINF:-1, MA:ASSADISA 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/730
+#EXTINF:-1, MA: telemaroc 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/733
+#EXTINF:-1, MA:ARRIADIA 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/731
+#EXTINF:-1, MA:MEDI1 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/732
+#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/734
+#EXTINF:-1, MA:TELE MAROC 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/735
+#EXTINF:-1, MA:TAMAZIGHT 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/736
+#EXTINF:-1,AR: Alrrabia FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3107
+#EXTINF:-1,AR: AL MAGHRIBIA 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3109
+#EXTINF:-1,AR: AL MAGHRIBIA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3110
+#EXTINF:-1,AR: Assadissa FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3111
+#EXTINF:-1,AR: Assadissa
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3112
+#EXTINF:-1,AR: Assabiaa FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3113
+#EXTINF:-1,AR: Tamazight HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3114
+#EXTINF:-1,AR: Medi1 Afrique FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3115
+#EXTINF:-1,•●★★--- TUNISIA ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/889
+#EXTINF:-1,AR: Baya TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3878
+#EXTINF:-1,TN:WATANIA1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/890
+#EXTINF:-1,TN:WATANIA2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/891
+#EXTINF:-1,TN:ELHIWAR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/892
+#EXTINF:-1,TN:NESSMA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/893
+#EXTINF:-1,Tunisia Carthage
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2541
+#EXTINF:-1,TN:HANNIBAL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/894
+#EXTINF:-1,TN:ATTESIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/895
+#EXTINF:-1,TN:MTUNISIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/896
+#EXTINF:-1,TN:TELEVISION1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/903
+#EXTINF:-1,TN:SAHELTV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/905
+#EXTINF:-1,TN:ALMOSTKELLA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/902
+#EXTINF:-1,TN:ALINSEN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/901
+#EXTINF:-1,TN:ZAYTOUNA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/900
+#EXTINF:-1,TN:TELVZATV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/899
+#EXTINF:-1,TN:JANOUBIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/898
+#EXTINF:-1,TN:TOUNESNA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/897
+#EXTINF:-1,•●★★--- ALGERIA ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/906
+#EXTINF:-1,Algerian:CANAL ALGERIE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/907
+#EXTINF:-1,Algerian:ALGERIE3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/908
+#EXTINF:-1,Algerian:shababia 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/909
+#EXTINF:-1,Algerian:ECHOUROUK
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/911
+#EXTINF:-1,Algerian:DJAZAIRIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/910
+#EXTINF:-1,Algerian:Echorouk BENNA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/912
+#EXTINF:-1,Algerian:Dzair 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/913
+#EXTINF:-1,Algerian:SAMIRA TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/915
+#EXTINF:-1,Algerian:ENTV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/917
+#EXTINF:-1,Algerian:Bahia Tv
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/946
+#EXTINF:-1,Algerian:TV BERBERE HD*
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/945
+#EXTINF:-1,Algerian:BEUR TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/918
+#EXTINF:-1,Algerian:ALHADEF
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/919
+#EXTINF:-1,AL MAGHRIBIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/943
+#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/941
+#EXTINF:-1,Algerian:ELHAYA-ALGERIE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/938
+#EXTINF:-1,Algerian: ENNAHAR TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/935
+#EXTINF:-1,Algerian:Awrass  TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/932
+#EXTINF:-1,Algerian: El-Heddaf.TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/933
+#EXTINF:-1,Algerian: BAHIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/931
+#EXTINF:-1,Algerian: Samira
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/927
+#EXTINF:-1,Algerian:ENNAHAR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/924
+#EXTINF:-1,Algerian:Numidia--TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/922
+#EXTINF:-1,Algerian:ECHOUROUK News TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/923
+#EXTINF:-1,Algerian-ELBILAD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/926
+#EXTINF:-1,Algerian:Algeria-DZAIR 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/925
+#EXTINF:-1,Algerian: ALGERIE3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/928
+#EXTINF:-1,Algerian: ALGERIE4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/929
+#EXTINF:-1,Algerian: ALGERIE5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/930
+#EXTINF:-1,•●★★--- SYRIA --★★●• 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1999
+#EXTINF:-1,SY: SYRIA. ALOULA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2000
+#EXTINF:-1,SY: SYRIA.DRAMA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2001
+#EXTINF:-1,Syr-Sama-TV+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2002
+#EXTINF:-1,SY: LANA Tv
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2003
+#EXTINF:-1,SY: Sama.alsham
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2013
+#EXTINF:-1,SY: SYRIA-TV2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2005
+#EXTINF:-1,SY: NOUREL SHAM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2012
+#EXTINF:-1,SY: Halab-Today
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2011
+#EXTINF:-1,SY: Al.KhabarTV HD*
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2010
+#EXTINF:-1,SY:  LANA Tv HD*
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2009
+#EXTINF:-1,SY: Syria Education Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2004
+#EXTINF:-1,SY: Syria alyoum
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2008
+#EXTINF:-1,SY: SYRIA.ALIKHBARIA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2006
+#EXTINF:-1,==== IRAQ =====
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3075
+#EXTINF:-1,AR: AL HURRA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3076
+#EXTINF:-1,AR:Al Iraqiya
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3079
+#EXTINF:-1,AR:Al Iraqiya News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3080
+#EXTINF:-1,AR:Al Al Rafidain
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3081
+#EXTINF:-1,AR:Al Sharqiya News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3083
+#EXTINF:-1,AR:Babylon TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3085
+#EXTINF:-1,AR: News Dijlah
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3086
+#EXTINF:-1,AR:Dijlah Tarab
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3087
+#EXTINF:-1,AR:KurdMax
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3088
+#EXTINF:-1,AR:Kurdistan TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3089
+#EXTINF:-1,AR Rudaw TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3091
+#EXTINF:-1,•●★★--- Lebanon ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3043
+#EXTINF:-1,LBC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3025
+#EXTINF:-1,LBCI.International
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3026
+#EXTINF:-1,LDC LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3027
+#EXTINF:-1,LEBANON TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3028
+#EXTINF:-1,MTV LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3029
+#EXTINF:-1,HAWACOM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3030
+#EXTINF:-1,FUTURE LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3031
+#EXTINF:-1,NBN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3032
+#EXTINF:-1,AL MAYADEEN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3033
+#EXTINF:-1,AL MANAR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3034
+#EXTINF:-1,AGHANI AGHANI
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3035
+#EXTINF:-1,NOURSAT LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3036
+#EXTINF:-1,NOUR AL SHAM
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3037
+#EXTINF:-1,AL JADEED LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3038
+#EXTINF:-1,AL EKHBARIYA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3039
+#EXTINF:-1,OTV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3040
+#EXTINF:-1,ARABICA MUSIC LEBANON
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3042
+#EXTINF:-1,•●★★--- World  ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/123
+#EXTINF:-1,Smart Sport ((كاس الاتحاد الاسيوي))
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3779
+#EXTINF:-1,AR: AD Sport 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/112
+#EXTINF:-1,AR: AD Sport 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/113
+#EXTINF:-1,AR: AD Sport 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/114
+#EXTINF:-1,AR: AD Sport 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/115
+#EXTINF:-1,AR: SSC1  Sport HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3833
+#EXTINF:-1,AR: SSC Sport 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3834
+#EXTINF:-1,AR: SSC Sport 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3835
+#EXTINF:-1,AR: SSC Sport 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3836
+#EXTINF:-1,AR: SSC Sport 5 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3837
+#EXTINF:-1,Ar: SSC Sport 6 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3838
+#EXTINF:-1,AR: SSC Sport 7 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3839
+#EXTINF:-1,AR: KSA Sports 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2053
+#EXTINF:-1,AR: KSA Sports 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2054
+#EXTINF:-1,AR: KSA SPORTS 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2055
+#EXTINF:-1,AR: ksa Sport 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2056
+#EXTINF:-1,AR: Sharjah Sports TV FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3233
+#EXTINF:-1,AR: Alkass 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1461
+#EXTINF:-1,AR: Alkass 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1462
+#EXTINF:-1,AR: Alkass 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1463
+#EXTINF:-1,AR: Alkass 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1464
+#EXTINF:-1,IR: Varzesh
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2113
+#EXTINF:-1,Arena Sport 2 (Serb)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1466
+#EXTINF:-1,Arena Sport 3 (Serb
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1467
+#EXTINF:-1,Arena Sport 4 (Serb
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1468
+#EXTINF:-1,Arena Sport 5 (Serb)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1469
+#EXTINF:-1,Arena Sport 1 (Serb)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1465
+#EXTINF:-1,PT: Sport TV 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2165
+#EXTINF:-1,PT: Sport TV 1 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2166
+#EXTINF:-1,PT: Sport TV 2 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2167
+#EXTINF:-1,PT: Sport TV 3 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2168
+#EXTINF:-1,PT: Sport TV 4 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2169
+#EXTINF:-1,PT:  Sport TV 5 HD 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2170
+#EXTINF:-1,MATCH 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2837
+#EXTINF:-1,TRT Sport HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2839
+#EXTINF:-1,RAI 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2836
+#EXTINF:-1,BT SPORT 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2840
+#EXTINF:-1,ZA: SuperSport Action HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3060
+#EXTINF:-1,ZA: SuperSport Cricket HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3061
+#EXTINF:-1,ZA: SuperSport Football HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3062
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3064
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3063
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3065
+#EXTINF:-1,ZA: SuperSport Maximo 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3066
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3067
+#EXTINF:-1,ZA: SuperSport PSL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3068
+#EXTINF:-1,ZA: SuperSport Tennis FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3069
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3070
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3072
+#EXTINF:-1,ARGENTINA: TYC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3073
+#EXTINF:-1,POL: CANAL_SPORT
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3159
+#EXTINF:-1,AL: TRING_SPORT_1HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3169
+#EXTINF:-1,AL: TRING_SPORT_2HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3170
+#EXTINF:-1,AL: TRING_SPORT_3HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3171
+#EXTINF:-1,AL: TRING_SPORT_4HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3172
+#EXTINF:-1,AL:SUPER SPORT 1 NEWS
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3173
+#EXTINF:-1,AL:SUPER SPORT 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3174
+#EXTINF:-1,AL:SUPER SPORT 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3175
+#EXTINF:-1,AL:SUPER SPORT 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3176
+#EXTINF:-1,AL: EXPLORER_NATYRA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3177
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3279
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3280
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3281
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3282
+#EXTINF:-1,NL:Ziggo Sport Voetbal 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3544
+#EXTINF:-1,NL:Ziggo Sport Select HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3545
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3445
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3446
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3447
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3448
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3449
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3450
+#EXTINF:-1,ZDF HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3460
+#EXTINF:-1,20 Mediaset
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3461
+#EXTINF:-1,Italia 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3462
+#EXTINF:-1,•●★★--- France ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/478
+#EXTINF:-1,|FR| CANAL FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1022
+#EXTINF:-1,|FR| CANAL CINEMA FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1023
+#EXTINF:-1,|FR| CANAL DECALE FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1024
+#EXTINF:-1,|FR| CANAL SERIES FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1026
+#EXTINF:-1,|FR| CANAL FAMILY FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1025
+#EXTINF:-1,|FR| CANAL SPORT FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1027
+#EXTINF:-1,|FR| CINE+ CLASSIC FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1028
+#EXTINF:-1,|FR| CINE+ CLUB FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1029
+#EXTINF:-1,|FR| CINE+ EMOTION FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1030
+#EXTINF:-1,|FR| CINE+ FAMIZ FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1031
+#EXTINF:-1,|FR| CINE+ FRISSON FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1032
+#EXTINF:-1,|FR| CINE+ ¨POLAR FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1033
+#EXTINF:-1,|FR| CINE+ PREMIER FIHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1034
+#EXTINF:-1,|FR| TF1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1035
+#EXTINF:-1,|FR| TF1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1036
+#EXTINF:-1,|FR| M6 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1037
+#EXTINF:-1,|FR| M6 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1038
+#EXTINF:-1,|FR| W9 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1039
+#EXTINF:-1,|FR| ARTE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1041
+#EXTINF:-1,|FR| RMC STORY FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1042
+#EXTINF:-1,|FR| FRANCE O HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1044
+#EXTINF:-1,|FR| FRANCE 2  FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1045
+#EXTINF:-1,|FR| RMC STORY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1043
+#EXTINF:-1,|FR| W9 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1040
+#EXTINF:-1,|FR| FRANCE 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1046
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1047
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1048
+#EXTINF:-1,|FR| FRANCE 4 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1049
+#EXTINF:-1,|FR| FRANCE 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1050
+#EXTINF:-1,|FR| FRANCE 5 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1051
+#EXTINF:-1,|FR| FRANCE 5 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1052
+#EXTINF:-1,|FR| TFX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1053
+#EXTINF:-1,|FR| CNEWS FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1055
+#EXTINF:-1,|FR| BFM TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1056
+#EXTINF:-1,|FR| TMC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1054
+#EXTINF:-1,|FR| EURONEWS
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1057
+#EXTINF:-1,|FR| FRANCE 24
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1058
+#EXTINF:-1,|FR| TV5 MONDE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1059
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1073
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1074
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1075
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1076
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1077
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1078
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1079
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1080
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1081
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1083
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1084
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1085
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1086
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1082
+#EXTINF:-1,|FR| EXTREME SPORT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1087
+#EXTINF:-1,|FR| EUROSPORT 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1088
+#EXTINF:-1,|FR| EUROSPORT 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1089
+#EXTINF:-1,|FR| FOOT+ 24/24
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1090
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1091
+#EXTINF:-1,|FR| GOLF+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1092
+#EXTINF:-1,|FR| OL TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1093
+#EXTINF:-1,|FR| INFOSPORT+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1094
+#EXTINF:-1,|FR| RMC NEWS SPORT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1095
+#EXTINF:-1,|FR| EQUIDIA LIVE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1096
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1097
+#EXTINF:-1,|FR| AUTO MOTO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1098
+#EXTINF:-1,|FR| KOMBAT SPORT
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1099
+#EXTINF:-1,|FR| CANAL+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1100
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1101
+#EXTINF:-1,|FR| CANAL+  CINEMA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1102
+#EXTINF:-1,|FR| CANAL+ SERIE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1104
+#EXTINF:-1,|FR| CANAL+ SERIES HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1103
+#EXTINF:-1,|FR| CANAL+  FAMILY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1105
+#EXTINF:-1,|FR| CANAL+  FAMILY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1106
+#EXTINF:-1,|FR| CANAL+  DECALE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1107
+#EXTINF:-1,|FR| CANAL+  DECALE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1108
+#EXTINF:-1,|FR| CANAL+  SPORT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1109
+#EXTINF:-1,|FR| OCS MAX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1110
+#EXTINF:-1,|FR| OCS GEANT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1111
+#EXTINF:-1,|FR| OCS CITY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1113
+#EXTINF:-1,|FR| CINE+  PREMIER
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1114
+#EXTINF:-1,|FR| CINE+  PREMIER HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1115
+#EXTINF:-1,|FR| OCS CHOC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1112
+#EXTINF:-1,|FR| CINE+  FRISSON HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1116
+#EXTINF:-1,|FR| CINE+  FAMIZ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1117
+#EXTINF:-1,|FR| CINE+  EMOTION HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1118
+#EXTINF:-1,|FR| CINE CLASSIC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1119
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1120
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1121
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1123
+#EXTINF:-1,|FR| TCM CINEMA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1124
+#EXTINF:-1,|FR| ACTION HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1125
+#EXTINF:-1,|FR| E! HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1126
+#EXTINF:-1,|FR| BET HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1127
+#EXTINF:-1,|FR| COMEDIE+ FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1129
+#EXTINF:-1,|FR| COMEDIE+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1130
+#EXTINF:-1,|FR| MCM HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1128
+#EXTINF:-1,|FR| SYFY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1131
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1132
+#EXTINF:-1,|FR| TV BREIZH FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1133
+#EXTINF:-1,|FR| TV BREIZH HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1134
+#EXTINF:-1,|FR| RTL9 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1135
+#EXTINF:-1,|FR| TEVA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1136
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1137
+#EXTINF:-1,|FR| 13EME RUE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1138
+#EXTINF:-1,|FR| AB1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1140
+#EXTINF:-1,|FR| AB1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1141
+#EXTINF:-1,|FR| AB3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1142
+#EXTINF:-1,|FR| MTV FRANCE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1139
+#EXTINF:-1,|FR| J ONE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1143
+#EXTINF:-1,|FR| GAME ONE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1144
+#EXTINF:-1,|FR| CHERIE25 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1145
+#EXTINF:-1,|FR| NRJ12 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1146
+#EXTINF:-1,|FR| RTS UN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1147
+#EXTINF:-1,|FR| RTS  DEUX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1148
+#EXTINF:-1,|FR| 6TER HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1149
+#EXTINF:-1,|FR| HD1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1150
+#EXTINF:-1,|FR| HD1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1151
+#EXTINF:-1,|FR| CSTAR FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1153
+#EXTINF:-1,|FR| CSTAR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1154
+#EXTINF:-1,|FR| TOONAMI  FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1155
+#EXTINF:-1,|FR| TOONAMI  HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1156
+#EXTINF:-1,|FR| Gong
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3868
+#EXTINF:-1,|FR| CARTOON NETWORK FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1157
+#EXTINF:-1,|FR| C8 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1152
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1158
+#EXTINF:-1,|FR| TELETOON+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1159
+#EXTINF:-1,|FR| ZOUZOU TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1160
+#EXTINF:-1,|FR| NICKELODEON JR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1161
+#EXTINF:-1,|FR| NICKELODEON HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1162
+#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1163
+#EXTINF:-1,|FR| DISNEY CINEMA  FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1164
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1165
+#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1166
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1167
+#EXTINF:-1,|FR| DISNEY XD FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1168
+#EXTINF:-1,|FR| DISNEY XD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1169
+#EXTINF:-1,|FR| PIWI HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1170
+#EXTINF:-1,|FR| CANAL J HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1171
+#EXTINF:-1,|FR| BOOMERANG HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1172
+#EXTINF:-1,|FR| BOING HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1175
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1176
+#EXTINF:-1,|FR| MANGAS HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1173
+#EXTINF:-1,|FR| BOING FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1174
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1177
+#EXTINF:-1,|FR| TIJI HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1178
+#EXTINF:-1,|FR| GULLI HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1179
+#EXTINF:-1,|FR| WEO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1180
+#EXTINF:-1,|FR| DISCOVERY FAMILY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1181
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1182
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1183
+#EXTINF:-1,|FR| DISCOVERY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1184
+#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1185
+#EXTINF:-1,|FR| VOYAGE FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1186
+#EXTINF:-1,|FR| VOYAGE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1187
+#EXTINF:-1,|FR| NATIONAL GEO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1188
+#EXTINF:-1,|FR| NATIONAL GEO FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1189
+#EXTINF:-1,|FR| NATIONAL GEO WILD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1190
+#EXTINF:-1,|FR| ANIMAUX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1191
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1192
+#EXTINF:-1,|FR| SEASONS HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1193
+#EXTINF:-1,|FR| SCIENCES & VIE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1194
+#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1195
+#EXTINF:-1,|FR| HISTOIRE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1196
+#EXTINF:-1,|FR| USHUAIA TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1197
+#EXTINF:-1,|FR| PLANETE+ A&E FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1198
+#EXTINF:-1,|FR| PLANETE+ A&E HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1199
+#EXTINF:-1,|FR| PLANETE  CI HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1200
+#EXTINF:-1,|FR| PLANETE+ HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1201
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD.
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1202
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1203
+#EXTINF:-1,|FR| TREK HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1204
+#EXTINF:-1,|FR| CANAL PLAY 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1205
+#EXTINF:-1,|FR| CANAL PLAY 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1206
+#EXTINF:-1,|FR| CANAL PLAY 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1207
+#EXTINF:-1,|FR| CANAL PLAY 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1208
+#EXTINF:-1,|FR| CANAL PLAY 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1209
+#EXTINF:-1,|FR| CANAL PLAY 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1210
+#EXTINF:-1,|FR|  A LA CARTE 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1211
+#EXTINF:-1,|FR|  A LA CARTE 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1212
+#EXTINF:-1,|FR|  A LA CARTE 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1213
+#EXTINF:-1,|FR|  A LA CARTE 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1214
+#EXTINF:-1,|FR|  A LA CARTE 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1215
+#EXTINF:-1,|FR|  A LA CARTE 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1216
+#EXTINF:-1,|FR|  A LA CARTE 7
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1217
+#EXTINF:-1,|FR|  A LA CARTE 9
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1219
+#EXTINF:-1,|FR|  A LA CARTE 10
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1220
+#EXTINF:-1,|FR|  A LA CARTE 8
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1218
+#EXTINF:-1,FR: Amazon Prime Video 1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3856
+#EXTINF:-1,FR: Amazon Prime Video 2 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3857
+#EXTINF:-1,FR: Amazon Prime Video 3 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3858
+#EXTINF:-1,FR: Amazon Prime Video 4 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3859
+#EXTINF:-1,FR: Amazon Prime Video 5 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3860
+#EXTINF:-1,FR: Amazon Prime Video 6 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3861
+#EXTINF:-1,FR: Amazon Prime Video 7 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3862
+#EXTINF:-1,FR: Amazon Prime Video 8 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3863
+#EXTINF:-1,•●★★--- Spain ---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/479
+#EXTINF:-1,ES: DAZN 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3470
+#EXTINF:-1,ES: DAZN 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3471
+#EXTINF:-1,ES: CUATRO FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3058
+#EXTINF:-1,ES: Cuatro hd
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3059
+#EXTINF:-1,ES:  Movistar Accion HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/340
+#EXTINF:-1,ES: Viajar HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/341
+#EXTINF:-1,ES: Movistar  DCine HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/342
+#EXTINF:-1,ES: Movistar Cine N
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/343
+#EXTINF:-1,ES: Movistar GOLF HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/344
+#EXTINF:-1,ES: Movistar Series HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/345
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2345
+#EXTINF:-1,ES: MOVISTAR Liga Campeones HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2344
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/346
+#EXTINF:-1,ES: AXN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/347
+#EXTINF:-1,ES: CALLE 13 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/348
+#EXTINF:-1,ES: #0 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/349
+#EXTINF:-1,ES: Movistar F1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/350
+#EXTINF:-1,ES: Movistar toros HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/351
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/352
+#EXTINF:-1,ES: Movistar  Estrenos HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/353
+#EXTINF:-1,ES: Movistar Gp
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/354
+#EXTINF:-1,ES: CANAL  LIGA  HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/355
+#EXTINF:-1,ES: Movistar  Series Xtra HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/356
+#EXTINF:-1,ES: Canal Coccina
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/357
+#EXTINF:-1,ES: A&E
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/358
+#EXTINF:-1,ES: ANTENNA 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/359
+#EXTINF:-1,ES: MEGA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/360
+#EXTINF:-1,ES: C  GOLF
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/361
+#EXTINF:-1,ES: CAZAYPESCA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/362
+#EXTINF:-1,ES: AMC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/363
+#EXTINF:-1,ES: Cosmo HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/364
+#EXTINF:-1,ES: MOVISTAR Seriesmania HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/365
+#EXTINF:-1,ES: Cuatro HD Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/366
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/367
+#EXTINF:-1,ES: ENERGY
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/368
+#EXTINF:-1,ES: FDF
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/369
+#EXTINF:-1,ES: FOX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/370
+#EXTINF:-1,ES: La Liga TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/371
+#EXTINF:-1,ES: History
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/372
+#EXTINF:-1,ES: LA 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/373
+#EXTINF:-1,ES: LA 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/374
+#EXTINF:-1,ES: la sexta HD_local
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/375
+#EXTINF:-1,ES: Movistar Toros
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/376
+#EXTINF:-1,ES: NATIONAL GEO WILD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/377
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC CHANNEL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/378
+#EXTINF:-1,ES: NEOX
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/379
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/380
+#EXTINF:-1,ES: SYFY Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/381
+#EXTINF:-1,ES: TELECINCO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/382
+#EXTINF:-1,ES: TOROS TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/383
+#EXTINF:-1,ES:  Fox Life Dual II
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/385
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/386
+#EXTINF:-1,ES: Barca tv
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3219
+#EXTINF:-1, LIGA TV (ES)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/415
+#EXTINF:-1, LALIGA TV BAR (ES)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/416
+#EXTINF:-1, LIGA 123 HD (ES)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/417
+#EXTINF:-1, LIGA CAMPEONES HD (ES)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/418
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3658
+#EXTINF:-1,[ES] ALQUILER 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3622
+#EXTINF:-1,[ES] ALQUILER 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3623
+#EXTINF:-1,[ES] ALQUILER 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3624
+#EXTINF:-1,[ES] ALQUILER 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3625
+#EXTINF:-1,[ES] ALQUILER 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3626
+#EXTINF:-1,[ES] ALQUILER 6
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3627
+#EXTINF:-1,[ES] ALQUILER 7
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3628
+#EXTINF:-1,[ES] ALQUILER 8
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3629
+#EXTINF:-1,[ES] ALQUILER 9
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3630
+#EXTINF:-1,[ES] ALQUILER 10
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3631
+#EXTINF:-1,[ES] PARAMOUNT
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3632
+#EXTINF:-1,[ES] M.DRAMA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3633
+#EXTINF:-1,[ES] M. FORMULA 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3634
+#EXTINF:-1,[ES] GOL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3635
+#EXTINF:-1,[ES] EUROSPORT 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3636
+#EXTINF:-1,[ES] EUROSPORT 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3637
+#EXTINF:-1,[ES] COMEDY CENTRAL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3638
+#EXTINF:-1,[ES] BOING
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3639
+#EXTINF:-1,[ES] NOVA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3640
+#EXTINF:-1,[ES] DISNEY JR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3641
+#EXTINF:-1,[ES] DISNEY XD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3642
+#EXTINF:-1,[ES] NICKELODEON  HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3643
+#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3645
+#EXTINF:-1,MOVISTAR LaLiga 2 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3657
+#EXTINF:-1,|ES| BEIN LIGA 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3659
+#EXTINF:-1,|ES| BEIN LIGA 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3660
+#EXTINF:-1,TELEDEPORTE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3814
+#EXTINF:-1,ES: DAZN 3 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3816
+#EXTINF:-1,ES DAZN 4 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3817
+#EXTINF:-1,ES DAZN F1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3818
+#EXTINF:-1,ES: Movitar DRAMA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3819
+#EXTINF:-1,ES: Ten
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3820
+#EXTINF:-1,ES: DMAX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3821
+#EXTINF:-1,ES: TNT FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3822
+#EXTINF:-1,ES: Discovery World HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3823
+#EXTINF:-1,ES: ESPN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3824
+#EXTINF:-1,ES: #VAMOS FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3825
+#EXTINF:-1,DAZN 5 (SOLO EVENTOS)
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3826
+#EXTINF:-1,ES: M. Deportes 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3827
+#EXTINF:-1,ES: M. LALIGA 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3830
+#EXTINF:-1,ES: Odisea
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3829
+#EXTINF:-1,ES: ESPN Deportes 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3832
+#EXTINF:-1,•●★★--- USA---★★●•
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/844
+#EXTINF:-1,US:  ABC 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3653
+#EXTINF:-1,US: ABC News
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3654
+#EXTINF:-1,US: TNT HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3048
+#EXTINF:-1,US: TSN 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3057
+#EXTINF:-1,US:  TSN 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3056
+#EXTINF:-1,US: TSN 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3055
+#EXTINF:-1,US: TSN 4
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3054
+#EXTINF:-1,US: TSN 5
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3053
+#EXTINF:-1,US: ESPN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3049
+#EXTINF:-1,US: ESPN 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3050
+#EXTINF:-1,US: ESPN U HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3052
+#EXTINF:-1,US: Bein Sport USA
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/739
+#EXTINF:-1,US: beIN Sports Ñ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/740
+#EXTINF:-1,US: ESPN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/742
+#EXTINF:-1,US: ESPN 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/743
+#EXTINF:-1,US: Longhorn Network
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/744
+#EXTINF:-1,US: Hallmark Drama
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/745
+#EXTINF:-1,US: Hallmark Movies and Mysteries
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/746
+#EXTINF:-1,US: HBO COMEDY HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/747
+#EXTINF:-1,US: NAT GEO WILD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/748
+#EXTINF:-1,US: ESPN NEWS
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/750
+#EXTINF:-1,US: ESPN U
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/752
+#EXTINF:-1,US: Eleven Sports US
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/753
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/754
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/755
+#EXTINF:-1,US: Showtime Showcase
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/756
+#EXTINF:-1,US: ShowTime HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/757
+#EXTINF:-1,US: Starz Cinema HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/758
+#EXTINF:-1,US: STARZ East
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/759
+#EXTINF:-1,US: TBS HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/760
+#EXTINF:-1,US: Discovery Channel HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/761
+#EXTINF:-1,US: Fox Sports Arizona
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/764
+#EXTINF:-1,US: Fox Sports Detroit
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/765
+#EXTINF:-1,US: Fox Sports Florida
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/766
+#EXTINF:-1,US: Fox Tampa
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/767
+#EXTINF:-1,US: Fox Dallas
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/768
+#EXTINF:-1,US: Fox Sacramento
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/769
+#EXTINF:-1,US: Fox Sport 2 4K+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/770
+#EXTINF:-1,US: Fox News GO
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/771
+#EXTINF:-1,US: Fox Nashville
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/772
+#EXTINF:-1,US: Fox  Sport 1 4K+
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/773
+#EXTINF:-1,US: Fox Los Angeles
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/774
+#EXTINF:-1,US: Fox Sports San Diego
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/775
+#EXTINF:-1,US: Fox  Houston
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/778
+#EXTINF:-1,US: GOLTV 
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/780
+#EXTINF:-1,US: MLB NETWORK
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/781
+#EXTINF:-1,US: MSG HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/782
+#EXTINF:-1,US: MSNBC
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/783
+#EXTINF:-1,US: Mav TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/784
+#EXTINF:-1,US: NBA TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/785
+#EXTINF:-1,US: NBCSN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/786
+#EXTINF:-1,US: NBC Sports Bay Area Plus
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/788
+#EXTINF:-1,US: NBC Sports Boston
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/789
+#EXTINF:-1,US: NBC Sports California Plus
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/791
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/792
+#EXTINF:-1,US: NBC Sports Nowrthwest
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/793
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/794
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/795
+#EXTINF:-1,US: NBCSN
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/796
+#EXTINF:-1,US: NESN PLUS
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/798
+#EXTINF:-1,US: NFL Network
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/799
+#EXTINF:-1,US: Olympic Channel
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/800
+#EXTINF:-1,US: Outside TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/801
+#EXTINF:-1,US: PAC-12 Arizona
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/802
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/804
+#EXTINF:-1,US: PAC-12 Oregon
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/805
+#EXTINF:-1,US: PAC-12 Washington
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/806
+#EXTINF:-1,US: Pac-12 Mountain
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/807
+#EXTINF:-1,US: Pac-12 Network
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/808
+#EXTINF:-1,US: PAC-12 Bay Area
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/803
+#EXTINF:-1,US: wwe Network
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/954
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/813
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (NL) HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/814
+#EXTINF:-1,BG: ELEVEN SPORTS 2 BELGIUM (NL) HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/815
+#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/816
+#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/817
+#EXTINF:-1,[CA]_LOVE NATURE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3879
+#EXTINF:-1,Latino: Fox Sports 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/828
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/829
+#EXTINF:-1,UK: BT SPORT 1
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/838
+#EXTINF:-1,UK: BT SPORT 2
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/839
+#EXTINF:-1,UK: BT SPORT 3
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/840
+#EXTINF:-1,US: NBC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/843
+#EXTINF:-1,DE: 3 SAT FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1222
+#EXTINF:-1,DE: 13th Street FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1224
+#EXTINF:-1,DE: ANIXE
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1226
+#EXTINF:-1,DE: ARD One HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1228
+#EXTINF:-1,DE: A&E HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1225
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1232
+#EXTINF:-1,DE: AXN HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1233
+#EXTINF:-1,DE: BIBEL TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1237
+#EXTINF:-1,DE: Boomerang HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1238
+#EXTINF:-1,DE: Cartoon Network HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1239
+#EXTINF:-1,DE: Comedy Central HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1240
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1242
+#EXTINF:-1,DE: DAZN 1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1243
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1244
+#EXTINF:-1,DE: DAZN 2 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1245
+#EXTINF:-1,DE: Deluxe Music HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1246
+#EXTINF:-1,DE: DEUTSCHES MUSIK HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1247
+#EXTINF:-1,DE: Discovery CHANNEL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1248
+#EXTINF:-1,DE: Disney Channel FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1249
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1250
+#EXTINF:-1,DE: Disney Junior HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1251
+#EXTINF:-1,DE: Disney XD HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1252
+#EXTINF:-1,DE: DMAX FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1253
+#EXTINF:-1,DE: euronews HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1262
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1263
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1264
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1265
+#EXTINF:-1,DE: FOLX TV
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1267
+#EXTINF:-1,DE: FOX FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1268
+#EXTINF:-1,DE: Heimatkanal HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1269
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1270
+#EXTINF:-1,DE: HR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1271
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1273
+#EXTINF:-1,DE: Kabel 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1274
+#EXTINF:-1,DE: KIKA HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1279
+#EXTINF:-1,DE: MotorVision HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1282
+#EXTINF:-1,DE: MTV FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1283
+#EXTINF:-1,DE: MUNCHEN TV FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1284
+#EXTINF:-1,DE: N-TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1286
+#EXTINF:-1,DE: N24 Doku HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1287
+#EXTINF:-1,DE: MDR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1280
+#EXTINF:-1,DE: NAT GEO FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1289
+#EXTINF:-1,DE: NAT GEO WILD FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1290
+#EXTINF:-1,DE: NDR Fernsehen HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1291
+#EXTINF:-1,DE: NDR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1292
+#EXTINF:-1,DE: Nickelodeon HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1293
+#EXTINF:-1,DE: NITRO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1294
+#EXTINF:-1,DE: ONE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1298
+#EXTINF:-1,DE: Phoenix HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1299
+#EXTINF:-1,DE: Planet HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1300
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1311
+#EXTINF:-1,DE: PRO7 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1312
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1315
+#EXTINF:-1,DE: RBB Berlin HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1316
+#EXTINF:-1,DE: Rnf
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1317
+#EXTINF:-1,DE: ROMANCE TV HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1318
+#EXTINF:-1,DE: RTL 1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1319
+#EXTINF:-1,DE: RTL 2 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1320
+#EXTINF:-1,DE: RTL Crime FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1321
+#EXTINF:-1,DE: RTL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1322
+#EXTINF:-1,DE: RTL II HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1323
+#EXTINF:-1,DE: RTL Living HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1324
+#EXTINF:-1,DE: RTL Nitro HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1325
+#EXTINF:-1,DE: RTL Passion FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1327
+#EXTINF:-1,DE: RTL plus HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1328
+#EXTINF:-1,DE: RTL Super
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1329
+#EXTINF:-1,DE: SAT 1 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1330
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1331
+#EXTINF:-1,DE: Servus HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1332
+#EXTINF:-1,DE: Sony HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1411
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1412
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1413
+#EXTINF:-1,DE: Sport 1 + HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1414
+#EXTINF:-1,DE: Sport 1 Plus HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1416
+#EXTINF:-1,DE: SRF 1 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1418
+#EXTINF:-1,DE: SUPER RTL FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1419
+#EXTINF:-1,DE: Sport Digital FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1417
+#EXTINF:-1,DE: SWR
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1420
+#EXTINF:-1,DE: SyFy FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1421
+#EXTINF:-1,DE: tagesschau 24 HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1422
+#EXTINF:-1,DE: TELE 5 FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1423
+#EXTINF:-1,DE: TLC HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1442
+#EXTINF:-1,DE: TNT COMEDY FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1443
+#EXTINF:-1,DE: TNT FILM HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1444
+#EXTINF:-1,DE: TNT SERIE HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1445
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1447
+#EXTINF:-1,DE: VOX FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1450
+#EXTINF:-1,DE: WDR HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1452
+#EXTINF:-1,DE: Welt
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1453
+#EXTINF:-1,DE: ZDF FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1455
+#EXTINF:-1,DE: ZDF info HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1456
+#EXTINF:-1,DE: ZDF NEO HD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1457
+#EXTINF:-1,DE: ZEE ONE FHD
+http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1458
 
 
 #EXTM3U
