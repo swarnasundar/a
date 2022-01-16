@@ -1530,2633 +1530,6 @@ https://delta32tatasky.akamaized.net/out/i/1739529.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001089&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmZjM4ODlkNC01YzQxLTQxZmEtOGZlMC05Mzg2MDAxODBlMzYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTY1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTY1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.4fIQQI_q6VKwHTd_B-8YrBwiPo33_6IxiTJWRgKILa4
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd
 
-#EXTM3U
-#EXTINF:-1,& Flix Eng HD
-http://195.201.82.32:5001/play/a001
-#EXTINF:-1,& Flix Hindi HD
-http://195.201.82.32:5001/play/a02g
-#EXTINF:-1,& Pictures HD
-http://195.201.82.32:5001/play/a02i
-#EXTINF:-1,& Prive HD
-http://195.201.82.32:5001/play/a00j
-#EXTINF:-1,& TV HD
-http://195.201.82.32:5001/play/a02h
-#EXTINF:-1,AajTak HD
-http://195.201.82.32:5001/play/a02l
-#EXTINF:-1,Animal Planet ENG HD
-http://195.201.82.32:5001/play/a00a
-#EXTINF:-1,Animal Planet Hindi HD
-http://195.201.82.32:5001/play/a00g
-#EXTINF:-1,Asianet HD
-http://195.201.82.32:5001/play/a011
-#EXTINF:-1,BBC Earth Eng HD
-http://195.201.82.32:5001/play/a00b
-#EXTINF:-1,BBC Earth Hindi HD
-http://195.201.82.32:5001/play/a02w
-#EXTINF:-1,BBC Earth Tamil HD
-http://195.201.82.32:5001/play/a01s
-#EXTINF:-1,BBC Earth Telugu HD
-http://195.201.82.32:5001/play/a01b
-#EXTINF:-1,Baby Tv HD
-http://195.201.82.32:5001/play/a02t
-#EXTINF:-1,CNBC TV 18 HD
-http://195.201.82.32:5001/play/a02s
-#EXTINF:-1,Cartoon Network+ HD
-http://195.201.82.32:5001/play/a03d
-#EXTINF:-1,Colors Bangla HD
-http://195.201.82.32:5001/play/a00y
-#EXTINF:-1,Colors Cineplex HD
-http://195.201.82.32:5001/play/a02n
-#EXTINF:-1,Colors HD
-http://195.201.82.32:5001/play/a023
-#EXTINF:-1,Colors Infinity HD
-http://195.201.82.32:5001/play/a00k
-#EXTINF:-1,Colors Kannada HD
-http://195.201.82.32:5001/play/a00o
-#EXTINF:-1,Colors Marathi HD
-http://195.201.82.32:5001/play/a00u
-#EXTINF:-1,Colors Tamil HD
-http://195.201.82.32:5001/play/a01v
-#EXTINF:-1,Comedy Central HD
-http://195.201.82.32:5001/play/a00e
-#EXTINF:-1,Discovery ID HD
-http://195.201.82.32:5001/play/a02q
-#EXTINF:-1,Discovery World Eng HD
-http://195.201.82.32:5001/play/a00i
-#EXTINF:-1,Discovery World Hindi HD
-http://195.201.82.32:5001/play/a02k
-#EXTINF:-1,Discovery World Tamil HD
-http://195.201.82.32:5001/play/a01n
-#EXTINF:-1,Discovery World Telugu HD
-http://195.201.82.32:5001/play/a018
-#EXTINF:-1,Disney International HD
-http://195.201.82.32:5001/play/a03a
-#EXTINF:-1,ETV HD
-http://195.201.82.32:5001/play/a01f
-#EXTINF:-1,EuroSports HD
-http://195.201.82.32:5001/play/a03b
-#EXTINF:-1,Fox Life ENG HD
-http://195.201.82.32:5001/play/a007
-#EXTINF:-1,Fox Life Hindi HD
-http://195.201.82.32:5001/play/a037
-#EXTINF:-1,Fox Life Tamil HD
-http://195.201.82.32:5001/play/a01u
-#EXTINF:-1,Gemini HD
-http://195.201.82.32:5001/play/a01d
-#EXTINF:-1,Gemini Movies HD
-http://195.201.82.32:5001/play/a01e
-#EXTINF:-1,Gemini Music HD
-http://195.201.82.32:5001/play/a01g
-#EXTINF:-1,History Eng HD
-http://195.201.82.32:5001/play/a00c
-#EXTINF:-1,History Hindi HD
-http://195.201.82.32:5001/play/a032
-#EXTINF:-1,History Tamil HD
-http://195.201.82.32:5001/play/a01t
-#EXTINF:-1,History Telugu HD
-http://195.201.82.32:5001/play/a01c
-#EXTINF:-1,Jalsha HD
-http://195.201.82.32:5001/play/a00v
-#EXTINF:-1,Jalsha Movies HD
-http://195.201.82.32:5001/play/a00w
-#EXTINF:-1,Jaya Tv HD
-http://195.201.82.32:5001/play/a01m
-#EXTINF:-1,KTV HD
-http://195.201.82.32:5001/play/a01q
-#EXTINF:-1,MN+ HD
-http://195.201.82.32:5001/play/a039
-#EXTINF:-1,MNX HD
-http://195.201.82.32:5001/play/a035
-#EXTINF:-1,MTV Beats HD
-http://195.201.82.32:5001/play/a03e
-#EXTINF:-1,MTV+ HD
-http://195.201.82.32:5001/play/a02m
-#EXTINF:-1,Maa HD
-http://195.201.82.32:5001/play/a017
-#EXTINF:-1,Maa Movies HD
-http://195.201.82.32:5001/play/a016
-#EXTINF:-1,Maa Music HD
-http://195.201.82.32:5001/play/a015
-#EXTINF:-1,Mazhavil Manorama HD
-http://195.201.82.32:5001/play/a012
-#EXTINF:-1,Miniplex HD
-http://195.201.82.32:5001/play/a034
-#EXTINF:-1,Movies Now HD
-http://195.201.82.32:5001/play/a036
-#EXTINF:-1,Nat Geo Bengali HD
-http://195.201.82.32:5001/play/a00x
-#EXTINF:-1,Nat Geo ENG HD
-http://195.201.82.32:5001/play/a008
-#EXTINF:-1,Nat Geo Hindi HD
-http://195.201.82.32:5001/play/a02v
-#EXTINF:-1,Nat Geo Tamil HD
-http://195.201.82.32:5001/play/a01r
-#EXTINF:-1,Nat Geo Telugu HD
-http://195.201.82.32:5001/play/a01a
-#EXTINF:-1,Nat Geo WILD Eng HD
-http://195.201.82.32:5001/play/a00f
-#EXTINF:-1,Nat Geo Wild Hindi HD
-http://195.201.82.32:5001/play/a02f
-#EXTINF:-1,Nat Geo Wild Tamil HD
-http://195.201.82.32:5001/play/a01l
-#EXTINF:-1,Navbharat HD
-http://195.201.82.32:5001/play/a021
-#EXTINF:-1,News 24 Malayalam
-http://195.201.82.32:5001/play/a03f
-#EXTINF:-1,Nick+ HD
-http://195.201.82.32:5001/play/a033
-#EXTINF:-1,PTC Gold
-http://195.201.82.32:5001/play/a01x
-#EXTINF:-1,PTC Music 
-http://195.201.82.32:5001/play/a01y
-#EXTINF:-1,PTC News
-http://195.201.82.32:5001/play/a020
-#EXTINF:-1,PTC Punjabi
-http://195.201.82.32:5001/play/a01z
-#EXTINF:-1,PTC Simran HD
-http://195.201.82.32:5001/play/a01w
-#EXTINF:-1,Sony Max HD
-http://195.201.82.32:5001/play/a02x
-#EXTINF:-1,Sony Pix Hindi HD
-http://195.201.82.32:5001/play/a02o
-#EXTINF:-1,Sony Sab HD
-http://195.201.82.32:5001/play/a02y
-#EXTINF:-1,Sony Set HD
-http://195.201.82.32:5001/play/a022
-#EXTINF:-1,Sony Six HD
-http://195.201.82.32:5001/play/a030
-#EXTINF:-1,Star Bharat HD
-http://195.201.82.32:5001/play/a025
-#EXTINF:-1,Star Gold HD
-http://195.201.82.32:5001/play/a028
-#EXTINF:-1,Star Gold Select HD
-http://195.201.82.32:5001/play/a029
-#EXTINF:-1,Star Movies HD
-http://195.201.82.32:5001/play/a003
-#EXTINF:-1,Star Movies Select HD
-http://195.201.82.32:5001/play/a005
-#EXTINF:-1,Star Plus HD
-http://195.201.82.32:5001/play/a02a
-#EXTINF:-1,Star Pravah HD
-http://195.201.82.32:5001/play/a00r
-#EXTINF:-1,Star Sports 1 HD
-http://195.201.82.32:5001/play/a027
-#EXTINF:-1,Star Sports 1 Hindi HD
-http://195.201.82.32:5001/play/a026
-#EXTINF:-1,Star Sports 2 HD
-http://195.201.82.32:5001/play/a024
-#EXTINF:-1,Star Sports Select 1 HD
-http://195.201.82.32:5001/play/a02b
-#EXTINF:-1,Star Sports Select 2 HD
-http://195.201.82.32:5001/play/a02c
-#EXTINF:-1,Star Vijay HD
-http://195.201.82.32:5001/play/a01j
-#EXTINF:-1,Star World HD
-http://195.201.82.32:5001/play/a002
-#EXTINF:-1,Star World Premier HD
-http://195.201.82.32:5001/play/a004
-#EXTINF:-1,Sun Music HD
-http://195.201.82.32:5001/play/a01p
-#EXTINF:-1,Sun TV HD
-http://195.201.82.32:5001/play/a01o
-#EXTINF:-1,Surya HD
-http://195.201.82.32:5001/play/a013
-#EXTINF:-1,Suvarna HD
-http://195.201.82.32:5001/play/a00n
-#EXTINF:-1,TLC World Eng HD
-http://195.201.82.32:5001/play/a00h
-#EXTINF:-1,Tata Sky Bangla Cinema HD
-http://195.201.82.32:5001/play/a010
-#EXTINF:-1,Tata Sky Bollywood HD
-http://195.201.82.32:5001/play/a03c
-#EXTINF:-1,Tata Sky Hits HD
-http://195.201.82.32:5001/play/a009
-#EXTINF:-1,Tata Sky Telugu Cinema HD
-http://195.201.82.32:5001/play/a019
-#EXTINF:-1,Tata Sky Theatre HD
-http://195.201.82.32:5001/play/a02j
-#EXTINF:-1,Ten 1 HD
-http://195.201.82.32:5001/play/a031
-#EXTINF:-1,Ten 2 HD
-http://195.201.82.32:5001/play/a02u
-#EXTINF:-1,Ten 3 HD
-http://195.201.82.32:5001/play/a038
-#EXTINF:-1,Times Now HD
-http://195.201.82.32:5001/play/a02z
-#EXTINF:-1,Travel XP Eng HD
-http://195.201.82.32:5001/play/a00l
-#EXTINF:-1,UTV HD
-http://195.201.82.32:5001/play/a02p
-#EXTINF:-1,Udaya HD
-http://195.201.82.32:5001/play/a00p
-#EXTINF:-1,VH1 HD
-http://195.201.82.32:5001/play/a00d
-#EXTINF:-1,WION News HD
-http://195.201.82.32:5001/play/a00m
-#EXTINF:-1,Zee Bangla HD
-http://195.201.82.32:5001/play/a00z
-#EXTINF:-1,Zee Cafe HD
-http://195.201.82.32:5001/play/a006
-#EXTINF:-1,Zee Cinema HD
-http://195.201.82.32:5001/play/a02e
-#EXTINF:-1,Zee Cinemalu
-http://195.201.82.32:5001/play/a01i
-#EXTINF:-1,Zee Kannada HD
-http://195.201.82.32:5001/play/a00q
-#EXTINF:-1,Zee Keralam HD
-http://195.201.82.32:5001/play/a014
-#EXTINF:-1,Zee Marathi HD
-http://195.201.82.32:5001/play/a00t
-#EXTINF:-1,Zee Talkies HD
-http://195.201.82.32:5001/play/a00s
-#EXTINF:-1,Zee Tamil HD
-http://195.201.82.32:5001/play/a01k
-#EXTINF:-1,Zee Telugu HD
-http://195.201.82.32:5001/play/a01h
-#EXTINF:-1,Zee Tv HD
-http://195.201.82.32:5001/play/a02d
-#EXTINF:-1,Zee Zest HD
-http://195.201.82.32:5001/play/a02r
-
-
-
-#EXTM3U
-#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3220
-#EXTINF:-1,RMC 4K
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3881
-#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3221
-#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3222
-#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3223
-#EXTINF:-1,beIN SPORTS FullHD1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3224
-#EXTINF:-1,beIN SPORTS FullHD2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3225
-#EXTINF:-1,beIN SPORTS FullHD3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3226
-#EXTINF:-1,beIN SPORTS FullHD4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3227
-#EXTINF:-1,beIN SPORTS FullHD5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3228
-#EXTINF:-1,beIN SPORTS FullHD6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3230
-#EXTINF:-1,beIN SPORTS FullHD7
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3229
-#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3703
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/459
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/450
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/451
-#EXTINF:-1,beIN SPORTS1 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/452
-#EXTINF:-1,beIN SPORTS2 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/453
-#EXTINF:-1,beIN SPORTS3 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3875
-#EXTINF:-1,beIN SPORTS4 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/455
-#EXTINF:-1,beIN SPORTS5 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/456
-#EXTINF:-1,beIN SPORTS6 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/457
-#EXTINF:-1,beIN SPORTS7 H265
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/458
-#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/117
-#EXTINF:-1,AR; Sriea A hd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3877
-#EXTINF:-1,Duhok Sports HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3874
-#EXTINF:-1,beIN SPORTS News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2051
-#EXTINF:-1,beIN SPORTS HD (Global)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/960
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3620
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3621
-#EXTINF:-1,beIN SPORTS PREMIUM1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/46
-#EXTINF:-1,beIN SPORTS PREMIUM2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/47
-#EXTINF:-1,beIN SPORTS PREMIUM3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/48
-#EXTINF:-1,beIN SPORTS 1HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/49
-#EXTINF:-1,beIN SPORTS 2HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/50
-#EXTINF:-1,beIN SPORTS 3HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/51
-#EXTINF:-1,beIN SPORTS 4HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/52
-#EXTINF:-1,beIN SPORTS 5HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/53
-#EXTINF:-1,beIN SPORTS 6HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/54
-#EXTINF:-1,beIN SPORTS 7HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/55
-#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3001
-#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3002
-#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2873
-#EXTINF:-1,beIN SPORTS PREMIUM1 SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/56
-#EXTINF:-1,beIN SPORTS PREMIUM2 SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/57
-#EXTINF:-1,beIN SPORTS PREMIUM3 SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/58
-#EXTINF:-1,beIN SPORTS 1SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/59
-#EXTINF:-1,beIN SPORTS 2SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/60
-#EXTINF:-1,beIN SPORTS 3SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/93
-#EXTINF:-1,beIN SPORTS 4SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/92
-#EXTINF:-1,beIN SPORTS 5SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/91
-#EXTINF:-1,beIN SPORTS 6SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/61
-#EXTINF:-1,beIN SPORTS 7SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1459
-#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/119
-#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/62
-#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/63
-#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3791
-#EXTINF:-1,beIN SPORTS 1 LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3792
-#EXTINF:-1,beIN SPORTS 2LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2108
-#EXTINF:-1,beIN SPORTS 4LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2109
-#EXTINF:-1,beIN SPORTS 5LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2110
-#EXTINF:-1,beIN SPORTS 6LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2111
-#EXTINF:-1,beIN SPORTS 7LOW
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2112
-#EXTINF:-1,Radio Bein 1 PR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3546
-#EXTINF:-1,Radio Bein 2 PR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3547
-#EXTINF:-1,Radio Bein 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3548
-#EXTINF:-1,Radio Bein 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3549
-#EXTINF:-1,Radio Bein 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3550
-#EXTINF:-1,Radio Bein 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3551
-#EXTINF:-1,Radio Bein 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3552
-#EXTINF:-1,Radio Bein 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3553
-#EXTINF:-1,Radio Bein 7
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3554
-#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/121
-#EXTINF:-1,AR: beIN Movies 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/24
-#EXTINF:-1,AR: beIN Movies 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/17
-#EXTINF:-1,AR: beIN Movies 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/18
-#EXTINF:-1,AR: beIN Movies 4 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/19
-#EXTINF:-1,AR: beIN Series 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/20
-#EXTINF:-1,AR: beIN Series 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/21
-#EXTINF:-1,AR:  beIN Outdoor
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/13
-#EXTINF:-1,AR:  beIN AMC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/14
-#EXTINF:-1,AR: beIN  Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/15
-#EXTINF:-1,AR: beIN  Gourmet
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/16
-#EXTINF:-1,AR: beIN Jeem HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/22
-#EXTINF:-1,AR: beIN Fox Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/23
-#EXTINF:-1,AR: beIN FATAFEAT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/25
-#EXTINF:-1,AR: beIN Baraeem
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2028
-#EXTINF:-1,AR :beIN_BOOMERANG
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2945
-#EXTINF:-1,AR: beIN DTX
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2946
-#EXTINF:-1,AR: beIN JUNIOR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2947
-#EXTINF:-1,AR: beIN DREAMWORKS HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2948
-#EXTINF:-1,AR:Cartoon Network Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2949
-#EXTINF:-1,AR: beIN BOXOFFICE HD1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3276
-#EXTINF:-1,AR: beIN BOXOFFICE HD2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3706
-#EXTINF:-1,AR: beIN BOXOFFICE HD3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3709
-#EXTINF:-1,•●★★--- MBC HD ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/125
-#EXTINF:-1,MYHD: MBC 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/845
-#EXTINF:-1,MYHD: MBC 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/846
-#EXTINF:-1,MYHD: MBC 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/847
-#EXTINF:-1,MYHD: MBC 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/848
-#EXTINF:-1,MYHD: MBC 5 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2114
-#EXTINF:-1,MYHD: MBC Bollywood HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/849
-#EXTINF:-1,MYHD: MBC Massr HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/850
-#EXTINF:-1,MYHD: MBC Masr 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/851
-#EXTINF:-1,MYHD: MBC Drama HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/852
-#EXTINF:-1,MYHD: MBC Action HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/853
-#EXTINF:-1,MYHD: MBC Max HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/854
-#EXTINF:-1,MYHD: MBC Iraq HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/855
-#EXTINF:-1,MYHD: MBC Drama+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/856
-#EXTINF:-1,MYHD: MBC+Variety HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/857
-#EXTINF:-1,MYHD: MBC Persia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3802
-#EXTINF:-1,MYHD: MBC Wanasah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3803
-#EXTINF:-1,AR: MBC FM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3737
-#EXTINF:-1,MYHD: FOX Rewayat HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/859
-#EXTINF:-1,MYHD: FOX Life HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/860
-#EXTINF:-1,MYHD: Family Movies HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/861
-#EXTINF:-1,MYHD: FOX Crime HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/862
-#EXTINF:-1,MYHD: Fox Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/863
-#EXTINF:-1,MYHD: Docu Box HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/865
-#EXTINF:-1,MYHD: Fox Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/867
-#EXTINF:-1,MYHD: Planet Earth HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/869
-#EXTINF:-1,MYHD: Discovery SC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/871
-#EXTINF:-1,MYHD: Gulli Arabic HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/872
-#EXTINF:-1,MYHD: Duck TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/874
-#EXTINF:-1,MBC_1 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2771
-#EXTINF:-1,MBC_2 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2772
-#EXTINF:-1,MBC_3 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2773
-#EXTINF:-1,MBC_4 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2774
-#EXTINF:-1,,MBC_5 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2775
-#EXTINF:-1,MBC_MAX sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2776
-#EXTINF:-1,MBC_ACTION sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2777
-#EXTINF:-1,MBC_DRAMA sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2778
-#EXTINF:-1,MBC_MASR sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2779
-#EXTINF:-1,MBC_MASR 2 sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2780
-#EXTINF:-1,MBC_FM_PANORAMA sd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2781
-#EXTINF:-1,•●★★--- OSN HD ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/124
-#EXTINF:-1,OSN YAHALA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/156
-#EXTINF:-1,OSN Ya Hala Cinema
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/161
-#EXTINF:-1,OSN:  AL YAWM HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2828
-#EXTINF:-1,OSN:  Alfa Fann
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2830
-#EXTINF:-1,OSN :MIX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3542
-#EXTINF:-1,OSN :POP UP HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3543
-#EXTINF:-1,OSN: TLC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3871
-#EXTINF:-1,OSN Star Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/159
-#EXTINF:-1,OSN Star World 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/160
-#EXTINF:-1,OSN: Star-Gold-HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3707
-#EXTINF:-1,OSN: E
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3284
-#EXTINF:-1,[OSN]  Planet Earth
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/968
-#EXTINF:-1,AR: OSN PLAY TRILLER HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/84
-#EXTINF:-1,OSN:  Nick Jr
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2172
-#EXTINF:-1, OSN Series HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3704
-#EXTINF:-1,AR: OSN SERIES FIRST HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/89
-#EXTINF:-1,[OSN] Mezze
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/975
-#EXTINF:-1,[OSN] OSN Boxoffice1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/973
-#EXTINF:-1,OSN OSN MOVIES BOX OFFICE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/971
-#EXTINF:-1, OSN MOVIES BOX OFFICE 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/981
-#EXTINF:-1,OSN Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/155
-#EXTINF:-1,[OSN] OSN Movies First
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/980
-#EXTINF:-1,[OSN] OSN PLAY TRILLER HD 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/977
-#EXTINF:-1,[OSN] FX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2826
-#EXTINF:-1,[OSN] OSN Kids
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/976
-#EXTINF:-1,[OSN] OSN PLAY PREMIERE 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/964
-#EXTINF:-1,[OSN] Movies firest
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2825
-#EXTINF:-1,[OSN] OSN Discovery H
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/969
-#EXTINF:-1,OSN: OSN BBC earth
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2831
-#EXTINF:-1,[OSN] OSN TRACE URBAN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/966
-#EXTINF:-1,[OSN] OSN Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/965
-#EXTINF:-1,OSN History Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/167
-#EXTINF:-1,OSN PLAY PREMIERE 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3705
-#EXTINF:-1,OSN Discovery Science 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/168
-#EXTINF:-1,OSN Series First 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/170
-#EXTINF:-1,OSN Movies Disney
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/171
-#EXTINF:-1, OSN: Disney Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/667
-#EXTINF:-1,OSN Disny Junior
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/162
-#EXTINF:-1,OSN: ON-DEMAND-EXTRA-HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2832
-#EXTINF:-1,OSN: NICKELODEON HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3541
-#EXTINF:-1,OSN Movies +2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/153
-#EXTINF:-1,OSN Disney XD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2543
-#EXTINF:-1,[OSN] Alfa Mosalsalat
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/995
-#EXTINF:-1,AR: OSN Star Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/90
-#EXTINF:-1,OSN : ID
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/154
-#EXTINF:-1,OSN Nat Geo
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/157
-#EXTINF:-1,OSN Nat Geo Pepole
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/158
-#EXTINF:-1,OSN E
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/164
-#EXTINF:-1,OSN Discovery 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/165
-#EXTINF:-1,OSN  Movies First  
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/175
-#EXTINF:-1,OSN: Movies First  ++2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/738
-#EXTINF:-1,[OSN] Movies Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/963
-#EXTINF:-1,[OSN] wwe
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/994
-#EXTINF:-1,[OSN] Food
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/993
-#EXTINF:-1,[OSN] Alfa Cinema 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/991
-#EXTINF:-1,[OSN] Alfa Cinema 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/992
-#EXTINF:-1,[OSN] SYFY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/990
-#EXTINF:-1,[OSN] OSN Ya Hala Aloula
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/988
-#EXTINF:-1,[OSN] : enigma
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/987
-#EXTINF:-1,[OSN] OSN Animal Planet
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/962
-#EXTINF:-1,[OSN] OSN Nat Geo Abudhabi
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/983
-#EXTINF:-1,[OSN] OSN Nat Geo Wild
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/982
-#EXTINF:-1,[OSN] nickToons
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/979
-#EXTINF:-1,[OSN] OSN ON DEMANDE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/974
-#EXTINF:-1,OSN: Nickelodeon HD AR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2829
-#EXTINF:-1,AR: OSN Nat Geo SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/85
-#EXTINF:-1,AR: OSN Alyoum
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/86
-#EXTINF:-1,AR: OSN Nat Geo pepole 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/88
-#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/513
-#EXTINF:-1,KAICER BOX OFFICE 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/494
-#EXTINF:-1,KAICER BOX OFFICE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/512
-#EXTINF:-1,KAICER BOX OFFICE 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/515
-#EXTINF:-1,KAICER BOX OFFICE 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/514
-#EXTINF:-1,KAICER BOX OFFICE 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/516
-#EXTINF:-1,KAICER BOX OFFICE 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2465
-#EXTINF:-1,KAICER BOX OFFICE 7
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2466
-#EXTINF:-1,KAICER BOX Hendi 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1476
-#EXTINF:-1,KAICER BOX ARAB 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1477
-#EXTINF:-1,KAICER BOX ARAB 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1478
-#EXTINF:-1,KAICER BOX ARAB 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1479
-#EXTINF:-1,KAICER BOX ARAB 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1480
-#EXTINF:-1,[NETFLIX] Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2418
-#EXTINF:-1,[NETFLIX] Thriller
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2419
-#EXTINF:-1,[NETFLIX] SCi-Fi
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2420
-#EXTINF:-1,[NETFLIX] Hendy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2421
-#EXTINF:-1,[NETFLIX] Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2422
-#EXTINF:-1,NETFLIX_Comedy+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2505
-#EXTINF:-1,NETFLIX_SCI FI
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2506
-#EXTINF:-1,NETFLIX_HOME_CINEMA_1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2507
-#EXTINF:-1,NETFLIX N action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2463
-#EXTINF:-1,Netflex Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2116
-#EXTINF:-1,Netflix SCF FI
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2041
-#EXTINF:-1,Netflix Kids
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2042
-#EXTINF:-1,Netflix Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2043
-#EXTINF:-1,Netflix Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2044
-#EXTINF:-1,NETFLIX  ACTION
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2047
-#EXTINF:-1,Netflix Comedy 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2346
-#EXTINF:-1,NETFLIX_DRAMA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2347
-#EXTINF:-1,NETFLIX ANIMATION HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2349
-#EXTINF:-1,Netflix Horror 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2350
-#EXTINF:-1,Netflix Bollywood
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2351
-#EXTINF:-1,NETFLIX_Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2357
-#EXTINF:-1,NETFLIX_THRILLER
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2358
-#EXTINF:-1,AR: Netflix Series
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3410
-#EXTINF:-1,AR: NETFLIX JR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3416
-#EXTINF:-1,AR: Netflix documentary
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3417
-#EXTINF:-1,AR: NETFLIX COMEDY +2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3422
-#EXTINF:-1,AR: Netflix Horror+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3429
-#EXTINF:-1,AR: NETFLIX Kids +1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3436
-#EXTINF:-1,AR: Netflix KIDS +2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3437
-#EXTINF:-1,AR: NETFLIX ARABIC 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3718
-#EXTINF:-1,AR: NETFLIX ARABIC 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3719
-#EXTINF:-1,AR: Netflix Romance HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3724
-#EXTINF:-1,Netflix+ Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3536
-#EXTINF:-1,Netflix +Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3537
-#EXTINF:-1,Netflix+ Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3538
-#EXTINF:-1,NETFLIX+ HORROR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3539
-#EXTINF:-1,shahid TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2464
-#EXTINF:-1,[Shahid Action]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2423
-#EXTINF:-1,[Shahid Aflam]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2424
-#EXTINF:-1,[Shahid Aflam2]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2425
-#EXTINF:-1,[Shahid HINDI]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2426
-#EXTINF:-1,[Shahid HORROR]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2427
-#EXTINF:-1,[Shahid action 2]
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2428
-#EXTINF:-1,AR:SHAHID_ِAflam5+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3250
-#EXTINF:-1,AR:SHAHID_Aflam4+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3251
-#EXTINF:-1,AR:SHAHID_Aflam3+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3252
-#EXTINF:-1,AR:SHAHID Aflam2+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3253
-#EXTINF:-1,AR:SHAHID Aflam1+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3254
-#EXTINF:-1,Alkaicer Action Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2398
-#EXTINF:-1,Alkaicer B-Cinema
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2399
-#EXTINF:-1,Alkaicer Box-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2400
-#EXTINF:-1,Alkaicer Comedy-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2401
-#EXTINF:-1,Alkaicer Disney-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2402
-#EXTINF:-1,Alkaicer  Cinema_One
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2403
-#EXTINF:-1,Alkaicer Famely-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2404
-#EXTINF:-1,Alkaicer KidsCo-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2405
-#EXTINF:-1,Alkaicer MasterPiece-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2406
-#EXTINF:-1,Alkaicer Premiere-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2407
-#EXTINF:-1,Alkaicer Thriller-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2408
-#EXTINF:-1,Alkaicer W-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2409
-#EXTINF:-1,Alkaicer The-Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2410
-#EXTINF:-1,Alkaicer The-Movies2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2411
-#EXTINF:-1,TOM &JERRY LIVE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2819
-#EXTINF:-1,Tom & Jerry TV 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3656
-#EXTINF:-1,SHAHID_CARTON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2928
-#EXTINF:-1,SHAHID_ZAMAN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2929
-#EXTINF:-1,SHAHID_ROAP
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2930
-#EXTINF:-1,SHAHID_ACTION
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2931
-#EXTINF:-1,Majestic movies3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3009
-#EXTINF:-1,Majestic Classic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3011
-#EXTINF:-1,Majestic cinema1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3014
-#EXTINF:-1,majestic cinema2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3015
-#EXTINF:-1,fushar-action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2978
-#EXTINF:-1,Egy Best Arabic Film
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3507
-#EXTINF:-1,HOME CINEMA 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3508
-#EXTINF:-1,HOME CINEMA 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3509
-#EXTINF:-1,HOME CINEMA 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3510
-#EXTINF:-1,HOME CINEMA 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3511
-#EXTINF:-1,HOME CINEMA 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3512
-#EXTINF:-1,HOME CINEMA 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3513
-#EXTINF:-1,Aroma Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3514
-#EXTINF:-1,Aroma Arabic Films
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3515
-#EXTINF:-1,Aroma Kids
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3516
-#EXTINF:-1,Aroma Discovery
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3517
-#EXTINF:-1,Aroma Drama Films
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3518
-#EXTINF:-1,Aroma Masra7yat
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3519
-#EXTINF:-1,Aroma Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3520
-#EXTINF:-1,Aroma Zaman
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3521
-#EXTINF:-1,Aroma WWE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3522
-#EXTINF:-1,Box Office 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3523
-#EXTINF:-1,Box Office 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3524
-#EXTINF:-1,Box Office 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3525
-#EXTINF:-1,Box Office 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3526
-#EXTINF:-1,beOUT Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3580
-#EXTINF:-1,beOUT Arabia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3581
-#EXTINF:-1,beOUT Cinema
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3582
-#EXTINF:-1,Casper Action 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3886
-#EXTINF:-1,Casper Action 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3887
-#EXTINF:-1,Casper Action 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3888
-#EXTINF:-1,Casper Anime
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3889
-#EXTINF:-1,Casper Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3890
-#EXTINF:-1,Casper Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3891
-#EXTINF:-1,Casper Documentary
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3892
-#EXTINF:-1,Casper Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3893
-#EXTINF:-1,Casper Turki مدبلج
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3894
-#EXTINF:-1,Casper horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3895
-#EXTINF:-1,AR: RADIO FAIROUZ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3529
-#EXTINF:-1,AR: RADIO CLASSIC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3530
-#EXTINF:-1,AR: RADIO ZAMAN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3531
-#EXTINF:-1,AR: RADIO AMR DIAB
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3532
-#EXTINF:-1,AR: RADIO GEORGE WASOUF
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3533
-#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3534
-#EXTINF:-1,AR: RADIO UMM KULTHUM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3535
-#EXTINF:-1,best tv movies ch
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3555
-#EXTINF:-1,Majestic Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3556
-#EXTINF:-1,Majestic Cinema
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3557
-#EXTINF:-1,Majestic Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3558
-#EXTINF:-1,Mix Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3559
-#EXTINF:-1,Mix Cimena
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3560
-#EXTINF:-1,Mix Crime
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3561
-#EXTINF:-1,Mix Mystery
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3562
-#EXTINF:-1,Mix Sport Movies
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3563
-#EXTINF:-1,Dragon Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3564
-#EXTINF:-1,Dragon Fantasia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3565
-#EXTINF:-1,Dragon Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3566
-#EXTINF:-1,Dragon Western
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3567
-#EXTINF:-1,Dragon Classic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3568
-#EXTINF:-1,Amazon Prime WAR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3569
-#EXTINF:-1,Amazon Prime Thriller
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3570
-#EXTINF:-1,Amazon Prime KIDS
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3571
-#EXTINF:-1,Amazon Prime Adventure
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3572
-#EXTINF:-1,Amazon Prime Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3573
-#EXTINF:-1,iflix Arabia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3574
-#EXTINF:-1,iflix Turk
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3575
-#EXTINF:-1,iflix Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3576
-#EXTINF:-1,iflix Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3577
-#EXTINF:-1,iflix moudablaj
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3578
-#EXTINF:-1,iflix Prime
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3579
-#EXTINF:-1,Masr7 Masr (مسرح مصر)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3583
-#EXTINF:-1,Scare tv
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3585
-#EXTINF:-1,ShowTime1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3586
-#EXTINF:-1,showTime2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3587
-#EXTINF:-1,sarhan ACTION
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3590
-#EXTINF:-1,sarhan CLASSIC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3591
-#EXTINF:-1,ON Asia HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3592
-#EXTINF:-1,ON Horror HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3593
-#EXTINF:-1,ON Series HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3594
-#EXTINF:-1,ON comedy HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3595
-#EXTINF:-1,ON Docunentary HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3596
-#EXTINF:-1,ON LOVEH HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3597
-#EXTINF:-1,ON Turkey HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3598
-#EXTINF:-1,ON Arabic HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3599
-#EXTINF:-1,ON 2K Cinema HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3600
-#EXTINF:-1,ON Cartoon Zaman HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3601
-#EXTINF:-1,ON SCIFI HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3602
-#EXTINF:-1,ON Movies HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3603
-#EXTINF:-1,HULU Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3695
-#EXTINF:-1,HUlu Box-office
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3696
-#EXTINF:-1,Hulu Arabia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3697
-#EXTINF:-1,Hulu Bollywood
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3698
-#EXTINF:-1,AR: NETFLIX DISNEY 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3726
-#EXTINF:-1,AR: SKY FLIX ACTION
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3727
-#EXTINF:-1,AR: SKY FLIX AFLAM 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3728
-#EXTINF:-1,AR: SKY FLIX AFLAM 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3729
-#EXTINF:-1,AR: SKY FLIX DRAMA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3730
-#EXTINF:-1,AR: SKY FLIX COMEDY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3731
-#EXTINF:-1,AR: SKY FLIX HORROR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3732
-#EXTINF:-1,AR: SKY FLIX BOX OFFICE 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3733
-#EXTINF:-1,AR: SKY FLIX BOXOFFICE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3734
-#EXTINF:-1,AR: SKY FLIX BOLLYWOODY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3735
-#EXTINF:-1,AR: SKY FLIX ANIME 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3736
-#EXTINF:-1,SKYFLIX 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3691
-#EXTINF:-1,SKYFLIX 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3692
-#EXTINF:-1,SKYFLIX 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3693
-#EXTINF:-1,SKYFLIX 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3694
-#EXTINF:-1,AR: Shahid VIP Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3722
-#EXTINF:-1,AR: Shahid VIP Horror
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3723
-#EXTINF:-1,AR: Shahid VIP INDIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3714
-#EXTINF:-1,AR: Shahid VIP Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3715
-#EXTINF:-1,AR: Shahid VIP TURKISH
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3716
-#EXTINF:-1,AR: Shahid VIP Action
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3713
-#EXTINF:-1,AR:Shahid VIP Documentary
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3717
-#EXTINF:-1,AR: Shahid VIP Wild
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3720
-#EXTINF:-1,AR: Shahid VIP Anime
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3721
-#EXTINF:-1,AR: Shahid VIP WAR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3725
-#EXTINF:-1,•●★★--- ART Channels ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/122
-#EXTINF:-1,AR: ART Aflam 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/997
-#EXTINF:-1,AR: ART Aflam  2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/102
-#EXTINF:-1,AR: ART Cinema
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/103
-#EXTINF:-1,AR: ART Hekayat 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/104
-#EXTINF:-1,AR: ART Hekayat 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/105
-#EXTINF:-1,•●★★--- KIDS ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1009
-#EXTINF:-1,AR: hodhod
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1010
-#EXTINF:-1,AR: Cartoon Network
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1011
-#EXTINF:-1,AR: PBS Kids 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1012
-#EXTINF:-1,AR: Sky KIDS1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1013
-#EXTINF:-1,AR: KARAMEESH
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1014
-#EXTINF:-1,AR: Kooky
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1015
-#EXTINF:-1,AR: Toyor Al Ganna
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1020
-#EXTINF:-1,AR: Maged
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1019
-#EXTINF:-1,AR: Spacetoon
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1017
-#EXTINF:-1,AR: Mwaheb
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1016
-#EXTINF:-1,•●★★--- NEWS ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/998
-#EXTINF:-1,AR: Al Jazeera
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/999
-#EXTINF:-1,AR: Al Jazeera Documentry
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1000
-#EXTINF:-1,AR: AL JAZEERA MUBASHER
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3208
-#EXTINF:-1,AR: AlJazeera-English
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3209
-#EXTINF:-1,AR: AlJazeera Eng
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3210
-#EXTINF:-1,AR: Al Jazeera FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1003
-#EXTINF:-1,AR: Al ALArabiya
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1001
-#EXTINF:-1,AR: Al ALArabiya Alhadaath
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1002
-#EXTINF:-1,AR: BBC Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1005
-#EXTINF:-1,AR: RT News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1008
-#EXTINF:-1,AR: Sky News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1007
-#EXTINF:-1,AR: TRT-ELARABIYE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1006
-#EXTINF:-1,AR: RT Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1004
-#EXTINF:-1, AR: FR 24 arabic HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3206
-#EXTINF:-1,AR: DW Arabic
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3207
-#EXTINF:-1,AR:  Alhurra
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3211
-#EXTINF:-1,CNN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3212
-#EXTINF:-1,France 24 (En Francais)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3213
-#EXTINF:-1,AR:Houra News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3214
-#EXTINF:-1,•●★★--- Rotana ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/176
-#EXTINF:-1,AR:Rotana Cinema 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/106
-#EXTINF:-1,AR: Rotana Cinema KSA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/107
-#EXTINF:-1,AR:Rotana Aflam
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/108
-#EXTINF:-1,AR: Rotana  Comedy 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/109
-#EXTINF:-1,AR: Rotana Classic 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/110
-#EXTINF:-1,AR: Rotana Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3215
-#EXTINF:-1,AR: Rotana Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3216
-#EXTINF:-1,AR: Rotana Clip
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3217
-#EXTINF:-1,AR: Rotana Kids HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3469
-#EXTINF:-1,AR: Rotana Khaliji
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3218
-#EXTINF:-1,•●★★--- Egypt ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/511
-#EXTINF:-1,AR: ON Time Sport 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2397
-#EXTINF:-1,AR: ON Time Sport 1HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/507
-#EXTINF:-1,AR: ON Time Sport 2 SD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2396
-#EXTINF:-1,AR: ON Time Sport 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/949
-#EXTINF:-1,AR: Time Sport
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/951
-#EXTINF:-1,AR: Alahly
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/952
-#EXTINF:-1,AR: Zamalek TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2068
-#EXTINF:-1,AR: :Al Oula
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3655
-#EXTINF:-1,AR:  Sada Elbabad
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/495
-#EXTINF:-1,AR:  Nile Sport
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/496
-#EXTINF:-1,AR:  Nile Comedy
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/497
-#EXTINF:-1,AR: Nile News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/498
-#EXTINF:-1,AR: D Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/499
-#EXTINF:-1,AR:CBC Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/500
-#EXTINF:-1,AR:CBC Sofra
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/501
-#EXTINF:-1,AR:CBC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/502
-#EXTINF:-1,AR:DMC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/503
-#EXTINF:-1,AR:Alnahar
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/504
-#EXTINF:-1,AR: ALnahar Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/505
-#EXTINF:-1,AR: ON Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/506
-#EXTINF:-1,AR: ON E
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/508
-#EXTINF:-1,AR: Alhayah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/509
-#EXTINF:-1,AR:  Maspero-Zaman
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/950
-#EXTINF:-1,AR: Mehwar
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/510
-#EXTINF:-1,AR : Zee Alwan
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3308
-#EXTINF:-1,AR : ZEE AFLAM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3309
-#EXTINF:-1,•●★★--- SUDAN ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3158
-#EXTINF:-1,AR: SUDAN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3142
-#EXTINF:-1,AR: Sudan AlIstijaba
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3143
-#EXTINF:-1,AR: Sudan Ashorooq
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3144
-#EXTINF:-1,AR: Sudan BlueNile
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3145
-#EXTINF:-1,AR: Sudan Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3146
-#EXTINF:-1,AR: Sudan Jazeera_Green
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3147
-#EXTINF:-1,AR: Sudan Kassala
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3148
-#EXTINF:-1,AR: Sudan Khartoum
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3149
-#EXTINF:-1,AR: Sudan Knowledge
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3150
-#EXTINF:-1,AR: Sudan Monwaat
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3151
-#EXTINF:-1,AR: Sudan Music
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3152
-#EXTINF:-1,AR: Sudan OmDorman
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3153
-#EXTINF:-1,AR: Sudan Sport HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3155
-#EXTINF:-1,AR: Sudan Tybah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3156
-#EXTINF:-1,AR: Sudania 24
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3157
-#EXTINF:-1,•●★★--- PALESTINE ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/493
-#EXTINF:-1,AR: betlahem 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2843
-#EXTINF:-1,AR: Betlahem 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2842
-#EXTINF:-1,AR: FajerTV1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/584
-#EXTINF:-1,AR: FajerTV2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/587
-#EXTINF:-1,AR: palastine  live
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/590
-#EXTINF:-1,AR: FajerTV 1 1080
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/593
-#EXTINF:-1,AR: radio marah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/596
-#EXTINF:-1,AR: Raya
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/481
-#EXTINF:-1,AR: Ajyal
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/482
-#EXTINF:-1,Al nagah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/483
-#EXTINF:-1,AR: Palastine Sport 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3314
-#EXTINF:-1,AR: HalowTV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3316
-#EXTINF:-1,AR: Palstine Today
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/486
-#EXTINF:-1,AR: Aqsa tv
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2944
-#EXTINF:-1,AR: nablus live
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3045
-#EXTINF:-1,AR: You sat
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/448
-#EXTINF:-1,AR: Fajr 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/449
-#EXTINF:-1,•●★★--- LIBYA ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3141
-#EXTINF:-1,[LIB] Libya Sport Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3455
-#EXTINF:-1,AR: Libya Sport 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3652
-#EXTINF:-1,AR: LIBYA 218 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3128
-#EXTINF:-1,AR: Libya 218 News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3129
-#EXTINF:-1,AR: Libya AlAhrar
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3130
-#EXTINF:-1,AR: Libya Alhadath
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3131
-#EXTINF:-1,AR: Lpc
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3132
-#EXTINF:-1,AR: Libya Alwatanya
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3133
-#EXTINF:-1,AR: Libya elwatan
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3134
-#EXTINF:-1,AR: Libya 218 News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3135
-#EXTINF:-1,AR: LIBYA WTV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3136
-#EXTINF:-1,AR: Libya 218
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3137
-#EXTINF:-1,AR: Libya Tanasuh
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3138
-#EXTINF:-1,AR: Libya Waad
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3139
-#EXTINF:-1,AR: Libyas Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3140
-#EXTINF:-1,•●★★--- MAROC ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/725
-#EXTINF:-1, MA:ALOULA INT 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/726
-#EXTINF:-1, MA:ALMAGHRIBIA 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/727
-#EXTINF:-1, MA:2M 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/728
-#EXTINF:-1, MA: CHADA TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/729
-#EXTINF:-1, MA:ASSADISA 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/730
-#EXTINF:-1, MA: telemaroc 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/733
-#EXTINF:-1, MA:ARRIADIA 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/731
-#EXTINF:-1, MA:MEDI1 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/732
-#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/734
-#EXTINF:-1, MA:TELE MAROC 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/735
-#EXTINF:-1, MA:TAMAZIGHT 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/736
-#EXTINF:-1,AR: Alrrabia FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3107
-#EXTINF:-1,AR: AL MAGHRIBIA 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3109
-#EXTINF:-1,AR: AL MAGHRIBIA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3110
-#EXTINF:-1,AR: Assadissa FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3111
-#EXTINF:-1,AR: Assadissa
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3112
-#EXTINF:-1,AR: Assabiaa FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3113
-#EXTINF:-1,AR: Tamazight HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3114
-#EXTINF:-1,AR: Medi1 Afrique FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3115
-#EXTINF:-1,•●★★--- TUNISIA ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/889
-#EXTINF:-1,AR: Baya TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3878
-#EXTINF:-1,TN:WATANIA1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/890
-#EXTINF:-1,TN:WATANIA2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/891
-#EXTINF:-1,TN:ELHIWAR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/892
-#EXTINF:-1,TN:NESSMA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/893
-#EXTINF:-1,Tunisia Carthage
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2541
-#EXTINF:-1,TN:HANNIBAL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/894
-#EXTINF:-1,TN:ATTESIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/895
-#EXTINF:-1,TN:MTUNISIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/896
-#EXTINF:-1,TN:TELEVISION1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/903
-#EXTINF:-1,TN:SAHELTV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/905
-#EXTINF:-1,TN:ALMOSTKELLA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/902
-#EXTINF:-1,TN:ALINSEN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/901
-#EXTINF:-1,TN:ZAYTOUNA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/900
-#EXTINF:-1,TN:TELVZATV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/899
-#EXTINF:-1,TN:JANOUBIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/898
-#EXTINF:-1,TN:TOUNESNA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/897
-#EXTINF:-1,•●★★--- ALGERIA ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/906
-#EXTINF:-1,Algerian:CANAL ALGERIE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/907
-#EXTINF:-1,Algerian:ALGERIE3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/908
-#EXTINF:-1,Algerian:shababia 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/909
-#EXTINF:-1,Algerian:ECHOUROUK
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/911
-#EXTINF:-1,Algerian:DJAZAIRIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/910
-#EXTINF:-1,Algerian:Echorouk BENNA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/912
-#EXTINF:-1,Algerian:Dzair 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/913
-#EXTINF:-1,Algerian:SAMIRA TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/915
-#EXTINF:-1,Algerian:ENTV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/917
-#EXTINF:-1,Algerian:Bahia Tv
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/946
-#EXTINF:-1,Algerian:TV BERBERE HD*
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/945
-#EXTINF:-1,Algerian:BEUR TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/918
-#EXTINF:-1,Algerian:ALHADEF
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/919
-#EXTINF:-1,AL MAGHRIBIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/943
-#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/941
-#EXTINF:-1,Algerian:ELHAYA-ALGERIE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/938
-#EXTINF:-1,Algerian: ENNAHAR TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/935
-#EXTINF:-1,Algerian:Awrass  TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/932
-#EXTINF:-1,Algerian: El-Heddaf.TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/933
-#EXTINF:-1,Algerian: BAHIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/931
-#EXTINF:-1,Algerian: Samira
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/927
-#EXTINF:-1,Algerian:ENNAHAR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/924
-#EXTINF:-1,Algerian:Numidia--TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/922
-#EXTINF:-1,Algerian:ECHOUROUK News TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/923
-#EXTINF:-1,Algerian-ELBILAD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/926
-#EXTINF:-1,Algerian:Algeria-DZAIR 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/925
-#EXTINF:-1,Algerian: ALGERIE3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/928
-#EXTINF:-1,Algerian: ALGERIE4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/929
-#EXTINF:-1,Algerian: ALGERIE5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/930
-#EXTINF:-1,•●★★--- SYRIA --★★●• 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1999
-#EXTINF:-1,SY: SYRIA. ALOULA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2000
-#EXTINF:-1,SY: SYRIA.DRAMA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2001
-#EXTINF:-1,Syr-Sama-TV+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2002
-#EXTINF:-1,SY: LANA Tv
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2003
-#EXTINF:-1,SY: Sama.alsham
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2013
-#EXTINF:-1,SY: SYRIA-TV2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2005
-#EXTINF:-1,SY: NOUREL SHAM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2012
-#EXTINF:-1,SY: Halab-Today
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2011
-#EXTINF:-1,SY: Al.KhabarTV HD*
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2010
-#EXTINF:-1,SY:  LANA Tv HD*
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2009
-#EXTINF:-1,SY: Syria Education Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2004
-#EXTINF:-1,SY: Syria alyoum
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2008
-#EXTINF:-1,SY: SYRIA.ALIKHBARIA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2006
-#EXTINF:-1,==== IRAQ =====
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3075
-#EXTINF:-1,AR: AL HURRA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3076
-#EXTINF:-1,AR:Al Iraqiya
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3079
-#EXTINF:-1,AR:Al Iraqiya News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3080
-#EXTINF:-1,AR:Al Al Rafidain
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3081
-#EXTINF:-1,AR:Al Sharqiya News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3083
-#EXTINF:-1,AR:Babylon TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3085
-#EXTINF:-1,AR: News Dijlah
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3086
-#EXTINF:-1,AR:Dijlah Tarab
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3087
-#EXTINF:-1,AR:KurdMax
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3088
-#EXTINF:-1,AR:Kurdistan TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3089
-#EXTINF:-1,AR Rudaw TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3091
-#EXTINF:-1,•●★★--- Lebanon ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3043
-#EXTINF:-1,LBC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3025
-#EXTINF:-1,LBCI.International
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3026
-#EXTINF:-1,LDC LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3027
-#EXTINF:-1,LEBANON TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3028
-#EXTINF:-1,MTV LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3029
-#EXTINF:-1,HAWACOM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3030
-#EXTINF:-1,FUTURE LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3031
-#EXTINF:-1,NBN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3032
-#EXTINF:-1,AL MAYADEEN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3033
-#EXTINF:-1,AL MANAR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3034
-#EXTINF:-1,AGHANI AGHANI
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3035
-#EXTINF:-1,NOURSAT LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3036
-#EXTINF:-1,NOUR AL SHAM
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3037
-#EXTINF:-1,AL JADEED LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3038
-#EXTINF:-1,AL EKHBARIYA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3039
-#EXTINF:-1,OTV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3040
-#EXTINF:-1,ARABICA MUSIC LEBANON
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3042
-#EXTINF:-1,•●★★--- World  ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/123
-#EXTINF:-1,Smart Sport ((كاس الاتحاد الاسيوي))
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3779
-#EXTINF:-1,AR: AD Sport 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/112
-#EXTINF:-1,AR: AD Sport 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/113
-#EXTINF:-1,AR: AD Sport 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/114
-#EXTINF:-1,AR: AD Sport 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/115
-#EXTINF:-1,AR: SSC1  Sport HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3833
-#EXTINF:-1,AR: SSC Sport 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3834
-#EXTINF:-1,AR: SSC Sport 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3835
-#EXTINF:-1,AR: SSC Sport 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3836
-#EXTINF:-1,AR: SSC Sport 5 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3837
-#EXTINF:-1,Ar: SSC Sport 6 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3838
-#EXTINF:-1,AR: SSC Sport 7 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3839
-#EXTINF:-1,AR: KSA Sports 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2053
-#EXTINF:-1,AR: KSA Sports 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2054
-#EXTINF:-1,AR: KSA SPORTS 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2055
-#EXTINF:-1,AR: ksa Sport 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2056
-#EXTINF:-1,AR: Sharjah Sports TV FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3233
-#EXTINF:-1,AR: Alkass 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1461
-#EXTINF:-1,AR: Alkass 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1462
-#EXTINF:-1,AR: Alkass 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1463
-#EXTINF:-1,AR: Alkass 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1464
-#EXTINF:-1,IR: Varzesh
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2113
-#EXTINF:-1,Arena Sport 2 (Serb)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1466
-#EXTINF:-1,Arena Sport 3 (Serb
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1467
-#EXTINF:-1,Arena Sport 4 (Serb
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1468
-#EXTINF:-1,Arena Sport 5 (Serb)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1469
-#EXTINF:-1,Arena Sport 1 (Serb)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1465
-#EXTINF:-1,PT: Sport TV 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2165
-#EXTINF:-1,PT: Sport TV 1 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2166
-#EXTINF:-1,PT: Sport TV 2 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2167
-#EXTINF:-1,PT: Sport TV 3 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2168
-#EXTINF:-1,PT: Sport TV 4 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2169
-#EXTINF:-1,PT:  Sport TV 5 HD 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2170
-#EXTINF:-1,MATCH 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2837
-#EXTINF:-1,TRT Sport HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2839
-#EXTINF:-1,RAI 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2836
-#EXTINF:-1,BT SPORT 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2840
-#EXTINF:-1,ZA: SuperSport Action HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3060
-#EXTINF:-1,ZA: SuperSport Cricket HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3061
-#EXTINF:-1,ZA: SuperSport Football HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3062
-#EXTINF:-1,ZA: SuperSport LaLiga
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3064
-#EXTINF:-1,ZA: SuperSport Golf FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3063
-#EXTINF:-1,ZA: SuperSport Grandstand FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3065
-#EXTINF:-1,ZA: SuperSport Maximo 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3066
-#EXTINF:-1,ZA: SuperSport Premier League HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3067
-#EXTINF:-1,ZA: SuperSport PSL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3068
-#EXTINF:-1,ZA: SuperSport Tennis FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3069
-#EXTINF:-1,ZA: SuperSport Variety 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3070
-#EXTINF:-1,ARGENTINA: TNT SPORT
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3072
-#EXTINF:-1,ARGENTINA: TYC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3073
-#EXTINF:-1,POL: CANAL_SPORT
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3159
-#EXTINF:-1,AL: TRING_SPORT_1HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3169
-#EXTINF:-1,AL: TRING_SPORT_2HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3170
-#EXTINF:-1,AL: TRING_SPORT_3HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3171
-#EXTINF:-1,AL: TRING_SPORT_4HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3172
-#EXTINF:-1,AL:SUPER SPORT 1 NEWS
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3173
-#EXTINF:-1,AL:SUPER SPORT 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3174
-#EXTINF:-1,AL:SUPER SPORT 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3175
-#EXTINF:-1,AL:SUPER SPORT 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3176
-#EXTINF:-1,AL: EXPLORER_NATYRA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3177
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3279
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3280
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3281
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3282
-#EXTINF:-1,NL:Ziggo Sport Voetbal 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3544
-#EXTINF:-1,NL:Ziggo Sport Select HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3545
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3445
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3446
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3447
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3448
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3449
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3450
-#EXTINF:-1,ZDF HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3460
-#EXTINF:-1,20 Mediaset
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3461
-#EXTINF:-1,Italia 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3462
-#EXTINF:-1,•●★★--- France ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/478
-#EXTINF:-1,|FR| CANAL FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1022
-#EXTINF:-1,|FR| CANAL CINEMA FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1023
-#EXTINF:-1,|FR| CANAL DECALE FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1024
-#EXTINF:-1,|FR| CANAL SERIES FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1026
-#EXTINF:-1,|FR| CANAL FAMILY FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1025
-#EXTINF:-1,|FR| CANAL SPORT FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1027
-#EXTINF:-1,|FR| CINE+ CLASSIC FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1028
-#EXTINF:-1,|FR| CINE+ CLUB FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1029
-#EXTINF:-1,|FR| CINE+ EMOTION FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1030
-#EXTINF:-1,|FR| CINE+ FAMIZ FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1031
-#EXTINF:-1,|FR| CINE+ FRISSON FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1032
-#EXTINF:-1,|FR| CINE+ ¨POLAR FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1033
-#EXTINF:-1,|FR| CINE+ PREMIER FIHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1034
-#EXTINF:-1,|FR| TF1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1035
-#EXTINF:-1,|FR| TF1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1036
-#EXTINF:-1,|FR| M6 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1037
-#EXTINF:-1,|FR| M6 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1038
-#EXTINF:-1,|FR| W9 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1039
-#EXTINF:-1,|FR| ARTE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1041
-#EXTINF:-1,|FR| RMC STORY FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1042
-#EXTINF:-1,|FR| FRANCE O HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1044
-#EXTINF:-1,|FR| FRANCE 2  FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1045
-#EXTINF:-1,|FR| RMC STORY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1043
-#EXTINF:-1,|FR| W9 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1040
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1046
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1047
-#EXTINF:-1,|FR| FRANCE 3 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1048
-#EXTINF:-1,|FR| FRANCE 4 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1049
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1050
-#EXTINF:-1,|FR| FRANCE 5 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1051
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1052
-#EXTINF:-1,|FR| TFX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1053
-#EXTINF:-1,|FR| CNEWS FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1055
-#EXTINF:-1,|FR| BFM TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1056
-#EXTINF:-1,|FR| TMC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1054
-#EXTINF:-1,|FR| EURONEWS
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1057
-#EXTINF:-1,|FR| FRANCE 24
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1058
-#EXTINF:-1,|FR| TV5 MONDE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1059
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1073
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1074
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1075
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1076
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1077
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1078
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1079
-#EXTINF:-1,|FR| BEIN MAX 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1080
-#EXTINF:-1,|FR| BEIN MAX 5 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1081
-#EXTINF:-1,|FR| BEIN MAX 7 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1083
-#EXTINF:-1,|FR| BEIN MAX 8 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1084
-#EXTINF:-1,|FR| BEIN MAX 9 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1085
-#EXTINF:-1,|FR| BEIN MAX 10 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1086
-#EXTINF:-1,|FR| BEIN MAX 6 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1082
-#EXTINF:-1,|FR| EXTREME SPORT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1087
-#EXTINF:-1,|FR| EUROSPORT 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1088
-#EXTINF:-1,|FR| EUROSPORT 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1089
-#EXTINF:-1,|FR| FOOT+ 24/24
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1090
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1091
-#EXTINF:-1,|FR| GOLF+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1092
-#EXTINF:-1,|FR| OL TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1093
-#EXTINF:-1,|FR| INFOSPORT+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1094
-#EXTINF:-1,|FR| RMC NEWS SPORT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1095
-#EXTINF:-1,|FR| EQUIDIA LIVE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1096
-#EXTINF:-1,|FR| EQUIDIA LIFE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1097
-#EXTINF:-1,|FR| AUTO MOTO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1098
-#EXTINF:-1,|FR| KOMBAT SPORT
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1099
-#EXTINF:-1,|FR| CANAL+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1100
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1101
-#EXTINF:-1,|FR| CANAL+  CINEMA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1102
-#EXTINF:-1,|FR| CANAL+ SERIE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1104
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1103
-#EXTINF:-1,|FR| CANAL+  FAMILY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1105
-#EXTINF:-1,|FR| CANAL+  FAMILY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1106
-#EXTINF:-1,|FR| CANAL+  DECALE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1107
-#EXTINF:-1,|FR| CANAL+  DECALE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1108
-#EXTINF:-1,|FR| CANAL+  SPORT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1109
-#EXTINF:-1,|FR| OCS MAX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1110
-#EXTINF:-1,|FR| OCS GEANT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1111
-#EXTINF:-1,|FR| OCS CITY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1113
-#EXTINF:-1,|FR| CINE+  PREMIER
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1114
-#EXTINF:-1,|FR| CINE+  PREMIER HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1115
-#EXTINF:-1,|FR| OCS CHOC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1112
-#EXTINF:-1,|FR| CINE+  FRISSON HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1116
-#EXTINF:-1,|FR| CINE+  FAMIZ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1117
-#EXTINF:-1,|FR| CINE+  EMOTION HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1118
-#EXTINF:-1,|FR| CINE CLASSIC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1119
-#EXTINF:-1,|FR| CINE+ CLUB HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1120
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1121
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1123
-#EXTINF:-1,|FR| TCM CINEMA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1124
-#EXTINF:-1,|FR| ACTION HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1125
-#EXTINF:-1,|FR| E! HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1126
-#EXTINF:-1,|FR| BET HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1127
-#EXTINF:-1,|FR| COMEDIE+ FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1129
-#EXTINF:-1,|FR| COMEDIE+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1130
-#EXTINF:-1,|FR| MCM HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1128
-#EXTINF:-1,|FR| SYFY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1131
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1132
-#EXTINF:-1,|FR| TV BREIZH FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1133
-#EXTINF:-1,|FR| TV BREIZH HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1134
-#EXTINF:-1,|FR| RTL9 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1135
-#EXTINF:-1,|FR| TEVA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1136
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1137
-#EXTINF:-1,|FR| 13EME RUE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1138
-#EXTINF:-1,|FR| AB1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1140
-#EXTINF:-1,|FR| AB1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1141
-#EXTINF:-1,|FR| AB3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1142
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1139
-#EXTINF:-1,|FR| J ONE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1143
-#EXTINF:-1,|FR| GAME ONE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1144
-#EXTINF:-1,|FR| CHERIE25 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1145
-#EXTINF:-1,|FR| NRJ12 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1146
-#EXTINF:-1,|FR| RTS UN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1147
-#EXTINF:-1,|FR| RTS  DEUX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1148
-#EXTINF:-1,|FR| 6TER HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1149
-#EXTINF:-1,|FR| HD1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1150
-#EXTINF:-1,|FR| HD1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1151
-#EXTINF:-1,|FR| CSTAR FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1153
-#EXTINF:-1,|FR| CSTAR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1154
-#EXTINF:-1,|FR| TOONAMI  FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1155
-#EXTINF:-1,|FR| TOONAMI  HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1156
-#EXTINF:-1,|FR| Gong
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3868
-#EXTINF:-1,|FR| CARTOON NETWORK FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1157
-#EXTINF:-1,|FR| C8 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1152
-#EXTINF:-1,|FR| CARTOON NETWORK HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1158
-#EXTINF:-1,|FR| TELETOON+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1159
-#EXTINF:-1,|FR| ZOUZOU TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1160
-#EXTINF:-1,|FR| NICKELODEON JR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1161
-#EXTINF:-1,|FR| NICKELODEON HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1162
-#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1163
-#EXTINF:-1,|FR| DISNEY CINEMA  FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1164
-#EXTINF:-1,|FR| DISNEY CINEMA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1165
-#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1166
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1167
-#EXTINF:-1,|FR| DISNEY XD FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1168
-#EXTINF:-1,|FR| DISNEY XD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1169
-#EXTINF:-1,|FR| PIWI HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1170
-#EXTINF:-1,|FR| CANAL J HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1171
-#EXTINF:-1,|FR| BOOMERANG HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1172
-#EXTINF:-1,|FR| BOING HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1175
-#EXTINF:-1,|FR| DISNEY JUNIOR FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1176
-#EXTINF:-1,|FR| MANGAS HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1173
-#EXTINF:-1,|FR| BOING FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1174
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1177
-#EXTINF:-1,|FR| TIJI HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1178
-#EXTINF:-1,|FR| GULLI HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1179
-#EXTINF:-1,|FR| WEO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1180
-#EXTINF:-1,|FR| DISCOVERY FAMILY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1181
-#EXTINF:-1,|FR| CRIME DISTRICT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1182
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1183
-#EXTINF:-1,|FR| DISCOVERY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1184
-#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1185
-#EXTINF:-1,|FR| VOYAGE FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1186
-#EXTINF:-1,|FR| VOYAGE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1187
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1188
-#EXTINF:-1,|FR| NATIONAL GEO FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1189
-#EXTINF:-1,|FR| NATIONAL GEO WILD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1190
-#EXTINF:-1,|FR| ANIMAUX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1191
-#EXTINF:-1,|FR| CHASSE ET PECHE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1192
-#EXTINF:-1,|FR| SEASONS HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1193
-#EXTINF:-1,|FR| SCIENCES & VIE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1194
-#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1195
-#EXTINF:-1,|FR| HISTOIRE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1196
-#EXTINF:-1,|FR| USHUAIA TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1197
-#EXTINF:-1,|FR| PLANETE+ A&E FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1198
-#EXTINF:-1,|FR| PLANETE+ A&E HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1199
-#EXTINF:-1,|FR| PLANETE  CI HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1200
-#EXTINF:-1,|FR| PLANETE+ HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1201
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD.
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1202
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1203
-#EXTINF:-1,|FR| TREK HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1204
-#EXTINF:-1,|FR| CANAL PLAY 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1205
-#EXTINF:-1,|FR| CANAL PLAY 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1206
-#EXTINF:-1,|FR| CANAL PLAY 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1207
-#EXTINF:-1,|FR| CANAL PLAY 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1208
-#EXTINF:-1,|FR| CANAL PLAY 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1209
-#EXTINF:-1,|FR| CANAL PLAY 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1210
-#EXTINF:-1,|FR|  A LA CARTE 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1211
-#EXTINF:-1,|FR|  A LA CARTE 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1212
-#EXTINF:-1,|FR|  A LA CARTE 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1213
-#EXTINF:-1,|FR|  A LA CARTE 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1214
-#EXTINF:-1,|FR|  A LA CARTE 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1215
-#EXTINF:-1,|FR|  A LA CARTE 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1216
-#EXTINF:-1,|FR|  A LA CARTE 7
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1217
-#EXTINF:-1,|FR|  A LA CARTE 9
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1219
-#EXTINF:-1,|FR|  A LA CARTE 10
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1220
-#EXTINF:-1,|FR|  A LA CARTE 8
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1218
-#EXTINF:-1,FR: Amazon Prime Video 1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3856
-#EXTINF:-1,FR: Amazon Prime Video 2 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3857
-#EXTINF:-1,FR: Amazon Prime Video 3 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3858
-#EXTINF:-1,FR: Amazon Prime Video 4 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3859
-#EXTINF:-1,FR: Amazon Prime Video 5 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3860
-#EXTINF:-1,FR: Amazon Prime Video 6 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3861
-#EXTINF:-1,FR: Amazon Prime Video 7 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3862
-#EXTINF:-1,FR: Amazon Prime Video 8 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3863
-#EXTINF:-1,•●★★--- Spain ---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/479
-#EXTINF:-1,ES: DAZN 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3470
-#EXTINF:-1,ES: DAZN 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3471
-#EXTINF:-1,ES: CUATRO FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3058
-#EXTINF:-1,ES: Cuatro hd
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3059
-#EXTINF:-1,ES:  Movistar Accion HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/340
-#EXTINF:-1,ES: Viajar HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/341
-#EXTINF:-1,ES: Movistar  DCine HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/342
-#EXTINF:-1,ES: Movistar Cine N
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/343
-#EXTINF:-1,ES: Movistar GOLF HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/344
-#EXTINF:-1,ES: Movistar Series HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/345
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2345
-#EXTINF:-1,ES: MOVISTAR Liga Campeones HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/2344
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/346
-#EXTINF:-1,ES: AXN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/347
-#EXTINF:-1,ES: CALLE 13 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/348
-#EXTINF:-1,ES: #0 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/349
-#EXTINF:-1,ES: Movistar F1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/350
-#EXTINF:-1,ES: Movistar toros HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/351
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/352
-#EXTINF:-1,ES: Movistar  Estrenos HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/353
-#EXTINF:-1,ES: Movistar Gp
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/354
-#EXTINF:-1,ES: CANAL  LIGA  HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/355
-#EXTINF:-1,ES: Movistar  Series Xtra HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/356
-#EXTINF:-1,ES: Canal Coccina
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/357
-#EXTINF:-1,ES: A&E
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/358
-#EXTINF:-1,ES: ANTENNA 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/359
-#EXTINF:-1,ES: MEGA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/360
-#EXTINF:-1,ES: C  GOLF
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/361
-#EXTINF:-1,ES: CAZAYPESCA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/362
-#EXTINF:-1,ES: AMC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/363
-#EXTINF:-1,ES: Cosmo HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/364
-#EXTINF:-1,ES: MOVISTAR Seriesmania HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/365
-#EXTINF:-1,ES: Cuatro HD Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/366
-#EXTINF:-1,ES: DISNEY CHANNEL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/367
-#EXTINF:-1,ES: ENERGY
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/368
-#EXTINF:-1,ES: FDF
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/369
-#EXTINF:-1,ES: FOX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/370
-#EXTINF:-1,ES: La Liga TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/371
-#EXTINF:-1,ES: History
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/372
-#EXTINF:-1,ES: LA 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/373
-#EXTINF:-1,ES: LA 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/374
-#EXTINF:-1,ES: la sexta HD_local
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/375
-#EXTINF:-1,ES: Movistar Toros
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/376
-#EXTINF:-1,ES: NATIONAL GEO WILD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/377
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC CHANNEL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/378
-#EXTINF:-1,ES: NEOX
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/379
-#EXTINF:-1,ES: REAL MADRID TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/380
-#EXTINF:-1,ES: SYFY Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/381
-#EXTINF:-1,ES: TELECINCO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/382
-#EXTINF:-1,ES: TOROS TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/383
-#EXTINF:-1,ES:  Fox Life Dual II
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/385
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/386
-#EXTINF:-1,ES: Barca tv
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3219
-#EXTINF:-1, LIGA TV (ES)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/415
-#EXTINF:-1, LALIGA TV BAR (ES)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/416
-#EXTINF:-1, LIGA 123 HD (ES)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/417
-#EXTINF:-1, LIGA CAMPEONES HD (ES)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/418
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3658
-#EXTINF:-1,[ES] ALQUILER 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3622
-#EXTINF:-1,[ES] ALQUILER 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3623
-#EXTINF:-1,[ES] ALQUILER 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3624
-#EXTINF:-1,[ES] ALQUILER 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3625
-#EXTINF:-1,[ES] ALQUILER 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3626
-#EXTINF:-1,[ES] ALQUILER 6
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3627
-#EXTINF:-1,[ES] ALQUILER 7
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3628
-#EXTINF:-1,[ES] ALQUILER 8
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3629
-#EXTINF:-1,[ES] ALQUILER 9
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3630
-#EXTINF:-1,[ES] ALQUILER 10
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3631
-#EXTINF:-1,[ES] PARAMOUNT
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3632
-#EXTINF:-1,[ES] M.DRAMA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3633
-#EXTINF:-1,[ES] M. FORMULA 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3634
-#EXTINF:-1,[ES] GOL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3635
-#EXTINF:-1,[ES] EUROSPORT 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3636
-#EXTINF:-1,[ES] EUROSPORT 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3637
-#EXTINF:-1,[ES] COMEDY CENTRAL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3638
-#EXTINF:-1,[ES] BOING
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3639
-#EXTINF:-1,[ES] NOVA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3640
-#EXTINF:-1,[ES] DISNEY JR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3641
-#EXTINF:-1,[ES] DISNEY XD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3642
-#EXTINF:-1,[ES] NICKELODEON  HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3643
-#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3645
-#EXTINF:-1,MOVISTAR LaLiga 2 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3657
-#EXTINF:-1,|ES| BEIN LIGA 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3659
-#EXTINF:-1,|ES| BEIN LIGA 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3660
-#EXTINF:-1,TELEDEPORTE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3814
-#EXTINF:-1,ES: DAZN 3 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3816
-#EXTINF:-1,ES DAZN 4 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3817
-#EXTINF:-1,ES DAZN F1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3818
-#EXTINF:-1,ES: Movitar DRAMA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3819
-#EXTINF:-1,ES: Ten
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3820
-#EXTINF:-1,ES: DMAX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3821
-#EXTINF:-1,ES: TNT FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3822
-#EXTINF:-1,ES: Discovery World HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3823
-#EXTINF:-1,ES: ESPN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3824
-#EXTINF:-1,ES: #VAMOS FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3825
-#EXTINF:-1,DAZN 5 (SOLO EVENTOS)
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3826
-#EXTINF:-1,ES: M. Deportes 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3827
-#EXTINF:-1,ES: M. LALIGA 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3830
-#EXTINF:-1,ES: Odisea
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3829
-#EXTINF:-1,ES: ESPN Deportes 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3832
-#EXTINF:-1,•●★★--- USA---★★●•
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/844
-#EXTINF:-1,US:  ABC 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3653
-#EXTINF:-1,US: ABC News
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3654
-#EXTINF:-1,US: TNT HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3048
-#EXTINF:-1,US: TSN 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3057
-#EXTINF:-1,US:  TSN 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3056
-#EXTINF:-1,US: TSN 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3055
-#EXTINF:-1,US: TSN 4
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3054
-#EXTINF:-1,US: TSN 5
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3053
-#EXTINF:-1,US: ESPN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3049
-#EXTINF:-1,US: ESPN 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3050
-#EXTINF:-1,US: ESPN U HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3052
-#EXTINF:-1,US: Bein Sport USA
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/739
-#EXTINF:-1,US: beIN Sports Ñ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/740
-#EXTINF:-1,US: ESPN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/742
-#EXTINF:-1,US: ESPN 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/743
-#EXTINF:-1,US: Longhorn Network
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/744
-#EXTINF:-1,US: Hallmark Drama
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/745
-#EXTINF:-1,US: Hallmark Movies and Mysteries
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/746
-#EXTINF:-1,US: HBO COMEDY HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/747
-#EXTINF:-1,US: NAT GEO WILD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/748
-#EXTINF:-1,US: ESPN NEWS
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/750
-#EXTINF:-1,US: ESPN U
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/752
-#EXTINF:-1,US: Eleven Sports US
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/753
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/754
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/755
-#EXTINF:-1,US: Showtime Showcase
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/756
-#EXTINF:-1,US: ShowTime HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/757
-#EXTINF:-1,US: Starz Cinema HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/758
-#EXTINF:-1,US: STARZ East
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/759
-#EXTINF:-1,US: TBS HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/760
-#EXTINF:-1,US: Discovery Channel HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/761
-#EXTINF:-1,US: Fox Sports Arizona
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/764
-#EXTINF:-1,US: Fox Sports Detroit
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/765
-#EXTINF:-1,US: Fox Sports Florida
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/766
-#EXTINF:-1,US: Fox Tampa
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/767
-#EXTINF:-1,US: Fox Dallas
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/768
-#EXTINF:-1,US: Fox Sacramento
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/769
-#EXTINF:-1,US: Fox Sport 2 4K+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/770
-#EXTINF:-1,US: Fox News GO
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/771
-#EXTINF:-1,US: Fox Nashville
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/772
-#EXTINF:-1,US: Fox  Sport 1 4K+
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/773
-#EXTINF:-1,US: Fox Los Angeles
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/774
-#EXTINF:-1,US: Fox Sports San Diego
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/775
-#EXTINF:-1,US: Fox  Houston
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/778
-#EXTINF:-1,US: GOLTV 
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/780
-#EXTINF:-1,US: MLB NETWORK
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/781
-#EXTINF:-1,US: MSG HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/782
-#EXTINF:-1,US: MSNBC
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/783
-#EXTINF:-1,US: Mav TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/784
-#EXTINF:-1,US: NBA TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/785
-#EXTINF:-1,US: NBCSN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/786
-#EXTINF:-1,US: NBC Sports Bay Area Plus
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/788
-#EXTINF:-1,US: NBC Sports Boston
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/789
-#EXTINF:-1,US: NBC Sports California Plus
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/791
-#EXTINF:-1,US: NBC Sports Chicago Plus
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/792
-#EXTINF:-1,US: NBC Sports Nowrthwest
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/793
-#EXTINF:-1,US: NBC Sports Philadelphia
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/794
-#EXTINF:-1,US: NBC Sports Washington Plus
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/795
-#EXTINF:-1,US: NBCSN
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/796
-#EXTINF:-1,US: NESN PLUS
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/798
-#EXTINF:-1,US: NFL Network
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/799
-#EXTINF:-1,US: Olympic Channel
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/800
-#EXTINF:-1,US: Outside TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/801
-#EXTINF:-1,US: PAC-12 Arizona
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/802
-#EXTINF:-1,US: PAC-12 Los Angeles
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/804
-#EXTINF:-1,US: PAC-12 Oregon
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/805
-#EXTINF:-1,US: PAC-12 Washington
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/806
-#EXTINF:-1,US: Pac-12 Mountain
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/807
-#EXTINF:-1,US: Pac-12 Network
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/808
-#EXTINF:-1,US: PAC-12 Bay Area
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/803
-#EXTINF:-1,US: wwe Network
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/954
-#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/813
-#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (NL) HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/814
-#EXTINF:-1,BG: ELEVEN SPORTS 2 BELGIUM (NL) HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/815
-#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/816
-#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/817
-#EXTINF:-1,[CA]_LOVE NATURE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/3879
-#EXTINF:-1,Latino: Fox Sports 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/828
-#EXTINF:-1,Latino: Fox Sports 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/829
-#EXTINF:-1,UK: BT SPORT 1
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/838
-#EXTINF:-1,UK: BT SPORT 2
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/839
-#EXTINF:-1,UK: BT SPORT 3
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/840
-#EXTINF:-1,US: NBC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/843
-#EXTINF:-1,DE: 3 SAT FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1222
-#EXTINF:-1,DE: 13th Street FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1224
-#EXTINF:-1,DE: ANIXE
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1226
-#EXTINF:-1,DE: ARD One HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1228
-#EXTINF:-1,DE: A&E HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1225
-#EXTINF:-1,DE: Auto Motor Sport HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1232
-#EXTINF:-1,DE: AXN HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1233
-#EXTINF:-1,DE: BIBEL TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1237
-#EXTINF:-1,DE: Boomerang HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1238
-#EXTINF:-1,DE: Cartoon Network HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1239
-#EXTINF:-1,DE: Comedy Central HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1240
-#EXTINF:-1,DE: DAZN 1 Bar FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1242
-#EXTINF:-1,DE: DAZN 1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1243
-#EXTINF:-1,DE: DAZN 2 Bar FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1244
-#EXTINF:-1,DE: DAZN 2 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1245
-#EXTINF:-1,DE: Deluxe Music HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1246
-#EXTINF:-1,DE: DEUTSCHES MUSIK HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1247
-#EXTINF:-1,DE: Discovery CHANNEL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1248
-#EXTINF:-1,DE: Disney Channel FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1249
-#EXTINF:-1,DE: Disney Cinemagic FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1250
-#EXTINF:-1,DE: Disney Junior HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1251
-#EXTINF:-1,DE: Disney XD HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1252
-#EXTINF:-1,DE: DMAX FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1253
-#EXTINF:-1,DE: euronews HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1262
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1263
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1264
-#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1265
-#EXTINF:-1,DE: FOLX TV
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1267
-#EXTINF:-1,DE: FOX FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1268
-#EXTINF:-1,DE: Heimatkanal HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1269
-#EXTINF:-1,DE: HISTORY CHANNEL
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1270
-#EXTINF:-1,DE: HR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1271
-#EXTINF:-1,DE: Kabel 1 Doku HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1273
-#EXTINF:-1,DE: Kabel 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1274
-#EXTINF:-1,DE: KIKA HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1279
-#EXTINF:-1,DE: MotorVision HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1282
-#EXTINF:-1,DE: MTV FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1283
-#EXTINF:-1,DE: MUNCHEN TV FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1284
-#EXTINF:-1,DE: N-TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1286
-#EXTINF:-1,DE: N24 Doku HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1287
-#EXTINF:-1,DE: MDR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1280
-#EXTINF:-1,DE: NAT GEO FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1289
-#EXTINF:-1,DE: NAT GEO WILD FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1290
-#EXTINF:-1,DE: NDR Fernsehen HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1291
-#EXTINF:-1,DE: NDR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1292
-#EXTINF:-1,DE: Nickelodeon HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1293
-#EXTINF:-1,DE: NITRO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1294
-#EXTINF:-1,DE: ONE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1298
-#EXTINF:-1,DE: Phoenix HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1299
-#EXTINF:-1,DE: Planet HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1300
-#EXTINF:-1,DE: PRO 7 MAXX HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1311
-#EXTINF:-1,DE: PRO7 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1312
-#EXTINF:-1,DE: ProSieben Maxx HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1315
-#EXTINF:-1,DE: RBB Berlin HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1316
-#EXTINF:-1,DE: Rnf
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1317
-#EXTINF:-1,DE: ROMANCE TV HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1318
-#EXTINF:-1,DE: RTL 1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1319
-#EXTINF:-1,DE: RTL 2 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1320
-#EXTINF:-1,DE: RTL Crime FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1321
-#EXTINF:-1,DE: RTL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1322
-#EXTINF:-1,DE: RTL II HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1323
-#EXTINF:-1,DE: RTL Living HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1324
-#EXTINF:-1,DE: RTL Nitro HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1325
-#EXTINF:-1,DE: RTL Passion FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1327
-#EXTINF:-1,DE: RTL plus HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1328
-#EXTINF:-1,DE: RTL Super
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1329
-#EXTINF:-1,DE: SAT 1 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1330
-#EXTINF:-1,DE: SAT 1 GOLD FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1331
-#EXTINF:-1,DE: Servus HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1332
-#EXTINF:-1,DE: Sony HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1411
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1412
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1413
-#EXTINF:-1,DE: Sport 1 + HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1414
-#EXTINF:-1,DE: Sport 1 Plus HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1416
-#EXTINF:-1,DE: SRF 1 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1418
-#EXTINF:-1,DE: SUPER RTL FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1419
-#EXTINF:-1,DE: Sport Digital FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1417
-#EXTINF:-1,DE: SWR
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1420
-#EXTINF:-1,DE: SyFy FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1421
-#EXTINF:-1,DE: tagesschau 24 HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1422
-#EXTINF:-1,DE: TELE 5 FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1423
-#EXTINF:-1,DE: TLC HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1442
-#EXTINF:-1,DE: TNT COMEDY FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1443
-#EXTINF:-1,DE: TNT FILM HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1444
-#EXTINF:-1,DE: TNT SERIE HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1445
-#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1447
-#EXTINF:-1,DE: VOX FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1450
-#EXTINF:-1,DE: WDR HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1452
-#EXTINF:-1,DE: Welt
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1453
-#EXTINF:-1,DE: ZDF FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1455
-#EXTINF:-1,DE: ZDF info HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1456
-#EXTINF:-1,DE: ZDF NEO HD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1457
-#EXTINF:-1,DE: ZEE ONE FHD
-http://tv.allkaicerteam.com:8080/alkaicer_bcpkos9tmg/ybctis2aqo/1458
 
 
 #EXTM3U
@@ -8790,6 +6163,2923 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="Sneh Punjabi",Subrang TV USA
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5597
+#EXTINF:-1,9XM IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4009
+#EXTINF:-1,& Pictures IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10622
+#EXTINF:-1,9X Tashan IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10617
+#EXTINF:-1,ABP News IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3998
+#EXTINF:-1,Asianet Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5577
+#EXTINF:-1,Asianet News IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5578
+#EXTINF:-1,Asianet Plus IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5576
+#EXTINF:-1,Anand IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10595
+#EXTINF:-1,Aaj Tak News IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/11294
+#EXTINF:-1,Aastha TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/11297
+#EXTINF:-1,B4U Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672302
+#EXTINF:-1,B4U Music IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3993
+#EXTINF:-1,B4u+ IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672304
+#EXTINF:-1,B4u kadak IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672305
+#EXTINF:-1,ATN Bangla IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10610
+#EXTINF:-1,Movie Bangla IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10613
+#EXTINF:-1,Bollywood Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4007
+#EXTINF:-1,Chardikla Time TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5563
+#EXTINF:-1,Colors [UK] FHD VIP IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672308
+#EXTINF:-1,Colors HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/651513
+#EXTINF:-1,Colors [B] HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5579
+#EXTINF:-1,Desi Channel Punjabi IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4005
+#EXTINF:-1,Deepto IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10624
+#EXTINF:-1,Dhoom Music IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10599
+#EXTINF:-1,India Today IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5561
+#EXTINF:-1,India TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5562
+#EXTINF:-1,Independent TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10600
+#EXTINF:-1,Jaya Max USA IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5582
+#EXTINF:-1,Jaya Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5581
+#EXTINF:-1,Jaya Plus IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5580
+#EXTINF:-1,Jamuna TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10601
+#EXTINF:-1,Jaya TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5583
+#EXTINF:-1,KTV HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5560
+#EXTINF:-1,Living Foodz IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10612
+#EXTINF:-1,MTV India IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5556
+#EXTINF:-1,M Tunes IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5584
+#EXTINF:-1,Maa Gold IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5586
+#EXTINF:-1,Maa Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5585
+#EXTINF:-1,Movies OK IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5558
+#EXTINF:-1,MTV Beats IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5557
+#EXTINF:-1,Mohona TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10587
+#EXTINF:-1,NTV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10602
+#EXTINF:-1,NTV Europe IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10603
+#EXTINF:-1,NDTV 24x7 HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/19491
+#EXTINF:-1,NTV HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10589
+#EXTINF:-1,PTC Chakde IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5553
+#EXTINF:-1,PTC News Punjabi IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5555
+#EXTINF:-1,PTC Punjabi Gold IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5554
+#EXTINF:-1,Raj Digital Plus IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5551
+#EXTINF:-1,Raj Musix IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5550
+#EXTINF:-1,Raj News 24x7 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5549
+#EXTINF:-1,Raj TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5552
+#EXTINF:-1,Rishtey Color IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/11295
+#EXTINF:-1,Rishtey Europe IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/11296
+#EXTINF:-1,RTV HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10626
+#EXTINF:-1,Santhora TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5564
+#EXTINF:-1,Sony Saab FHD VIP IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672322
+#EXTINF:-1,Sony Saab TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3987
+#EXTINF:-1,Sony Sab (UK) IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672323
+#EXTINF:-1,Sony Set Max FHD IN VIP
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672324
+#EXTINF:-1,Sony MIX HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3988
+#EXTINF:-1,Sony Max IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3990
+#EXTINF:-1,Sony Max 2 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3989
+#EXTINF:-1,Sony Max UK IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672321
+#EXTINF:-1,Sony Pix HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10607
+#EXTINF:-1,Sony Pix IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10606
+#EXTINF:-1,Sony [UK] HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10609
+#EXTINF:-1,Sony Six HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3985
+#EXTINF:-1,Sony HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5574
+#EXTINF:-1,Sony TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3984
+#EXTINF:-1,Sony TV UK IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/13175
+#EXTINF:-1,Sony Six IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5548
+#EXTINF:-1,Sony Ten 1 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672325
+#EXTINF:-1,Sony Ten 2 HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672444
+#EXTINF:-1,Sony Ten 3 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672445
+#EXTINF:-1,Sony Waha FHD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672446
+#EXTINF:-1,Sony Pal FHD VIP IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/676908
+#EXTINF:-1,Star Plus HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672450
+#EXTINF:-1,Star Plus [UK] IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/13174
+#EXTINF:-1,Star Gold HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3983
+#EXTINF:-1,Star Jalsha IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3982
+#EXTINF:-1,Star Movies HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3981
+#EXTINF:-1,Star Movies IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672448
+#EXTINF:-1,Star Sports 1 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3979
+#EXTINF:-1,Star Sports 2 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/397844
+#EXTINF:-1,Star Sports 3 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3977
+#EXTINF:-1,Star Bharat IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5544
+#EXTINF:-1,Star Bharat (UK) IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672447
+#EXTINF:-1,Star Vijay IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5545
+#EXTINF:-1,Sun Music IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3975
+#EXTINF:-1,Sun TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3974
+#EXTINF:-1,Sun TV [US] IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3973
+#EXTINF:-1,Somoy News TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10605
+#EXTINF:-1,Ten 1 HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3972
+#EXTINF:-1,Ten 2 HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5589
+#EXTINF:-1,Ten 3 HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5590
+#EXTINF:-1,Ten Sports IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10608
+#EXTINF:-1,UTV Movies HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5542
+#EXTINF:-1,UTV Movies US IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10615
+#EXTINF:-1,UTV Bindas IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5541
+#EXTINF:-1,Willow IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10631
+#EXTINF:-1,Zee Cinema FHD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4002
+#EXTINF:-1,Zee Cinema IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3967
+#EXTINF:-1,Zee Cinema IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3968
+#EXTINF:-1,Zee Cinema (USA) IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672452
+#EXTINF:-1,Zee Cinema Inter IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4001
+#EXTINF:-1,Zee Action HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3971
+#EXTINF:-1,Zee Anmol Cinema IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/3970
+#EXTINF:-1,Zee TV HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672459
+#EXTINF:-1,Zee TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/4000
+#EXTINF:-1,Zee TV US HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/20912
+#EXTINF:-1,Zee TV UK IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672458
+#EXTINF:-1,Zee Bangla IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5592
+#EXTINF:-1,Zee Business IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5570
+#EXTINF:-1,Zee Bollywood IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5565
+#EXTINF:-1,Zee ETC Bollywood IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5539
+#EXTINF:-1,Zee News IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672455
+#EXTINF:-1,Zee Punjabi IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5571
+#EXTINF:-1,Zee Telugu IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5593
+#EXTINF:-1,Zee Alwan IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/10630
+#EXTINF:-1,Zee Living HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672453
+#EXTINF:-1,ZEE living (USA) IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672454
+#EXTINF:-1,Zee Rajasthan HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672456
+#EXTINF:-1,Zee Theatre HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672457
+#EXTINF:-1,Zing IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5596
+#EXTINF:-1,Zing UK IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5595
+#EXTINF:-1,Zoom IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/5538
+#EXTINF:-1,MTA 3 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/624945
+#EXTINF:-1,&TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672296
+#EXTINF:-1,1st India News HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672297
+#EXTINF:-1,9XM Musci IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672298
+#EXTINF:-1,Aastha TV [UK] IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672299
+#EXTINF:-1,Animal Planet IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672301
+#EXTINF:-1,CNBC TV 18 IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672306
+#EXTINF:-1,DD National IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672310
+#EXTINF:-1,Epic HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672313
+#EXTINF:-1,Food Food HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672314
+#EXTINF:-1,Nazrana Music HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672317
+#EXTINF:-1,NDTV News HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672318
+#EXTINF:-1,NDTV Profit IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672319
+#EXTINF:-1,POP Music HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672320
+#EXTINF:-1,TLC IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/672451
+#EXTINF:-1,Vision Punjab TV FHD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/676906
+#EXTINF:-1,Sahara Filmy IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/676909
+#EXTINF:-1,Sanskar TV IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690413
+#EXTINF:-1,Zee 24 Kalak IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690415
+#EXTINF:-1,Colors Gujarati SD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690416
+#EXTINF:-1,DD Girnar IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690417
+#EXTINF:-1,Sandesh News FHD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690418
+#EXTINF:-1,ABP Asmita FHD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690419
+#EXTINF:-1,Kalupur Mandir HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690420
+#EXTINF:-1,CNBC Bajar IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690421
+#EXTINF:-1,GS TV HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/690422
+#EXTINF:-1,Prime Asia HD IN
+http://ipflix.click:8080/gqm7u89j5c/oc5pnra1av/693004
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="JIOTV-Movies",Colors Cineplex HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="JIOTV-Movies",Colors Kannada Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Kannada_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="JIOTV-Entertainment",DD National 
+http://jiotv.in1.bitmana.io/live.php?c=DD_National&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JIOTV-Entertainment",Sony HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="JIOTV-Entertainment",Sony SAB HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="JIOTV-Entertainment",Sony SAB 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_SAB&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="JIOTV-Entertainment",And TV HD 
+http://jiotv.in1.bitmana.io/live.php?c=And_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIOTV-Entertainment",Zee TV HD 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIOTV-Entertainment",Colors HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="JIOTV-Entertainment",Zee Anmol 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JIOTV-Entertainment",Rishtey 
+http://jiotv.in1.bitmana.io/live.php?c=Rishtey&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="JIOTV-Entertainment",Sony Pal 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Pal&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="JIOTV-Entertainment",Investigation Discovery 
+http://jiotv.in1.bitmana.io/live.php?c=ID&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="JIOTV-Entertainment",Arre HD 
+http://jiotv.in1.bitmana.io/live.php?c=Arre&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="JIOTV-Entertainment",Dangal 
+http://jiotv.in1.bitmana.io/live.php?c=Dangal&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="JIOTV-Infotainment",DD Kisan 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Kisan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JIOTV-Entertainment",Colors Infinity HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JIOTV-Entertainment",Comedy Central HD 
+http://jiotv.in1.bitmana.io/live.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="JIOTV-Sports",Jio Sports HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Sports&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="JIOTV-Educational",India Science 
+http://jiotv.in1.bitmana.io/live.php?c=India_Science&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="JIOTV-Sports",Jio Football HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="JIOTV-Sports",Jio Cricket English HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="JIOTV-Sports",Jio Cricket Hindi HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="JIOTV-Sports",Jio Football Hindi HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_Hindi_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="JIOTV-Educational",Gyan Brikshya 
+http://jiotv.in1.bitmana.io/live.php?c=Gyan_Brikshya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="JIOTV-Sports",Jio Cricket 1 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="JIOTV-Sports",Jio Cricket 2 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket_2_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="JIOTV-Sports",JioGames HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Esports_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="JIOTV-Movies",Sony Max HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="JIOTV-Sports",Jio Football Malayalam HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_Malayalam_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="JIOTV-Sports",Jio Football Bengali HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_Bangali_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="JIOTV-Sports",Jio Cricket 4 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket_4_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JIOTV-Movies",Zee Cinema HD 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Tamil_HD.png" group-title="JIOTV-Sports",Jio Football Tamil HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_Tamil_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="JIOTV-Movies",Zee Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="JIOTV-Sports",Jio Football 1 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_1&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="JIOTV-Sports",Jio Cricket 3 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Cricket_3&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="JIOTV-Sports",Jio Football 2 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_2&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="JIOTV-Sports",Jio Football 3 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_3&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="JIOTV-Sports",Jio Football 4 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_4&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="JIOTV-Movies",Zee Bollywood 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Classic&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="JIOTV-Movies",And Pictures HD 
+http://jiotv.in1.bitmana.io/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="JIOTV-Movies",Zee Action 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Action&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="JIOTV-Movies",B4U Movies 
+http://jiotv.in1.bitmana.io/live.php?c=B4U_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="JIOTV-Movies",Sony MAX2 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_MAX2&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="JIOTV-Movies",Enterr 10 
+http://jiotv.in1.bitmana.io/live.php?c=Enterr_10&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JIOTV-Movies",Colors Cineplex 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Cineplex&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="JIOTV-Movies",Zee Anmol Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Anmol_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png" group-title="JIOTV-Movies",Box Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Box_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="JIOTV-Movies",Maha Movies 
+http://jiotv.in1.bitmana.io/live.php?c=Maha_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="JIOTV-Movies",Sony Pix HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="JIOTV-Entertainment",Hi Dost! 
+http://jiotv.in1.bitmana.io/live.php?c=Hi_Dost&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="JIOTV-News",K News India 
+http://jiotv.in1.bitmana.io/live.php?c=K_News_India&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="JIOTV-News",DNN 
+http://jiotv.in1.bitmana.io/live.php?c=DNN&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JIOTV-Sports",DD Sports 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Sports&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="JIOTV-Sports",Ten 1 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="JIOTV-Sports",Ten 1 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_1&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="JIOTV-Sports",Ten 2 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="JIOTV-Sports",Ten 2 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_2&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="JIOTV-Sports",Ten 3 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="JIOTV-Sports",Ten 3 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_3&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="JIOTV-Sports",Sony Six HD 
+http://jiotv.in1.bitmana.io/live.php?c=Six_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="JIOTV-Sports",Sony Six SD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Six_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="JIOTV-Sports",Eurosport 
+http://jiotv.in1.bitmana.io/live.php?c=Dsports&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="JIOTV-Sports",Eurosport HD 
+http://jiotv.in1.bitmana.io/live.php?c=Dsports_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="JIOTV-Entertainment",Manjari TV 
+http://jiotv.in1.bitmana.io/live.php?c=Manjari_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="JIOTV-Devotional",HHDL 
+http://jiotv.in1.bitmana.io/live.php?c=HHDL&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="JIOTV-Educational",Top Tutor 
+http://jiotv.in1.bitmana.io/live.php?c=Top_Tutor&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="JIOTV-News",RT TV 
+http://jiotv.in1.bitmana.io/live.php?c=RT_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="JIOTV-News",Reporter TV 
+http://jiotv.in1.bitmana.io/live.php?c=Reporter_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="JIOTV-Kids",Jio KIDS 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_KIDS&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="JIOTV-Educational",Utkarsh Primary 
+http://jiotv.in1.bitmana.io/live.php?c=Utkarsh_Primary&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="JIOTV-Educational",Utkarsh HSBTE 
+http://jiotv.in1.bitmana.io/live.php?c=Utkarsh_Middle&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="JIOTV-Educational",Utkarsh Secondary 
+http://jiotv.in1.bitmana.io/live.php?c=Utkarsh_Secondary&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="JIOTV-Educational",Utkarsh Higher 
+http://jiotv.in1.bitmana.io/live.php?c=Utkarsh_Higher&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="JIOTV-Devotional",Shiksha TV 
+http://jiotv.in1.bitmana.io/live.php?c=Shiksha_TV&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="JIOTV-Infotainment",Janapriyam 
+http://jiotv.in1.bitmana.io/live.php?c=Janapriyam_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="JIOTV-JioDarshan",Shree Ganesh - Moti Doongri Jaipur 
+http://jiotv.in1.bitmana.io/live.php?c=Moti_Doongri&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="JIOTV-Infotainment",Daijiworld TV 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=Daijiworld_TV_24X7&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="JIOTV-News",News J 
+http://jiotv.in1.bitmana.io/live.php?c=News_J&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="JIOTV-News",DD News 
+http://jiotv.in1.bitmana.io/live.php?c=DD_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="JIOTV-News",ABP News India 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_News_India&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="JIOTV-News",NDTV India 
+http://jiotv.in1.bitmana.io/live.php?c=NDTV_India&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="JIOTV-News",Aaj Tak 
+http://jiotv.in1.bitmana.io/live.php?c=Aaj_Tak&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="JIOTV-News",Zee News 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="JIOTV-News",India TV 
+http://jiotv.in1.bitmana.io/live.php?c=India_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="JIOTV-News",News 24 
+http://jiotv.in1.bitmana.io/live.php?c=News_24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JIOTV-News",News 18 India 
+http://jiotv.in1.bitmana.io/live.php?c=IBN_7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="JIOTV-News",Zee Hindustan 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_SANGAM&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="JIOTV-News",India news 
+http://jiotv.in1.bitmana.io/live.php?c=India_news&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="JIOTV-News",ABP Ganga 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_Ganga&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="JIOTV-News",News Nation 
+http://jiotv.in1.bitmana.io/live.php?c=News_Nation&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="JIOTV-News",Euro News 
+http://jiotv.in1.bitmana.io/live.php?c=Euro_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="JIOTV-News",Total TV 
+http://jiotv.in1.bitmana.io/live.php?c=Total_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="JIOTV-News",Live Today 
+http://jiotv.in1.bitmana.io/live.php?c=Live_Today&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="JIOTV-News",Sahara Samay Rastriya 
+http://jiotv.in1.bitmana.io/live.php?c=Sahara_Samay_Rastriya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="JIOTV-News",India News Haryana 
+http://jiotv.in1.bitmana.io/live.php?c=India_News_Haryana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="JIOTV-News",Taaza TV 
+http://jiotv.in1.bitmana.io/live.php?c=Taaza_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="JIOTV-News",Samachar Plus 
+http://jiotv.in1.bitmana.io/live.php?c=Samachar_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="JIOTV-News",Living India News 
+http://jiotv.in1.bitmana.io/live.php?c=Living_India_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="JIOTV-News",Sudarshan 
+http://jiotv.in1.bitmana.io/live.php?c=Sudarshan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="JIOTV-News",Kashish News 
+http://jiotv.in1.bitmana.io/live.php?c=Kashish_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="JIOTV-News",SMBC TV 
+http://jiotv.in1.bitmana.io/live.php?c=SMBC_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="JIOTV-News",SAHARA SAMAY MP 
+http://jiotv.in1.bitmana.io/live.php?c=SAHARA_SAMAY_MP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="JIOTV-News",SAHARA SAMAY UP 
+http://jiotv.in1.bitmana.io/live.php?c=SAHARA_SAMAY_UP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="JIOTV-News",Sadhna News Plus 
+http://jiotv.in1.bitmana.io/live.php?c=Sadhna_News_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="JIOTV-News",Sahara Samay Bihar 
+http://jiotv.in1.bitmana.io/live.php?c=Sahara_Samay_Bihar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="JIOTV-News",Samay Rajasthan 
+http://jiotv.in1.bitmana.io/live.php?c=Samay_Rajasthan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="JIOTV-News",JK 24x7 News 
+http://jiotv.in1.bitmana.io/live.php?c=JK_24x7_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="JIOTV-News",Pratidin Time 
+http://jiotv.in1.bitmana.io/live.php?c=Pratidin_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="JIOTV-News",Mh One News 
+http://jiotv.in1.bitmana.io/live.php?c=Mh_One_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="JIOTV-News",India News UP 
+http://jiotv.in1.bitmana.io/live.php?c=India_News_UP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="JIOTV-News",News State UK UP 
+http://jiotv.in1.bitmana.io/live.php?c=News_State_UK_UP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="JIOTV-News",India News MP 
+http://jiotv.in1.bitmana.io/live.php?c=India_News_MP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="JIOTV-News",India News Rajasthan 
+http://jiotv.in1.bitmana.io/live.php?c=India_News_Rajasthan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="JIOTV-News",Swadesh News 
+http://jiotv.in1.bitmana.io/live.php?c=Swadesh_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="JIOTV-News",Janta TV 
+http://jiotv.in1.bitmana.io/live.php?c=Janta_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="JIOTV-News",Zee UP UK 
+http://jiotv.in1.bitmana.io/live.php?c=Living_Foodz&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="JIOTV-News",Lokshahi News 
+http://jiotv.in1.bitmana.io/live.php?c=Lokshahi_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="JIOTV-News",India Voice 
+http://jiotv.in1.bitmana.io/live.php?c=India_Voice&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="JIOTV-Educational",PM e Vidya 12 
+http://jiotv.in1.bitmana.io/live.php?c=evidya_12&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="JIOTV-News",Hindi Khabar 
+http://jiotv.in1.bitmana.io/live.php?c=Hindi_Khabar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="JIOTV-News",Jan TV 
+http://jiotv.in1.bitmana.io/live.php?c=Jan_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="JIOTV-News",News India 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=News_India_24_X_7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="JIOTV-News",Good News Today 
+http://jiotv.in1.bitmana.io/live.php?c=Tez&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="JIOTV-Business",Zee Business 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Business&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="JIOTV-Business",CNBC Awaaz 
+http://jiotv.in1.bitmana.io/live.php?c=CNBC_Awaaz&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="JIOTV-News",Sansad TV 
+http://jiotv.in1.bitmana.io/live.php?c=Loksabha_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="JIOTV-News",Sansad TV HD 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Rajyasabha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="JIOTV-News",NDTV 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=NDTV_24x7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="JIOTV-News",India Today 
+http://jiotv.in1.bitmana.io/live.php?c=India_Today&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="JIOTV-News",CNN NEWS 18 
+http://jiotv.in1.bitmana.io/live.php?c=CNN_NEWS_18&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="JIOTV-News",News X 
+http://jiotv.in1.bitmana.io/live.php?c=News_X&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="JIOTV-News",Wion 
+http://jiotv.in1.bitmana.io/live.php?c=Wion&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="JIOTV-News",Republic TV 
+http://jiotv.in1.bitmana.io/live.php?c=Republic_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIOTV-Entertainment",DD India 
+http://jiotv.in1.bitmana.io/live.php?c=DD_India&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="JIOTV-Business",NDTV Profit 
+http://jiotv.in1.bitmana.io/live.php?c=NDTV_Profit&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIOTV-Business",CNBC Tv18 Prime HD 
+http://jiotv.in1.bitmana.io/live.php?c=CNBC_Tv18_Prime_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JIOTV-Business",CNBC Tv 18 
+http://jiotv.in1.bitmana.io/live.php?c=CNBC_Tv_18&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="JIOTV-News",CNN 
+http://jiotv.in1.bitmana.io/live.php?c=CNN&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="JIOTV-News",BBC World News 
+http://jiotv.in1.bitmana.io/live.php?c=BBC_World_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="JIOTV-Kids",Sonic Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=sonic_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="JIOTV-News",AL Jazeera 
+http://jiotv.in1.bitmana.io/live.php?c=AL_Jazeera&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="JIOTV-News",Channel News Asia International 
+http://jiotv.in1.bitmana.io/live.php?c=Channel_News_Asia_International&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="JIOTV-News",France 24 
+http://jiotv.in1.bitmana.io/live.php?c=France_24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="JIOTV-News",TV5 Monde 
+http://jiotv.in1.bitmana.io/live.php?c=TV_5_Monde&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="JIOTV-News",dw 
+http://jiotv.in1.bitmana.io/live.php?c=dw&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="JIOTV-Kids",Discovery Kids 2 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="JIOTV-Kids",Sonic Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Sonic_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="JIOTV-Kids",Sonic Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Sonic_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="JIOTV-Kids",Nick Malayalam 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Malayalam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="JIOTV-Kids",Nick Bangla 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="JIOTV-Kids",Nick Marathi 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Marathi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="JIOTV-Kids",CN HD+ Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="JIOTV-Kids",Cartoon Network Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="JIOTV-Kids",Pogo Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Pogo_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="JIOTV-Kids",Nick Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="JIOTV-Kids",sonic Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=sonic_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="JIOTV-Kids",Sony Yay Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Yay_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="JIOTV-Kids",Discovery Kids Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Kids_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="JIOTV-Kids",Nick Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="JIOTV-Kids",CN HD+ Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="JIOTV-Kids",Cartoon Network Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Cartoon_Network_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="JIOTV-Kids",Nick Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="JIOTV-Kids",Nick Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="JIOTV-Kids",Sony Yay Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Yay_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="JIOTV-Kids",CN HD+ English 
+http://jiotv.in1.bitmana.io/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="JIOTV-Kids",Cartoon Network Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="JIOTV-Kids",Nick HD+ 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="JIOTV-Kids",Pogo Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Pogo_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="JIOTV-Kids",Nickelodeon 
+http://jiotv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="JIOTV-Kids",Sonic Malayalam 
+http://jiotv.in1.bitmana.io/live.php?c=Sonic_Malayalam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="JIOTV-Kids",Sonic Bangla 
+http://jiotv.in1.bitmana.io/live.php?c=Sonic_Bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="JIOTV-Kids",Sonic Marathi 
+http://jiotv.in1.bitmana.io/live.php?c=Sonic_Marathi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JIOTV-Kids",Nick Junior 
+http://jiotv.in1.bitmana.io/live.php?c=Nick_Junior&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="JIOTV-Kids",Nickelodeon Jr. 
+http://jiotv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="JIOTV-Kids",Sony Yay Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JIOTV-Infotainment",Discovery HD World 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="JIOTV-Infotainment",Discovery 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="JIOTV-Infotainment",D Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="JIOTV-Infotainment",Animal Planet HD World 
+http://jiotv.in1.bitmana.io/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="JIOTV-Infotainment",Animal Planet English 
+http://jiotv.in1.bitmana.io/live.php?c=Animal_Planet_English&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="JIOTV-Infotainment",Discovery Science 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Science&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="JIOTV-Infotainment",History TV18 HD 
+http://jiotv.in1.bitmana.io/live.php?c=History_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JIOTV-Infotainment",History TV18 HD Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="JIOTV-Infotainment",Sony BBC Earth HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="JIOTV-Entertainment",Epic 
+http://jiotv.in1.bitmana.io/live.php?c=Epic_HD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="JIOTV-Lifestyle",TLC HD 
+http://jiotv.in1.bitmana.io/live.php?c=TLC_HD_World&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="JIOTV-Lifestyle",TLC English 
+http://jiotv.in1.bitmana.io/live.php?c=TLC_English&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="JIOTV-Lifestyle",TLC Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=TLC_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="JIOTV-Lifestyle",GOOD TiMES 
+http://jiotv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="JIOTV-Devotional",Sadhguru Television HD 
+http://jiotv.in1.bitmana.io/live.php?c=Sadhguru_Television&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="JIOTV-Infotainment",Discovery Turbo 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Turbo&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JIOTV-Lifestyle",Travel XP HD 
+http://jiotv.in1.bitmana.io/live.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="JIOTV-Educational",TV Teacher 
+http://jiotv.in1.bitmana.io/live.php?c=TV_Teacher&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JIOTV-Lifestyle",Travel XP HD Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Travel_XP&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="JIOTV-Lifestyle",Food Food 
+http://jiotv.in1.bitmana.io/live.php?c=Food_Food&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="JIOTV-Infotainment",Care World 
+http://jiotv.in1.bitmana.io/live.php?c=Care_World&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JIOTV-Infotainment",Animal Planet HD Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="JIOTV-Devotional",Parmarth TV 
+http://jiotv.in1.bitmana.io/live.php?c=Parmarth_TV&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="JIOTV-Infotainment",Jio Events HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Events&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="JIOTV-Entertainment",Jio Exclusive HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Exclusive&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JIOTV-Music",MTV HD Plus 
+http://jiotv.in1.bitmana.io/live.php?c=MTV_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JIOTV-Music",MTV 
+http://jiotv.in1.bitmana.io/live.php?c=MTV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="JIOTV-Music",9XM 
+http://jiotv.in1.bitmana.io/live.php?c=9XM&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="JIOTV-Music",E 24 
+http://jiotv.in1.bitmana.io/live.php?c=E_24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="JIOTV-Infotainment",Sony BBC Earth HD English 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JIOTV-Music",MTV Beats HD 
+http://jiotv.in1.bitmana.io/live.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="JIOTV-Infotainment",Insight HD 
+http://jiotv.in1.bitmana.io/live.php?c=Insight&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="JIOTV-Music",B4U Music 
+http://jiotv.in1.bitmana.io/live.php?c=B4U_Music&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="JIOTV-Music",Mastiii 
+http://jiotv.in1.bitmana.io/live.php?c=Mastiii&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="JIOTV-Music",Zing 
+http://jiotv.in1.bitmana.io/live.php?c=Zing&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="JIOTV-Music",Music India 
+http://jiotv.in1.bitmana.io/live.php?c=Music_India&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="JIOTV-Music",9X Jalwa 
+http://jiotv.in1.bitmana.io/live.php?c=9X_Jalwa&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="JIOTV-Infotainment",Animal Planet Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="JIOTV-Infotainment",Discovery Channel Hindi 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="JIOTV-Movies",Bflix Movies 
+http://jiotv.in1.bitmana.io/live.php?c=Bflix_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="JIOTV-Movies",Manoranjan TV 
+http://jiotv.in1.bitmana.io/live.php?c=Manoranjan_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="JIOTV-Movies",B4U Kadak 
+http://jiotv.in1.bitmana.io/live.php?c=B4U_Kadak&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="JIOTV-Movies",B4U Bhojpuri 
+http://jiotv.in1.bitmana.io/live.php?c=B4U_Bhojpuri&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="JIOTV-Sports",MI TV 
+http://jiotv.in1.bitmana.io/live.php?c=MI_TV&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="JIOTV-Entertainment",Raj Pariwar 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Pariwar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="JIOTV-Music",Insync 
+http://jiotv.in1.bitmana.io/live.php?c=Insync&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="JIOTV-Music",iLove 
+http://jiotv.in1.bitmana.io/live.php?c=iLove&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="JIOTV-News",ANB News 
+http://jiotv.in1.bitmana.io/live.php?c=ANB_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="JIOTV-Devotional",Prarthana Bhawan 
+http://jiotv.in1.bitmana.io/live.php?c=Prarthana_Bhawan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="JIOTV-Devotional",Shubhsandesh TV 
+http://jiotv.in1.bitmana.io/live.php?c=Shubhsandesh_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="JIOTV-Devotional",Darshan 24 
+http://jiotv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="JIOTV-Devotional",Divya TV 
+http://jiotv.in1.bitmana.io/live.php?c=Divya_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="JIOTV-Entertainment",Colors SD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="JIOTV-Music",MTV Beats SD 
+http://jiotv.in1.bitmana.io/live.php?c=MTV_Beats_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="JIOTV-Educational",Birla Brainiacs 
+http://jiotv.in1.bitmana.io/live.php?c=Birla_Brainiacs&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="JIOTV-News",Network 10 
+http://jiotv.in1.bitmana.io/live.php?c=Network_10&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="JIOTV-Movies",Sony Pix SD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="JIOTV-Educational",Gyanvani 1 
+http://jiotv.in1.bitmana.io/live.php?c=Gyanvani_1&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardham_Darshan.png" group-title="JIOTV-JioDarshan",Chardham Darshan 
+http://jiotv.in1.bitmana.io/live.php?c=Chardham_Darshan&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="JIOTV-Educational",Tute 
+http://jiotv.in1.bitmana.io/live.php?c=Tute&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="JIOTV-Educational",Himshiksha Elementary 
+http://jiotv.in1.bitmana.io/live.php?c=Himshiksha_Elementary&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="JIOTV-Educational",Himshiksha Higher 
+http://jiotv.in1.bitmana.io/live.php?c=Himshiksha_Higher&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="JIOTV-Educational",Himshiksha Vocational 
+http://jiotv.in1.bitmana.io/live.php?c=Himshiksha_Vocational&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="JIOTV-Educational",AP-BIE-ARTS 
+http://jiotv.in1.bitmana.io/live.php?c=AP_BIE_ARTS&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="JIOTV-Educational",AP-BIE-SCIENCE 
+http://jiotv.in1.bitmana.io/live.php?c=AP_BIE_SCIENCE&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="JIOTV-Educational",AP-CIE-SIVE 
+http://jiotv.in1.bitmana.io/live.php?c=AP_CIE_SIVE&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="JIOTV-Educational",Sanskrit 
+http://jiotv.in1.bitmana.io/live.php?c=Sanskritam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" group-title="JIOTV-Devotional",Manav Dharam 
+http://jiotv.in1.bitmana.io/live.php?c=Manav_Dharam&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="JIOTV-Educational",Medha Secondary 
+http://jiotv.in1.bitmana.io/live.php?c=Medha_Secondary&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Ahead.png" group-title="JIOTV-News",India Ahead 
+http://jiotv.in1.bitmana.io/live.php?c=India_Ahead&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="JIOTV-Devotional",Madha TV 
+http://jiotv.in1.bitmana.io/live.php?c=Madha_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samveda.png" group-title="JIOTV-Educational",Samveda 
+http://jiotv.in1.bitmana.io/live.php?c=Samveda&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="JIOTV-Sports",ESG TV 
+http://jiotv.in1.bitmana.io/live.php?c=ESG&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" group-title="JIOTV-News",IND 24 
+http://jiotv.in1.bitmana.io/live.php?c=IND_24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" group-title="JIOTV-News",ND 24 
+http://jiotv.in1.bitmana.io/live.php?c=ND24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="JIOTV-News",TV9 Bangla 
+http://jiotv.in1.bitmana.io/live.php?c=TV9_Bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png" group-title="JIOTV-Lifestyle",LUXE TV HD 
+http://jiotv.in1.bitmana.io/live.php?c=Luxe_Tv_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mezzo_HD.png" group-title="JIOTV-Music",Mezzo Live HD 
+http://jiotv.in1.bitmana.io/live.php?c=Mezzo_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="JIOTV-Movies",Colors Gujarati Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Gujarati_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="JIOTV-Entertainment",Colors Infinity SD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Infinity_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="JIOTV-Entertainment",Colors Marathi SD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Marathi_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="JIOTV-Entertainment",Comedy Central SD 
+http://jiotv.in1.bitmana.io/live.php?c=Comedy_Central_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="JIOTV-Entertainment",Colors Bangla SD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Bangla_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="JIOTV-Entertainment",Colors Kannada SD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Kannada_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="JIOTV-Music",VH1 
+http://jiotv.in1.bitmana.io/live.php?c=VH1&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="JIOTV-Entertainment",Sony Wah 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Wah&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="JIOTV-Entertainment",Sony SD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="JIOTV-Music",SongDew TV 
+http://jiotv.in1.bitmana.io/live.php?c=SongDew_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="JIOTV-Sports",1Sports 
+http://jiotv.in1.bitmana.io/live.php?c=1Sports&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="JIOTV-Devotional",Santvani 
+http://jiotv.in1.bitmana.io/live.php?c=Santvani&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="JIOTV-News",Nandighosha 
+http://jiotv.in1.bitmana.io/live.php?c=Nandighosha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="JIOTV-Devotional",Velukkudi Discourses 
+http://jiotv.in1.bitmana.io/live.php?c=Velukkudi_Discourses&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JIOTV-Movies",Rishtey Cineplex 
+http://jiotv.in1.bitmana.io/live.php?c=Rishtey_Cineplex&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="JIOTV-Movies",Shemaroo MarathiBana 
+http://jiotv.in1.bitmana.io/live.php?c=Shemaroo_MarathiBana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="JIOTV-Music",Balle Balle TV 
+http://jiotv.in1.bitmana.io/live.php?c=Balle_Balle_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="JIOTV-Infotainment",History TV18 SD 
+http://jiotv.in1.bitmana.io/live.php?c=History_TV18_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="JIOTV-Entertainment",Surya Bhojpuri 
+http://jiotv.in1.bitmana.io/live.php?c=Surya_Bhojpuri&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="JIOTV-Devotional",RadheKrishna TV 
+http://jiotv.in1.bitmana.io/live.php?c=RadheKrishna_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="JIOTV-Devotional",Subharti 
+http://jiotv.in1.bitmana.io/live.php?c=Subharti&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png" group-title="JIOTV-Educational",Shiksha Darshan 
+http://jiotv.in1.bitmana.io/live.php?c=Shiksha_Darshan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="JIOTV-Educational",Punjab School TV 
+http://jiotv.in1.bitmana.io/live.php?c=Punjab_School_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="JIOTV-News",News First 
+http://jiotv.in1.bitmana.io/live.php?c=News_First&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" group-title="JIOTV-Educational",Lifology 
+http://jiotv.in1.bitmana.io/live.php?c=Lifology&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png" group-title="JIOTV-Lifestyle",MY ZEN HD 
+http://jiotv.in1.bitmana.io/live.php?c=MY_ZEN_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="JIOTV-Lifestyle",FTV HD 
+http://jiotv.in1.bitmana.io/live.php?c=FTV_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="JIOTV-Infotainment",InWild HD 
+http://jiotv.in1.bitmana.io/live.php?c=InWild_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="JIOTV-Kids",ZooMoo HD 
+http://jiotv.in1.bitmana.io/live.php?c=ZooMoo_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" group-title="JIOTV-Infotainment",Smithsonian HD 
+http://jiotv.in1.bitmana.io/live.php?c=Smithsonian_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="JIOTV-Entertainment",HITS HD 
+http://jiotv.in1.bitmana.io/live.php?c=HitsIndia_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="JIOTV-Educational",Omnicuris 
+http://jiotv.in1.bitmana.io/live.php?c=Omnicuris&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="JIOTV-Kids",Rongeen TV 
+http://jiotv.in1.bitmana.io/live.php?c=Rongeen_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" group-title="JIOTV-Educational",Gyanvani 2 
+http://jiotv.in1.bitmana.io/live.php?c=Gyanvani_2&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" group-title="JIOTV-Educational",PTD Chhattisgarrh 
+http://jiotv.in1.bitmana.io/live.php?c=PTD_Chhattisgarrh&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="JIOTV-News",Badakhabar 
+http://jiotv.in1.bitmana.io/live.php?c=Badakhabar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-title="JIOTV-News",Anaadi TV 
+http://jiotv.in1.bitmana.io/live.php?c=Anaadi_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" group-title="JIOTV-News",Hornbill TV 
+http://jiotv.in1.bitmana.io/live.php?c=Hornbill_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" group-title="JIOTV-News",NK TV 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=NK_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" group-title="JIOTV-News",Aryan TV National 
+http://jiotv.in1.bitmana.io/live.php?c=Aryan_TV_National&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="JIOTV-Movies",Colors Cineplex Bollywood 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Cineplex_Bollywood&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" group-title="JIOTV-Infotainment",Naaptol 
+http://jiotv.in1.bitmana.io/live.php?c=Naaptol&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="JIOTV-Sports",Ten 4 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_4_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="JIOTV-Sports",Ten 4 
+http://jiotv.in1.bitmana.io/live.php?c=Ten_4_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" group-title="JIOTV-JioDarshan",Shri Amarnathji Shrine Board 
+http://jiotv.in1.bitmana.io/live.php?c=Shri_Amarnath_Shrine_Board&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DA_News_Plus.png" group-title="JIOTV-News",DA News Plus 
+http://jiotv.in1.bitmana.io/live.php?c=DA_News_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="JIOTV-Entertainment",Pasand 
+http://jiotv.in1.bitmana.io/live.php?c=Pasand&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="JIOTV-Entertainment",Studio Yuva Alpha 
+http://jiotv.in1.bitmana.io/live.php?c=Studio_Yuva_Alpha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="JIOTV-Sports",Jio Football 5 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_5&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="JIOTV-Sports",Jio Football 6 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_6&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="JIOTV-News",NEWS 24 MPCG 
+http://jiotv.in1.bitmana.io/live.php?c=NEWS_24_MPCG&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="JIOTV-Sports",Jio Football 7 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_7&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="JIOTV-Sports",Jio Football 8 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Football_8&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png" group-title="JIOTV-Devotional",Devam 
+http://jiotv.in1.bitmana.io/live.php?c=Devam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png" group-title="JIOTV-Infotainment",India At Dubai Expo 
+http://jiotv.in1.bitmana.io/live.php?c=India_At_Dubai_Expo&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" group-title="JIOTV-Educational",Aakash EduTV JEE 
+http://jiotv.in1.bitmana.io/live.php?c=Aakash_EduTV_JEE&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="JIOTV-Kids",DreamWorks 
+http://jiotv.in1.bitmana.io/live.php?c=Dreamworks&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="JIOTV-Entertainment",E! 
+http://jiotv.in1.bitmana.io/live.php?c=E_NBCU&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="JIOTV-Kids",Pogo Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Pogo_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="JIOTV-News",Sansad TV Rajya Sabha 
+http://jiotv.in1.bitmana.io/live.php?c=Sansad_TV_RajyaSabha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png" group-title="JIOTV-Devotional",Jivan TV 
+http://jiotv.in1.bitmana.io/live.php?c=Jivan_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="JIOTV-Sports",Jio Sports 1 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Sports_1_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="JIOTV-Sports",Jio Sports 2 HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jio_Sports_2_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="JIOTV-News",Tribe TV 
+http://jiotv.in1.bitmana.io/live.php?c=Tribe_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="JIOTV-News",ABP Sanjha 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_Sanjha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JIOTV-News",IBN Lokmat 
+http://jiotv.in1.bitmana.io/live.php?c=IBN_Lokmat&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="JIOTV-Devotional",Aastha 
+http://jiotv.in1.bitmana.io/live.php?c=Aastha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="JIOTV-Devotional",Sanskar 
+http://jiotv.in1.bitmana.io/live.php?c=Sanskar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="JIOTV-Devotional",Disha tv 
+http://jiotv.in1.bitmana.io/live.php?c=Disha_tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="JIOTV-Devotional",Paras tv 
+http://jiotv.in1.bitmana.io/live.php?c=Paras_tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="JIOTV-Devotional",mh1 Shraddha 
+http://jiotv.in1.bitmana.io/live.php?c=mh1_Shraddha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="JIOTV-Devotional",Sadhna 
+http://jiotv.in1.bitmana.io/live.php?c=Sadhna&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="JIOTV-Devotional",Peace of Mind 
+http://jiotv.in1.bitmana.io/live.php?c=Peace_of_Mind&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="JIOTV-Devotional",Jinvani TV 
+http://jiotv.in1.bitmana.io/live.php?c=Jinvani_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="JIOTV-Devotional",Arihant TV 
+http://jiotv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="JIOTV-Devotional",Ishwar TV 
+http://jiotv.in1.bitmana.io/live.php?c=Ishwar_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="JIOTV-Devotional",Satsang TV 
+http://jiotv.in1.bitmana.io/live.php?c=Satsang_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="JIOTV-Devotional",Shubh TV 
+http://jiotv.in1.bitmana.io/live.php?c=Shubh_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="JIOTV-Devotional",Aastha Bhajan 
+http://jiotv.in1.bitmana.io/live.php?c=Aastha_Bhajan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="JIOTV-Devotional",Vedic TV 
+http://jiotv.in1.bitmana.io/live.php?c=Vedic_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="JIOTV-News",News18 UP 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_UP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="JIOTV-News",News18 BIHAR 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_BIHAR&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="JIOTV-Entertainment",Dabangg 
+http://jiotv.in1.bitmana.io/live.php?c=Dabangg&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="JIOTV-Music",Sangeet Bhojpuri 
+http://jiotv.in1.bitmana.io/live.php?c=Sangeet_Bhojpuri&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="JIOTV-Movies",Oscar Movies 
+http://jiotv.in1.bitmana.io/live.php?c=Osar_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="JIOTV-Movies",Bhojpuri Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Bhojpuri_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dishum_TV.png" group-title="JIOTV-Entertainment",Dishum TV 
+http://jiotv.in1.bitmana.io/live.php?c=Dishum_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="JIOTV-News",News18 RAJASTHAN 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_RAJASTHAN&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="JIOTV-News",Zee Rajasthan 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Rajasthan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="JIOTV-News",First India News 
+http://jiotv.in1.bitmana.io/live.php?c=First_India_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="JIOTV-News",News18 MP 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_MP&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="JIOTV-News",IBC24 
+http://jiotv.in1.bitmana.io/live.php?c=IBC-24&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="JIOTV-News",Zee News MP Chattisgarh 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_News_MP_Chattisgarh&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="JIOTV-News",Bansal News 
+http://jiotv.in1.bitmana.io/live.php?c=Bansal_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="JIOTV-News",INH 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=INH_24x7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="JIOTV-News",News18 Urdu 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Urdu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="JIOTV-Entertainment",Zee Salaam 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Salaam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="JIOTV-Devotional",Channel Win 
+http://jiotv.in1.bitmana.io/live.php?c=Channel_Win&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="JIOTV-News",Gulistan News 
+http://jiotv.in1.bitmana.io/live.php?c=Gulistan_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="JIOTV-Infotainment",DD bharati 
+http://jiotv.in1.bitmana.io/live.php?c=DD_bharati&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="JIOTV-Entertainment",DD Bihar 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Bihar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="JIOTV-Entertainment",DD Madhya Pradesh 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Madhya_Pradesh&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="JIOTV-Entertainment",DD Rajasthan (Jaipur) 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Rajasthan_Jaipur&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Barker.png" group-title="JIOTV-Infotainment",Jio Promo HD 
+http://jiotv.in1.bitmana.io/live.php?c=Barker&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JIOTV-Entertainment",Colors Marathi HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="JIOTV-Entertainment",Zee Marathi 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Marathi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="JIOTV-News",ABP Majha 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_Majha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="JIOTV-News",Zee 24 Taas 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_24_Taas&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="JIOTV-Entertainment",Zee Yuva 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Yuva&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="JIOTV-Movies",Zee Talkies 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Talkies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="JIOTV-Entertainment",Sony Marathi SD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_Marathi_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="JIOTV-Entertainment",Saam Tv 
+http://jiotv.in1.bitmana.io/live.php?c=Saam_Tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="JIOTV-Music",9x Jhakaas 
+http://jiotv.in1.bitmana.io/live.php?c=9x_Jhakaas&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="JIOTV-Entertainment",Maiboli 
+http://jiotv.in1.bitmana.io/live.php?c=Maiboli&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="JIOTV-News",TV9 Maharashtra 
+http://jiotv.in1.bitmana.io/live.php?c=TV9_Maharashtra&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="JIOTV-Music",Sangeet Marathi 
+http://jiotv.in1.bitmana.io/live.php?c=Sangeet_Marathi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="JIOTV-Movies",Fakt Marathi 
+http://jiotv.in1.bitmana.io/live.php?c=Fakt_Marathi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="JIOTV-News",MKN 
+http://jiotv.in1.bitmana.io/live.php?c=MK_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="JIOTV-Movies",Amaar Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Amaar_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="JIOTV-Infotainment",Discovery Channel Bengali 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="JIOTV-Entertainment",DD Sahayadri 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Sahayadri&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="JIOTV-News",ABP Ananda 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_Ananda&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JIOTV-Entertainment",Colors Bengali HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="JIOTV-Entertainment",Zee Bangla 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="JIOTV-Entertainment",Aakash Aath 
+http://jiotv.in1.bitmana.io/live.php?c=Aakaash_bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="JIOTV-News",24 Ghanta TV 
+http://jiotv.in1.bitmana.io/live.php?c=24_Ghanta_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="JIOTV-Entertainment",Sony aath 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_aath&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="JIOTV-Music",Sangeet Bangla 
+http://jiotv.in1.bitmana.io/live.php?c=Sangeet_Bangla&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="JIOTV-Movies",Zee Bangla Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Bangla_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="JIOTV-News",News18 Bangla News 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Bangla_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="JIOTV-News",News Time TV 
+http://jiotv.in1.bitmana.io/live.php?c=News_Time_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="JIOTV-News",Sakshi tv 
+http://jiotv.in1.bitmana.io/live.php?c=Sakshi_tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="JIOTV-Entertainment",Zee Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="JIOTV-News",Studio One 
+http://jiotv.in1.bitmana.io/live.php?c=Studio_One&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="JIOTV-Entertainment",ETV Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="JIOTV-News",ETV Andhra pradesh 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Andhra_pradesh&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JIOTV-Entertainment",Jaya TV HD 
+http://jiotv.in1.bitmana.io/live.php?c=Jaya_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="JIOTV-News",TV 5 News 
+http://jiotv.in1.bitmana.io/live.php?c=TV_5_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="JIOTV-News",TV9 Telugu News 
+http://jiotv.in1.bitmana.io/live.php?c=TV9_Telugu_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="JIOTV-News",NTV 
+http://jiotv.in1.bitmana.io/live.php?c=NTV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="JIOTV-News",ABN Andhra Jyothi 
+http://jiotv.in1.bitmana.io/live.php?c=ABN_Andhra_Jyothi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="JIOTV-News",T News 
+http://jiotv.in1.bitmana.io/live.php?c=T_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="JIOTV-Entertainment",Puthu Yugam 
+http://jiotv.in1.bitmana.io/live.php?c=Puthu_Yugam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="JIOTV-News",V6 News 
+http://jiotv.in1.bitmana.io/live.php?c=V6_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="JIOTV-Entertainment",MK TV 
+http://jiotv.in1.bitmana.io/live.php?c=MK_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="JIOTV-Devotional",Bhakti TV 
+http://jiotv.in1.bitmana.io/live.php?c=Bhakti_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="JIOTV-Devotional",Subhavartha TV 
+http://jiotv.in1.bitmana.io/live.php?c=Subhavartha_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="JIOTV-Devotional",Nireekshana TV 
+http://jiotv.in1.bitmana.io/live.php?c=Nireekshana_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="JIOTV-News",ETV Telangana 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Telangana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="JIOTV-News",HM TV 
+http://jiotv.in1.bitmana.io/live.php?c=HM_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="JIOTV-Movies",ETV Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="JIOTV-Entertainment",ETV Plus 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="JIOTV-Infotainment",ETV Life 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="JIOTV-Lifestyle",ETV Abhiruchi 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="JIOTV-Movies",Zee Cinemalu 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="JIOTV-News",Raj News 24x7 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_News_24x7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="JIOTV-News",CVR English 
+http://jiotv.in1.bitmana.io/live.php?c=CVR_English&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="JIOTV-News",CVR News 
+http://jiotv.in1.bitmana.io/live.php?c=CVR_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="JIOTV-Infotainment",CVR Health 
+http://jiotv.in1.bitmana.io/live.php?c=CVR_Health&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="JIOTV-Devotional",CVR OM Spiritual 
+http://jiotv.in1.bitmana.io/live.php?c=CVR_OM_Spiritual&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="JIOTV-News",Raj News Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_News_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="JIOTV-Entertainment",Vissa TV 
+http://jiotv.in1.bitmana.io/live.php?c=Vissa_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="JIOTV-News",10 TV 
+http://jiotv.in1.bitmana.io/live.php?c=10_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="JIOTV-Devotional",Aradhana TV 
+http://jiotv.in1.bitmana.io/live.php?c=Aradhana_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="JIOTV-Infotainment",Vanitha 
+http://jiotv.in1.bitmana.io/live.php?c=Vanitha&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="JIOTV-Music",Raj Music Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Music_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="JIOTV-News",I News 
+http://jiotv.in1.bitmana.io/live.php?c=I_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JIOTV-Music",MK Music 
+http://jiotv.in1.bitmana.io/live.php?c=MK_Music&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="JIOTV-Infotainment",History TV18 HD Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=History_18_Tamil&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="JIOTV-Infotainment",Sony BBC Earth HD Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="JIOTV-Entertainment",DD Saptagiri 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Saptagiri&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="JIOTV-Entertainment",Zee Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="JIOTV-Entertainment",Kalaignar TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kalaignar_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="JIOTV-Entertainment",Raj TV 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="JIOTV-News",Puthiya Thalimurai 
+http://jiotv.in1.bitmana.io/live.php?c=Puthiya_Thalimurai&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="JIOTV-Entertainment",Vasanth TV 
+http://jiotv.in1.bitmana.io/live.php?c=Vasanth_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JIOTV-Music",Jaya Max 
+http://jiotv.in1.bitmana.io/live.php?c=Jaya_Max&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="JIOTV-Entertainment",Polimer TV 
+http://jiotv.in1.bitmana.io/live.php?c=Polimer_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="JIOTV-News",Thanthi TV 
+http://jiotv.in1.bitmana.io/live.php?c=Thanthi_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="JIOTV-Entertainment",Makkal TV 
+http://jiotv.in1.bitmana.io/live.php?c=Makkal_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="JIOTV-News",Jaya Plus 
+http://jiotv.in1.bitmana.io/live.php?c=Jaya_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JIOTV-Movies",J Movies 
+http://jiotv.in1.bitmana.io/live.php?c=J_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="JIOTV-News",News7 Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=News7_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="JIOTV-News",Polimer News 
+http://jiotv.in1.bitmana.io/live.php?c=Polimer_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="JIOTV-News",News 18 Tamilnadu 
+http://jiotv.in1.bitmana.io/live.php?c=News_18_Tamilnadu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="JIOTV-News",Kalaignar Seithigal  
+http://jiotv.in1.bitmana.io/live.php?c=Kalaignar_Seithigal_&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="JIOTV-Movies",Raj Digital Plus 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="JIOTV-Music",Raj Musix 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Musix&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JIOTV-Entertainment",Colors Tamil HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="JIOTV-News",Dighvijay TV 
+http://jiotv.in1.bitmana.io/live.php?c=Dighvijay_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="JIOTV-News",Sathiyam TV 
+http://jiotv.in1.bitmana.io/live.php?c=Sathiyam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="JIOTV-News",Captain News 
+http://jiotv.in1.bitmana.io/live.php?c=Captain_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="JIOTV-News",Malai Murasu 
+http://jiotv.in1.bitmana.io/live.php?c=Malai_Murasu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="JIOTV-Entertainment",Captain tv 
+http://jiotv.in1.bitmana.io/live.php?c=Captain_tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="JIOTV-Music",Sahana Music 
+http://jiotv.in1.bitmana.io/live.php?c=Sahana_Music&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="JIOTV-Devotional",Nambikkai 
+http://jiotv.in1.bitmana.io/live.php?c=Nambikkai&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="JIOTV-Lifestyle",Travel XP Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Travel_XP_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="JIOTV-Entertainment",Vendhar TV 
+http://jiotv.in1.bitmana.io/live.php?c=Vendhar_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="JIOTV-Entertainment",DD5 Podhigai 
+http://jiotv.in1.bitmana.io/live.php?c=DD5_Podhigai&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JIOTV-Entertainment",Colors Kannada HD 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Kannada_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="JIOTV-News",TV9 Karnataka 
+http://jiotv.in1.bitmana.io/live.php?c=TV9_Karnataka&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="JIOTV-Entertainment",Zee Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="JIOTV-Entertainment",Kasturi 
+http://jiotv.in1.bitmana.io/live.php?c=Kasturi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="JIOTV-News",Suvarna News 
+http://jiotv.in1.bitmana.io/live.php?c=Suvarna_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="JIOTV-News",Public TV 
+http://jiotv.in1.bitmana.io/live.php?c=Public_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="JIOTV-News",News18 Kannada News 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Kannada_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="JIOTV-Entertainment",Colors Super 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Super&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="JIOTV-Music",Raj Music Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Music_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="JIOTV-Devotional",Sri Sankara 
+http://jiotv.in1.bitmana.io/live.php?c=Sri_Sankara&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="JIOTV-Music",Public Music 
+http://jiotv.in1.bitmana.io/live.php?c=Public_Music&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="JIOTV-News",Raj News Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_News_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="JIOTV-News",Maha News 
+http://jiotv.in1.bitmana.io/live.php?c=Maha_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="JIOTV-Infotainment",History TV18 HD Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=History_18_Telugu&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="JIOTV-Infotainment",Sony BBC Earth HD Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="JIOTV-Infotainment",Discovery Channel Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="JIOTV-Devotional",Sri Venkateshwar Bhakti 
+http://jiotv.in1.bitmana.io/live.php?c=Sri_Venkateshwar_Bhakti&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="JIOTV-Devotional",Divya Vani 
+http://jiotv.in1.bitmana.io/live.php?c=Divya_Vani&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="JIOTV-Entertainment",DD9 chandana (kannada) 
+http://jiotv.in1.bitmana.io/live.php?c=DD9_chandana_kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="JIOTV-Entertainment",Colors Gujarati 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Gujarati&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="JIOTV-News",Tv 9 Gujarat 
+http://jiotv.in1.bitmana.io/live.php?c=Tv_9_Gujarat&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="JIOTV-News",GS TV 
+http://jiotv.in1.bitmana.io/live.php?c=GS_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="JIOTV-News",Sandesh News 
+http://jiotv.in1.bitmana.io/live.php?c=Sandesh_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="JIOTV-Business",CNBC Bazaar (MNO) 
+http://jiotv.in1.bitmana.io/live.php?c=CNBC_Bazaar_MNO&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="JIOTV-News",News18 Gujarati 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_News_Gujarati&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="JIOTV-News",ABP Asmita 
+http://jiotv.in1.bitmana.io/live.php?c=ABP_Asmita&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="JIOTV-News",VTV Gujarati 
+http://jiotv.in1.bitmana.io/live.php?c=VTV_Gujarati&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="JIOTV-News",Zee 24 Kalak 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_24_Kalak&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="JIOTV-Entertainment",DD Girnar 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Girnar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="JIOTV-Entertainment",Colors Oriya 
+http://jiotv.in1.bitmana.io/live.php?c=Colors_Oriya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="JIOTV-Entertainment",Zee Odisha 
+http://jiotv.in1.bitmana.io/live.php?c=Sarthak_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="JIOTV-News",Zee Kalinga 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Kalinga&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="JIOTV-News",Kanak News 
+http://jiotv.in1.bitmana.io/live.php?c=Kanak_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="JIOTV-News",Kalinga TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kalinga_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="JIOTV-News",Prameya News 7 
+http://jiotv.in1.bitmana.io/live.php?c=Prameya_News_7&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="JIOTV-News",News18 Oriya 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_News_Oriya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="JIOTV-News",MBC 
+http://jiotv.in1.bitmana.io/live.php?c=MBC&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="JIOTV-News",Naxatra News 
+http://jiotv.in1.bitmana.io/live.php?c=Naxatra_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="JIOTV-Entertainment",DD Oriya 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Oriya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png" group-title="JIOTV-Entertainment",Asianet 
+http://jiotv.in1.bitmana.io/live.php?c=Asianet_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JIOTV-News",Asianet News 
+http://jiotv.in1.bitmana.io/live.php?c=Asianet_News&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="JIOTV-Entertainment",Amrita TV 
+http://jiotv.in1.bitmana.io/live.php?c=Amrita_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="JIOTV-Entertainment",Mazavali Manorama HD 
+http://jiotv.in1.bitmana.io/live.php?c=Mazavali_Manorama_HD&q=1200&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="JIOTV-Entertainment",Mazhavil Manorama 
+http://jiotv.in1.bitmana.io/live.php?c=Mazhavil_Manorama&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="JIOTV-Entertainment",Kairali TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kairali_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="JIOTV-Music",mh1 (Music) 
+http://jiotv.in1.bitmana.io/live.php?c=mh1_Music&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="JIOTV-News",Kairali News 
+http://jiotv.in1.bitmana.io/live.php?c=Kairali_People_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="JIOTV-News",Manorama News 
+http://jiotv.in1.bitmana.io/live.php?c=Manorama_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="JIOTV-News",Mathrubhumi News 
+http://jiotv.in1.bitmana.io/live.php?c=Mathrubhumi_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="JIOTV-News",Jaihind tv 
+http://jiotv.in1.bitmana.io/live.php?c=Jaihind_tv&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="JIOTV-News",Jeevan TV 
+http://jiotv.in1.bitmana.io/live.php?c=Jeevan_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="JIOTV-Music",Kappa TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kappa_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="JIOTV-Entertainment",Flower TV 
+http://jiotv.in1.bitmana.io/live.php?c=Flower_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="JIOTV-News",GoodNews Channel 
+http://jiotv.in1.bitmana.io/live.php?c=GoodNews_Channel&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="JIOTV-News",Janam TV 
+http://jiotv.in1.bitmana.io/live.php?c=Janam_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="JIOTV-Devotional",Shalom 
+http://jiotv.in1.bitmana.io/live.php?c=Shalom&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="JIOTV-Lifestyle",Kaumudy TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kaumudy_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="JIOTV-Entertainment",Kairali WE TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kairali_WE_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="JIOTV-News",News 18 Kerala 
+http://jiotv.in1.bitmana.io/live.php?c=News_18_Kerala&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="JIOTV-Music",Raj Music Malayalam 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_Music_Malayalam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="JIOTV-News",Raj News Malayalam 
+http://jiotv.in1.bitmana.io/live.php?c=Raj_News_Malayalam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="JIOTV-Entertainment",Dillagi TV 
+http://jiotv.in1.bitmana.io/live.php?c=Dillagi_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="JIOTV-Entertainment",Dhamaal TV 
+http://jiotv.in1.bitmana.io/live.php?c=Dhamaal_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Andy_Haryana.png" group-title="JIOTV-Entertainment",Andy Haryana 
+http://jiotv.in1.bitmana.io/live.php?c=Andy_Haryana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="JIOTV-Entertainment",Manoranjan Grand 
+http://jiotv.in1.bitmana.io/live.php?c=Manoranjan_Grand&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="JIOTV-News",Zee Purvaiya 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Purvaiya&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="JIOTV-News",Zee Punjabi HP Haryana 
+http://jiotv.in1.bitmana.io/live.php?c=Zee_Punjabi_HP_Haryana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="JIOTV-News",PTC News 
+http://jiotv.in1.bitmana.io/live.php?c=PTC_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="JIOTV-News",News18 Haryana and HP News 
+http://jiotv.in1.bitmana.io/live.php?c=ETV_Haryana_and_HP_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="JIOTV-Entertainment",PTC Punjabi 
+http://jiotv.in1.bitmana.io/live.php?c=PTC_Punjabi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="JIOTV-Music",PTC Chak De 
+http://jiotv.in1.bitmana.io/live.php?c=PTC_Chak_De&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="JIOTV-Music",9X Tashan 
+http://jiotv.in1.bitmana.io/live.php?c=9X_Tashan&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="JIOTV-News",Chardikla Time TV 
+http://jiotv.in1.bitmana.io/live.php?c=Chardikla_Time_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="JIOTV-Movies",Pitaara 
+http://jiotv.in1.bitmana.io/live.php?c=Pitaara&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="JIOTV-Movies",Manoranjan Movies 
+http://jiotv.in1.bitmana.io/live.php?c=Manoranjan_Movies&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="JIOTV-Movies",Khushboo TV 
+http://jiotv.in1.bitmana.io/live.php?c=Khusboo_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="JIOTV-Entertainment",DD Punjabi 
+http://jiotv.in1.bitmana.io/live.php?c=DD_Punjabi&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="JIOTV-News",DY 365 
+http://jiotv.in1.bitmana.io/live.php?c=DY_365&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="JIOTV-Entertainment",Nepal one 
+http://jiotv.in1.bitmana.io/live.php?c=Nepal_one&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="JIOTV-Entertainment",Rang 
+http://jiotv.in1.bitmana.io/live.php?c=Rang&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="JIOTV-Entertainment",Jonack 
+http://jiotv.in1.bitmana.io/live.php?c=Jonack&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="JIOTV-News",News 18 Assam 
+http://jiotv.in1.bitmana.io/live.php?c=News_18_Assam&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="JIOTV-Music",Ramdhenu 
+http://jiotv.in1.bitmana.io/live.php?c=Ramdhenu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="JIOTV-News",Assam Talks 
+http://jiotv.in1.bitmana.io/live.php?c=Assam_Talks&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="JIOTV-Entertainment",Rengoni 
+http://jiotv.in1.bitmana.io/live.php?c=Rengoni&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="JIOTV-News",North East Live 
+http://jiotv.in1.bitmana.io/live.php?c=North_East_Live&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="JIOTV-News",Twenty Four News 
+http://jiotv.in1.bitmana.io/live.php?c=TWENTY_FOUR_NEWS&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="JIOTV-News",TV9 Bharatvarsh 
+http://jiotv.in1.bitmana.io/live.php?c=TV9_Bharatvarsh&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="JIOTV-Infotainment",Tehzeeb TV 
+http://jiotv.in1.bitmana.io/live.php?c=TEHZEEB_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="JIOTV-News",Kolkata Live 
+http://jiotv.in1.bitmana.io/live.php?c=Kolkata_LIVE&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="JIOTV-Devotional",Aastha Telugu 
+http://jiotv.in1.bitmana.io/live.php?c=Aastha_Telugu&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="JIOTV-Devotional",Aastha Tamil 
+http://jiotv.in1.bitmana.io/live.php?c=Aastha_Tamil&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="JIOTV-Devotional",Aastha Kannada 
+http://jiotv.in1.bitmana.io/live.php?c=Aastha_Kannada&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="JIOTV-News",Surya Samachar 
+http://jiotv.in1.bitmana.io/live.php?c=Surya_Samachar&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="JIOTV-Movies",Surya Cinema 
+http://jiotv.in1.bitmana.io/live.php?c=Surya_Cinema&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" group-title="JIOTV-Devotional",Surya Bhakti 
+http://jiotv.in1.bitmana.io/live.php?c=Surya_Bhakti&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="JIOTV-News",Ctvn Akd Plus 
+http://jiotv.in1.bitmana.io/live.php?c=CTVN_AKD_Plus&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="JIOTV-News",Calcutta News 
+http://jiotv.in1.bitmana.io/live.php?c=Calcutta_News&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="JIOTV-News",Total Tv Haryana 
+http://jiotv.in1.bitmana.io/live.php?c=Total_Tv_Haryana&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="JIOTV-News",Kolkata TV 
+http://jiotv.in1.bitmana.io/live.php?c=Kolkata_TV&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="JIOTV-Movies",Sony Max SD 
+http://jiotv.in1.bitmana.io/live.php?c=SET_MAX&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="JIOTV-Infotainment",Sony BBC Earth SD 
+http://jiotv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/moupia_1170.png" group-title="zee-News",24 Ghanta 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-24ghantatv
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/zeenewssudhirchaudhary2_1.png" group-title="zee-News",Zee News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeenews
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/rbharatarnabgoswami.png" group-title="zee-News",Republic Bharat 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-162
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/newsnationdeepakchaurasia_.png" group-title="zee-News",News Nation 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-170
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1911071689.png" group-title="zee-News",Polimer News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-203
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_649346153.png" group-title="zee-News",Putiya Thalamurai 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-220
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1787137922.png" group-title="zee-News",Vendhar TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-306
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_100879400.png" group-title="zee-News",TV9 Telugu 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-258
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_273514222.png" group-title="zee-News",TV5 News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-222
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1579827656.png" group-title="zee-News",TV9 Marathi 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-257
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_688844399.png" group-title="zee-News",Saam TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-270
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1111951312.png" group-title="zee-News",Zee Punjab Haryana Himachal Pradesh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeepunjabharyanahima
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/aajtakshwetasingh.png" group-title="zee-News",Aaj Tak 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-aajtak
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/indiatvrajatsharma.png" group-title="zee-News",India TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-282
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2004318975.png" group-title="zee-News",TV9 Bharatvarsh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-251
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/zeebusinessanilsinghvi.png" group-title="zee-News",Zee Business 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeebusiness
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/indiatodayrajdeepsardesdai.png" group-title="zee-News",India Today 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-indiatoday
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_740756490.png" group-title="zee-News",News24 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-206
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/republictvarnabgoswami2.png" group-title="zee-News",Republic TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_1422341819
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1673213675.png" group-title="zee-News",TV9 Gujarati 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-260
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1335796285.png" group-title="zee-News",Zee 24 Kalak 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zee24kalak
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_382506495.png" group-title="zee-News",TV9 Kannada 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-259
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_503553443.png" group-title="zee-News",Suvarna News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-201
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1456945786.png" group-title="zee-News",Zee 24 Taas 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zee24taas
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1792225856.png" group-title="zee-News",Good News Today 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-255
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/wionpalkisharmaupadhyay.png" group-title="zee-News",WION 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-wion
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/shamshersingh_1170.png" group-title="zee-News",Zee Hindustan 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeehindustan
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1773254912.png" group-title="zee-News",Zee Bihar Zharkhand 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeebiharjharkhand
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_217868396.png" group-title="zee-News",News State Uttar Pradesh Uttrakhand 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-171
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/09207e24_list.png" group-title="zee-Lifestyle",E24 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-207
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1893514287.png" group-title="zee-News",Zee Odisha 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeekalinganews
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1709739390.png" group-title="zee-News",Zee Rajasthan News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeerajasthannews
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_823530713.png" group-title="zee-News",Zee Madhya Pradesh Chhattisgarh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeemadhyapradeshchat
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_895666865.png" group-title="zee-Music",Zing 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zing
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2022520414.png" group-title="zee-Entertainment",Big Magic 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-bigmagic_1786965389
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1554775145.png" group-title="zee-Entertainment",Zee TV HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeetvhd
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_378606665.png" group-title="zee-Entertainment",&TV HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-tvhd_0
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_551054149.png" group-title="zee-Entertainment",Zee Marathi HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeemarathi
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_361849131.png" group-title="zee-Entertainment",Zee Yuva 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeeyuva
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_325698699.png" group-title="zee-Entertainment",Zee Café HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeecafehd
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1735687172.png" group-title="zee-Entertainment",Zee Ganga 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-bigganga
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1250786368.png" group-title="zee-Entertainment",Zee Tamil HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeetamil
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_593933473.png" group-title="zee-Entertainment",Zee Telugu HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeetelugu
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_611455469.png" group-title="zee-Entertainment",Zee Kannada HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeekannada
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_268830785.png" group-title="zee-Entertainment",Zee Keralam HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-129
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_310781121.png" group-title="zee-Entertainment",Zee Bangla HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeebangla
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1844143347.png" group-title="zee-Entertainment",Zee Anmol 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeeanmol
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_167952257.png" group-title="zee-Movie",Zee Cinema HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeecinemahd
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1642453232.png" group-title="zee-Movie",Zee Cinemalu HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeecinemalu
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1476130363.png" group-title="zee-Movie",&Pictures HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-tvpictureshd
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_483062857.png" group-title="zee-Movie",Zee Talkies HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeetalkies
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1238879598.png" group-title="zee-Entertainment",Zee Bangla Cinema 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeebanglacinema
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1031170304.png" group-title="zee-Entertainment",Zee Punjabi 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-215
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1721007595.png" group-title="zee-Movie",Zee Anmol Cinema 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeeanmolcinema
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_218202605.png" group-title="zee-Movie",Zee Bollywood 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeeclassic
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_807278654.png" group-title="zee-Movie",Zee Cinema 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeecinema
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1269578414.png" group-title="zee-Movie",&Pictures 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-pictures
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1953200347.png" group-title="zee-Movie",Zee Action 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeeaction
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_375086496.png" group-title="zee-Movie",&Prive HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-privéhd
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1372768736.png" group-title="zee-Entertainment",DD Odia 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddodia
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1413076946.png" group-title="zee-News",Chardikla Time TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-chardiklatimetvtimet
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_72275493.png" group-title="zee-News",DD News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddnews
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_421658302.png" group-title="zee-News",DD India 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddindia
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_579794123.png" group-title="zee-News",DD Kisan 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddkisan
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1849594732.png" group-title="zee-Entertainment,Music",Boogle Bollywood 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-165
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_379547401.png" group-title="zee-Movie",&flix HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_2105335046
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1071598760.png" group-title="zee-Entertainment",Alpha ETC Punjabi 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_2132977507
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1152304152.png" group-title="zee-Devotional",Sanskar TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_1144658965
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2031259137.png" group-title="zee-Devotional",Shubh TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-327
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_66703857.png" group-title="zee-Devotional",Satsang TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_1565694979
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2128007300.png" group-title="zee-Devotional",Divya TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-divyatv
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_450865576.png" group-title="zee-Devotional",Krishna Vani 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-166
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1866029228.png" group-title="zee-News",Zee Salaam 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeesalaam
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_200095097.png" group-title="zee-Entertainment",Zee TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-zeetv
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_579936187.png" group-title="zee-Entertainment",Makkal TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-makkaltv
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1550486077.png" group-title="zee-Entertainment",DD Podhigai 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddpodhigai
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1300475155.png" group-title="zee-Entertainment",DD Malayalam 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddmalayalam
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_671555942.png" group-title="zee-News",DD Yadagiri 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddyadagiri
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1242891543.png" group-title="zee-Entertainment",DD Bangla 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddbangla
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_222569298.png" group-title="zee-Entertainment",DD Chandana 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddchandana
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1150431941.png" group-title="zee-Entertainment",Zee Sarthak 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-sarthaktv
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1078376781.png" group-title="zee-Entertainment",DD Sahyadri 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddsahyadri
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1445842484.png" group-title="zee-Entertainment",DD Girnar 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddgirnar
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1440959247.png" group-title="zee-Entertainment",DD Urdu 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddurdu
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1491909175.png" group-title="zee-Entertainment",DD Rajasthan 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddrajasthanjaipur
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1749264623.png" group-title="zee-Entertainment",DD Bharati 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddbharati
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1218231157.png" group-title="zee-Entertainment",DD Madhya Pradesh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddmadhyapradesh
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1865440648.png" group-title="zee-Entertainment",DD Bihar 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddbihar
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1445486903.png" group-title="zee-Entertainment",DD Uttar Pradesh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-dduttarpradesh
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1124442022.png" group-title="zee-Devotional",Hare Krsna 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-183
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_955304463.png" group-title="zee-News",Zee News Uttar Pradesh Uttrakhand 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-channel_265145625
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1007647800.png" group-title="zee-Entertainment",DD Punjabi 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-ddpunjabi
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1325098382.png" group-title="zee-News",News State Madhya Pradesh Chhattisgarh 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-172
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_673971588.png" group-title="zee-Movie",Zee Classic 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-176
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/pgsureshkumarne_1752938193.png" group-title="zee-News",Asianet News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-200
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_358457080.png" group-title="zee-Movie",&xplorHD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-209
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_20909261.png" group-title="zee-Movie",Zee Biskope 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-216
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_566572733.png" group-title="zee-Entertainment",Puthyugam TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-221
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_334138193.png" group-title="zee-Movie",Zee Thirai 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-224
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1957432816.png" group-title="zee-News",TV5 Kannada 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-227
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2096037619.png" group-title="zee-Lifestyle",Zee Zest HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-348
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1692640342.png" group-title="zee-Entertainment",Zee Picchar 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-241
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_436360213.png" group-title="zee-Entertainment",DD National HD 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-250
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1625066572.png" group-title="zee-Lifestyle",Sugran TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-271
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/indianews_1982216031.png" group-title="zee-News",India News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-272
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/newsx_595044195.png" group-title="zee-News",News X 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-273
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_212610744.png" group-title="zee-News",India News Punjabi Himachal 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-274
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1850271375.png" group-title="zee-News",India News UP 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-275
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_324814827.png" group-title="zee-News",India News Rajasthan 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-276
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1336270103.png" group-title="zee-News",India News MP 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-277
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1582071351.png" group-title="zee-News",India News Haryana 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-278
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_1805050.png" group-title="zee-News",India News Gujarat 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-279
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1639808461.png" group-title="zee-News",NE News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-280
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_844800250.png" group-title="zee-Devotional",Sadhna TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-284
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1126976137.png" group-title="zee-Devotional",Ishwar  TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-285
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_419268810.png" group-title="zee-Music",Non-stop EDM 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-296
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_941446093.png" group-title="zee-News",Living India 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-305
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1667539974.png" group-title="zee-News",Prag News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-310
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_142056468.png" group-title="zee-News",Sadhna Plus News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-313
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_171386133.png" group-title="zee-News",VIP News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-314
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1836335736.png" group-title="zee-Devotional",Awakening 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-316
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1346638136.png" group-title="zee-News",TIME8 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-317
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_2140696542.png" group-title="zee-News",Sadhna News MP/CG 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-319
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1602476580.png" group-title="zee-Entertainment",Rengoni 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-322
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_361016754.png" group-title="zee-Devotional",Ek Onkar 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-345
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1434429781.png" group-title="zee-Music",Zee Vajwa 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-353
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1495734600.png" group-title="zee-News",News First 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-356
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1083597338.png" group-title="zee-News",NTV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-372
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlogo_976067553.png" group-title="zee-Music",Haryanvi Hits 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-375
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1062825349.png" group-title="zee-Music",Wah Punjabi 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-376
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1939892250.png" group-title="zee-News",BTV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-377
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658withlog_1900210183.png" group-title="zee-News",TV9 Bangla 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-378
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1535320119.png" group-title="zee-News",Sudarshan TV 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-383
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1283511414.png" group-title="zee-News",Dainik Savera 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-384
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1634325786.png" group-title="zee-News",C News Bharat 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-385
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1866825600.png" group-title="zee-News",TV 100 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-386
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1072460698.png" group-title="zee-News",AB Star News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-387
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_290485787.png" group-title="zee-News",Sanjhi Soch 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-388
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1189289223.png" group-title="zee-News",Euro News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-389
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_451673856.png" group-title="zee-News",Africa News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-390
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_11759167.png" group-title="zee-Lifestyle",Fashion TV Mumbai 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-392
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1715566364.png" group-title="zee-Lifestyle",Fashion TV Paris 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-393
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_717187404.png" group-title="zee-Movie",Zee Chitramandir 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-394
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/abpnews_11702.png" group-title="zee-News",ABP News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-398
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1777650730.png" group-title="zee-News",ABP Ganga 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-399
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_111747038.png" group-title="zee-News",ABP Majha 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-400
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_916167039.png" group-title="zee-News",ABP Ananda 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-402
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_395672680.png" group-title="zee-News",ABP Asmita 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-403
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1764620565.png" group-title="zee-News",ABP Sanjha 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-404
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_671581899.png" group-title="zee-News",News Time Assam 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-407
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_527636606.png" group-title="zee-News",ND24 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-408
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_739766421.png" group-title="zee-News",CVR News Telugu 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-410
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1653313214.png" group-title="zee-News",CVR English 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-411
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1626283630.png" group-title="zee-Devotional",Devam 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-412
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_92722619.png" group-title="zee-News",Pratidin Time 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-413
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_560606826.png" group-title="zee-News",News1 India 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-417
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1377677687.png" group-title="zee-News",V6 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-418
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_2067246738.png" group-title="zee-News,Sports",ESPNcricinfo 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-419
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_1426309917.png" group-title="zee-News",Newsmax 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-423
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_439820624.png" group-title="zee-News",Ticker News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-424
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_220005254.png" group-title="zee-News",Media One 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-425
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/zeenewssudhirchaudhary2_1.png" group-title="zee-Drama",Internal VE Test 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-428
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/tv_1170x658withlogo_378606.png" group-title="zee-Drama",Live Event Test 1 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-429
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/sarath_1170.png" group-title="zee-News",Kairali News 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-430
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/rbangla_1170.png" group-title="zee-News",Republic Bangla 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-431
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_zee5ki_682000421.png" group-title="zee-Drama",Live Event Test 2 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-432
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_zee5ki_302096685.png" group-title="zee-Drama",Live Event Test 3 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-433
+#EXTINF:1 tvg-logo="https://zee.chadasaniyadhru.repl.co/zee5/channelLogo/1170x658_zee5ki_682000421.png" group-title="zee-Entertainment",Live Test Global 
+https://zee.chadasaniyadhru.repl.co/zee5/getm3u8/0-9-434
+#EXTINF:-1 group-title="tata sky",& Flix Eng HD
+
+http://195.201.82.32:5001/play/a001
+
+#EXTINF:-1 group-title="tata sky",& Flix Hindi HD
+
+http://195.201.82.32:5001/play/a02g
+
+#EXTINF:-1 group-title="tata sky",& Pictures HD
+
+http://195.201.82.32:5001/play/a02i
+
+#EXTINF:-1 group-title="tata sky",& Prive HD
+
+http://195.201.82.32:5001/play/a00j
+
+#EXTINF:-1 group-title="tata sky",& TV HD
+
+http://195.201.82.32:5001/play/a02h
+
+#EXTINF:-1 group-title="tata sky",AajTak HD
+
+http://195.201.82.32:5001/play/a02l
+
+#EXTINF:-1 group-title="tata sky",Animal Planet ENG HD
+
+http://195.201.82.32:5001/play/a00a
+
+#EXTINF:-1 group-title="tata sky",Animal Planet Hindi HD
+
+http://195.201.82.32:5001/play/a00g
+
+#EXTINF:-1 group-title="tata sky",Asianet HD
+
+http://195.201.82.32:5001/play/a011
+
+#EXTINF:-1 group-title="tata sky",BBC Earth Eng HD
+
+http://195.201.82.32:5001/play/a00b
+
+#EXTINF:-1 group-title="tata sky",BBC Earth Hindi HD
+
+http://195.201.82.32:5001/play/a02w
+
+#EXTINF:-1 group-title="tata sky",BBC Earth Tamil HD
+
+http://195.201.82.32:5001/play/a01s
+
+#EXTINF:-1 group-title="tata sky",BBC Earth Telugu HD
+
+http://195.201.82.32:5001/play/a01b
+
+#EXTINF:-1 group-title="tata sky",Baby Tv HD
+
+http://195.201.82.32:5001/play/a02t
+
+#EXTINF:-1 group-title="tata sky",CNBC TV 18 HD
+
+http://195.201.82.32:5001/play/a02s
+
+#EXTINF:-1 group-title="tata sky",Cartoon Network+ HD
+
+http://195.201.82.32:5001/play/a03d
+
+#EXTINF:-1 group-title="tata sky",Colors Bangla HD
+
+http://195.201.82.32:5001/play/a00y
+
+#EXTINF:-1 group-title="tata sky",Colors Cineplex HD
+
+http://195.201.82.32:5001/play/a02n
+
+#EXTINF:-1 group-title="tata sky",Colors HD
+
+http://195.201.82.32:5001/play/a023
+
+#EXTINF:-1 group-title="tata sky",Colors Infinity HD
+
+http://195.201.82.32:5001/play/a00k
+
+#EXTINF:-1 group-title="tata sky",Colors Kannada HD
+
+http://195.201.82.32:5001/play/a00o
+
+#EXTINF:-1 group-title="tata sky",Colors Marathi HD
+
+http://195.201.82.32:5001/play/a00u
+
+#EXTINF:-1 group-title="tata sky",Colors Tamil HD
+
+http://195.201.82.32:5001/play/a01v
+
+#EXTINF:-1 group-title="tata sky",Comedy Central HD
+
+http://195.201.82.32:5001/play/a00e
+
+#EXTINF:-1 group-title="tata sky",Discovery ID HD
+
+http://195.201.82.32:5001/play/a02q
+
+#EXTINF:-1 group-title="tata sky",Discovery World Eng HD
+
+http://195.201.82.32:5001/play/a00i
+
+#EXTINF:-1 group-title="tata sky",Discovery World Hindi HD
+
+http://195.201.82.32:5001/play/a02k
+
+#EXTINF:-1 group-title="tata sky",Discovery World Tamil HD
+
+http://195.201.82.32:5001/play/a01n
+
+#EXTINF:-1 group-title="tata sky",Discovery World Telugu HD
+
+http://195.201.82.32:5001/play/a018
+
+#EXTINF:-1 group-title="tata sky",Disney International HD
+
+http://195.201.82.32:5001/play/a03a
+
+#EXTINF:-1 group-title="tata sky",ETV HD
+
+http://195.201.82.32:5001/play/a01f
+
+#EXTINF:-1 group-title="tata sky",EuroSports HD
+
+http://195.201.82.32:5001/play/a03b
+
+#EXTINF:-1 group-title="tata sky",Fox Life ENG HD
+
+http://195.201.82.32:5001/play/a007
+
+#EXTINF:-1 group-title="tata sky",Fox Life Hindi HD
+
+http://195.201.82.32:5001/play/a037
+
+#EXTINF:-1 group-title="tata sky",Fox Life Tamil HD
+
+http://195.201.82.32:5001/play/a01u
+
+#EXTINF:-1 group-title="tata sky",Gemini HD
+
+http://195.201.82.32:5001/play/a01d
+
+#EXTINF:-1 group-title="tata sky",Gemini Movies HD
+
+http://195.201.82.32:5001/play/a01e
+
+#EXTINF:-1 group-title="tata sky",Gemini Music HD
+
+http://195.201.82.32:5001/play/a01g
+
+#EXTINF:-1 group-title="tata sky",History Eng HD
+
+http://195.201.82.32:5001/play/a00c
+
+#EXTINF:-1 group-title="tata sky",History Hindi HD
+
+http://195.201.82.32:5001/play/a032
+
+#EXTINF:-1 group-title="tata sky",History Tamil HD
+
+http://195.201.82.32:5001/play/a01t
+
+#EXTINF:-1 group-title="tata sky",History Telugu HD
+
+http://195.201.82.32:5001/play/a01c
+
+#EXTINF:-1 group-title="tata sky",Jalsha HD
+
+http://195.201.82.32:5001/play/a00v
+
+#EXTINF:-1 group-title="tata sky",Jalsha Movies HD
+
+http://195.201.82.32:5001/play/a00w
+
+#EXTINF:-1 group-title="tata sky",Jaya Tv HD
+
+http://195.201.82.32:5001/play/a01m
+
+#EXTINF:-1 group-title="tata sky",KTV HD
+
+http://195.201.82.32:5001/play/a01q
+
+#EXTINF:-1 group-title="tata sky",MN+ HD
+
+http://195.201.82.32:5001/play/a039
+
+#EXTINF:-1 group-title="tata sky",MNX HD
+
+http://195.201.82.32:5001/play/a035
+
+#EXTINF:-1 group-title="tata sky",MTV Beats HD
+
+http://195.201.82.32:5001/play/a03e
+
+#EXTINF:-1 group-title="tata sky",MTV+ HD
+
+http://195.201.82.32:5001/play/a02m
+
+#EXTINF:-1 group-title="tata sky",Maa HD
+
+http://195.201.82.32:5001/play/a017
+
+#EXTINF:-1 group-title="tata sky",Maa Movies HD
+
+http://195.201.82.32:5001/play/a016
+
+#EXTINF:-1 group-title="tata sky",Maa Music HD
+
+http://195.201.82.32:5001/play/a015
+
+#EXTINF:-1 group-title="tata sky",Mazhavil Manorama HD
+
+http://195.201.82.32:5001/play/a012
+
+#EXTINF:-1 group-title="tata sky",Miniplex HD
+
+http://195.201.82.32:5001/play/a034
+
+#EXTINF:-1 group-title="tata sky",Movies Now HD
+
+http://195.201.82.32:5001/play/a036
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Bengali HD
+
+http://195.201.82.32:5001/play/a00x
+
+#EXTINF:-1 group-title="tata sky",Nat Geo ENG HD
+
+http://195.201.82.32:5001/play/a008
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Hindi HD
+
+http://195.201.82.32:5001/play/a02v
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Tamil HD
+
+http://195.201.82.32:5001/play/a01r
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Telugu HD
+
+http://195.201.82.32:5001/play/a01a
+
+#EXTINF:-1 group-title="tata sky",Nat Geo WILD Eng HD
+
+http://195.201.82.32:5001/play/a00f
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Wild Hindi HD
+
+http://195.201.82.32:5001/play/a02f
+
+#EXTINF:-1 group-title="tata sky",Nat Geo Wild Tamil HD
+
+http://195.201.82.32:5001/play/a01l
+
+#EXTINF:-1 group-title="tata sky",Navbharat HD
+
+http://195.201.82.32:5001/play/a021
+
+#EXTINF:-1 group-title="tata sky",News 24 Malayalam
+
+http://195.201.82.32:5001/play/a03f
+
+#EXTINF:-1 group-title="tata sky",Nick+ HD
+
+http://195.201.82.32:5001/play/a033
+
+#EXTINF:-1 group-title="tata sky",PTC Gold
+
+http://195.201.82.32:5001/play/a01x
+
+#EXTINF:-1 group-title="tata sky",PTC Music 
+
+http://195.201.82.32:5001/play/a01y
+
+#EXTINF:-1 group-title="tata sky",PTC News
+
+http://195.201.82.32:5001/play/a020
+
+#EXTINF:-1 group-title="tata sky",PTC Punjabi
+
+http://195.201.82.32:5001/play/a01z
+
+#EXTINF:-1 group-title="tata sky",PTC Simran HD
+
+http://195.201.82.32:5001/play/a01w
+
+#EXTINF:-1 group-title="tata sky",Sony Max HD
+
+http://195.201.82.32:5001/play/a02x
+
+#EXTINF:-1 group-title="tata sky",Sony Pix Hindi HD
+
+http://195.201.82.32:5001/play/a02o
+
+#EXTINF:-1 group-title="tata sky",Sony Sab HD
+
+http://195.201.82.32:5001/play/a02y
+
+#EXTINF:-1 group-title="tata sky",Sony Set HD
+
+http://195.201.82.32:5001/play/a022
+
+#EXTINF:-1 group-title="tata sky",Sony Six HD
+
+http://195.201.82.32:5001/play/a030
+
+#EXTINF:-1 group-title="tata sky",Star Bharat HD
+
+http://195.201.82.32:5001/play/a025
+
+#EXTINF:-1 group-title="tata sky",Star Gold HD
+
+http://195.201.82.32:5001/play/a028
+
+#EXTINF:-1 group-title="tata sky",Star Gold Select HD
+
+http://195.201.82.32:5001/play/a029
+
+#EXTINF:-1 group-title="tata sky",Star Movies HD
+
+http://195.201.82.32:5001/play/a003
+
+#EXTINF:-1 group-title="tata sky",Star Movies Select HD
+
+http://195.201.82.32:5001/play/a005
+
+#EXTINF:-1 group-title="tata sky",Star Plus HD
+
+http://195.201.82.32:5001/play/a02a
+
+#EXTINF:-1 group-title="tata sky",Star Pravah HD
+
+http://195.201.82.32:5001/play/a00r
+
+#EXTINF:-1 group-title="tata sky",Star Sports 1 HD
+
+http://195.201.82.32:5001/play/a027
+
+#EXTINF:-1 group-title="tata sky",Star Sports 1 Hindi HD
+
+http://195.201.82.32:5001/play/a026
+
+#EXTINF:-1 group-title="tata sky",Star Sports 2 HD
+
+http://195.201.82.32:5001/play/a024
+
+#EXTINF:-1 group-title="tata sky",Star Sports Select 1 HD
+
+http://195.201.82.32:5001/play/a02b
+
+#EXTINF:-1 group-title="tata sky",Star Sports Select 2 HD
+
+http://195.201.82.32:5001/play/a02c
+
+#EXTINF:-1 group-title="tata sky",Star Vijay HD
+
+http://195.201.82.32:5001/play/a01j
+
+#EXTINF:-1 group-title="tata sky",Star World HD
+
+http://195.201.82.32:5001/play/a002
+
+#EXTINF:-1 group-title="tata sky",Star World Premier HD
+
+http://195.201.82.32:5001/play/a004
+
+#EXTINF:-1 group-title="tata sky",Sun Music HD
+
+http://195.201.82.32:5001/play/a01p
+
+#EXTINF:-1 group-title="tata sky",Sun TV HD
+
+http://195.201.82.32:5001/play/a01o
+
+#EXTINF:-1 group-title="tata sky",Surya HD
+
+http://195.201.82.32:5001/play/a013
+
+#EXTINF:-1 group-title="tata sky",Suvarna HD
+
+http://195.201.82.32:5001/play/a00n
+
+#EXTINF:-1 group-title="tata sky",TLC World Eng HD
+
+http://195.201.82.32:5001/play/a00h
+
+#EXTINF:-1 group-title="tata sky",Tata Sky Bangla Cinema HD
+
+http://195.201.82.32:5001/play/a010
+
+#EXTINF:-1 group-title="tata sky",Tata Sky Bollywood HD
+
+http://195.201.82.32:5001/play/a03c
+
+#EXTINF:-1 group-title="tata sky",Tata Sky Hits HD
+
+http://195.201.82.32:5001/play/a009
+
+#EXTINF:-1 group-title="tata sky",Tata Sky Telugu Cinema HD
+
+http://195.201.82.32:5001/play/a019
+
+#EXTINF:-1 group-title="tata sky",Tata Sky Theatre HD
+
+http://195.201.82.32:5001/play/a02j
+
+#EXTINF:-1 group-title="tata sky",Ten 1 HD
+
+http://195.201.82.32:5001/play/a031
+
+#EXTINF:-1 group-title="tata sky",Ten 2 HD
+
+http://195.201.82.32:5001/play/a02u
+
+#EXTINF:-1 group-title="tata sky",Ten 3 HD
+
+http://195.201.82.32:5001/play/a038
+
+#EXTINF:-1 group-title="tata sky",Times Now HD
+
+http://195.201.82.32:5001/play/a02z
+
+#EXTINF:-1 group-title="tata sky",Travel XP Eng HD
+
+http://195.201.82.32:5001/play/a00l
+
+#EXTINF:-1 group-title="tata sky",UTV HD
+
+http://195.201.82.32:5001/play/a02p
+
+#EXTINF:-1 group-title="tata sky",Udaya HD
+
+http://195.201.82.32:5001/play/a00p
+
+#EXTINF:-1 group-title="tata sky",VH1 HD
+
+http://195.201.82.32:5001/play/a00d
+
+#EXTINF:-1 group-title="tata sky",WION News HD
+
+http://195.201.82.32:5001/play/a00m
+
+#EXTINF:-1 group-title="tata sky",Zee Bangla HD
+
+http://195.201.82.32:5001/play/a00z
+
+#EXTINF:-1 group-title="tata sky",Zee Cafe HD
+
+http://195.201.82.32:5001/play/a006
+
+#EXTINF:-1 group-title="tata sky",Zee Cinema HD
+
+http://195.201.82.32:5001/play/a02e
+
+#EXTINF:-1 group-title="tata sky",Zee Cinemalu
+
+http://195.201.82.32:5001/play/a01i
+
+#EXTINF:-1 group-title="tata sky",Zee Kannada HD
+
+http://195.201.82.32:5001/play/a00q
+
+#EXTINF:-1 group-title="tata sky",Zee Keralam HD
+
+http://195.201.82.32:5001/play/a014
+
+#EXTINF:-1 group-title="tata sky",Zee Marathi HD
+
+http://195.201.82.32:5001/play/a00t
+
+#EXTINF:-1 group-title="tata sky",Zee Talkies HD
+
+http://195.201.82.32:5001/play/a00s
+
+#EXTINF:-1 group-title="tata sky",Zee Tamil HD
+
+http://195.201.82.32:5001/play/a01k
+
+#EXTINF:-1 group-title="tata sky",Zee Telugu HD
+
+http://195.201.82.32:5001/play/a01h
+
+#EXTINF:-1 group-title="tata sky",Zee Tv HD
+
+http://195.201.82.32:5001/play/a02d
+
+#EXTINF:-1 group-title="tata sky",Zee Zest HD
+
+http://195.201.82.32:5001/play/a02r#EXTINF:-1 group-title="Sony Liv",SONY SET HD
+https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1 group-title="Sony Liv",SONY SAB HD
+https://bit.ly/3fBsABhd
+#EXTINF:-1 group-title="Sony Liv",SONY PAL
+https://bit.ly/30a3wsONyPal
+#EXTINF:-1 group-title="Sony Liv",SONY MARATHI
+https://bit.ly/32JsoNYMaraTHi
+#EXTINF:-1 group-title="Sony Liv",SONY AATH
+https://bit.ly/2ORsONyaAaTh
+#EXTINF:-1 group-title="Sony Liv",SONY YAY HIN
+https://bit.ly/2WmsoNYYaY
+#EXTINF:-1 group-title="Sony Liv",SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1 group-title="Sony Liv",SONY MAX 2
+https://bit.ly/30dsoNYmaX2
+#EXTINF:-1 group-title="Sony Liv",SONY WAH
+https://bit.ly/3j7sOnywAh
+#EXTINF:-1 group-title="Sony Liv",SONY PIX HD
+https://bit.ly/32sOnypIXhd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 1
+https://bit.ly/2ZtEn1Sd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 2
+https://bit.ly/30teN2sd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 3
+https://bit.ly/2B9teN3sd
+#EXTINF:-1 group-title="Sony Liv",SONY SIX
+https://bit.ly/3j8sIx7sd
+#EXTINF:-1 group-title="Sony Liv",SONY SIX HD
+https://bit.ly/3h6sIXHd
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346489/ei/mePjYYIk1Li4ArXutaAB/ip/104.215.117.107/id/zcrUCvBD16k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN3jzYRA5r68qCqLNgO1dVDGvT1NXfqr3fgD-GckF2hcAiEA5vXFXexeRWAU5iJ4tXFmskXRph28CZI_cFJWFcy7MCs%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Kairali News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346489/ei/mePjYYnmG42MuAKdn5m4DQ/ip/104.215.117.107/id/5uMM5H1-hL0.13/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMUE0ZKRc_4XrBzj2N6k03u6symEyYkf-CjkegG0itTJAiEAh_V9OyrnqxTaki-rk-lsWaqjm_gO6XCMDfnXpCS5jtQ%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346489/ei/mePjYYfIM6iGlu8P5_O1yA8/ip/104.215.117.107/id/PNR06O9sSio.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIa75laGkQ2QG4A-ibsDJ7eZF6QQDDmMEdk67Qx7NHZ5AiEA_Jgh_O1h-0PGrcEYWzwhFZQru0vN71jWFHd09zzZ1P0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346490/ei/muPjYZugE4WGugKgj4mACQ/ip/104.215.117.107/id/YGEgelAiUf0.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPLCOJyTvHOCTzVzEVmVBUydKu49DxZ-0flI0NdmFFFyAiEAgzTCBnPdv7SdfRrXQ4DtQbBM7WJjcv4XKH5v7y9A4qA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346490/ei/muPjYeKwLYfaNtKGiOgN/ip/104.215.117.107/id/-eorLnT-Z30.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMswf-MBX6xTNB1K3LoNCneNjuFc16O-xa6D4DPo4y1tAiEAhviQimQXFoVX6Bvy1fsNtCm46uRkT7y2iwNp7xoKFIk%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" tvg-id="", Manorama News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346491/ei/m-PjYYf8CrvClu8P8ru5gA4/ip/104.215.117.107/id/JtLBF_Gjeiw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJWjpSFmT7-bxCXDxTRUbaS6uZnPe5usBqfKkAPS7ZZkAiBCQ--_v_jQpKk108Ur5Y0-HN6_rbmSKzN7yySg4sFLCQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346491/ei/m-PjYZ-2J4P6ugKXkp_QCQ/ip/104.215.117.107/id/THFcDh8qg8c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOYmBXeilGcZBqSkoh-e8aPKWL6pSJUdVACpScZoFfOkCIHGkTWpo3QgMTXgHgN9ixY09stmjdz44t3M3llYA2YYS/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mangalam_logo.png/200px-Mangalam_logo.png" tvg-id="", Mangalam TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346492/ei/nOPjYc2MBNn2igS4rre4Aw/ip/104.215.117.107/id/lvQOzBbmkEg.1/source/yt_live_broadcast/requiressl/yes/tx/24067854/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-b3gdI1XR5KzZ3xd4ynlPig/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJg3pd4GW6KyLNJ4Qj7SYnAZr9Co9fp5k0IF4fohgRGpAiEAwtOC_KkuXaPjIeHxX5-tLS5tsJwuj5RVkRbuQOl9aQs%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346492/ei/nOPjYfTbHIz7jQSHiY3gCg/ip/104.215.117.107/id/r44SqwmQ3Bo.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYbQVt62bjtXfbfdIejABTW5lwed8taF1V_XQQQbAbfkCIFGTbjQUXMh4w1JwMvhS9wExtVHcpc0ypu53mdjZx9ym/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346492/ei/nOPjYezhOPyfir4PjbyNgAM/ip/104.215.117.107/id/3hiTddyWcug.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYdrJZWVtu6UkfOzrBMBneX1yQRqc7OzLwj72H8m1nk0CIGYm23mi1YMT4CCrKor5S9pgT5PU4g0un_KZqeo3-zw-/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346493/ei/nePjYcDxE4XSlu8Pp5W4qAQ/ip/104.215.117.107/id/wc3Y6vI-poI.17/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAISRhxFpY3lvaLxirxeO8BlOtUFykwlgh58Ozg3grwwdAiABUCMafcxbl5zrxbTlfmaEgW5gd4FP4smXyF_hV3SipA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346493/ei/nePjYezYK43UigSNl6HQCw/ip/104.215.117.107/id/EZy0RAxG8OI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF_C6rlR81rfkAKpcrCXcbQQXrAOBt6I0yxvLEZZriVMCICb2QmhPH_09iEqTPktHv_4XJnqAIzrwHIryXwMcMoM9/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346494/ei/nuPjYci5CJaa2_gP1_aK8AU/ip/104.215.117.107/id/TnPx-965Igk.66/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPBfaQDoNaauzVsMed-2PxA3s87CitiZUEdkEwh1RXf8CIQCZvABrUy6GsQbH4PSkOMr8QOnqRD0yf8X70-DQWE7yOw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346495/ei/n-PjYd_SIozAuQL3w4boCg/ip/104.215.117.107/id/w_Ma8oQLmSM.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMxZNTcolRJUibLatwOcUtdHy9Ku1fuOGrjkMvgO-j1DAiEAnpey4A9xW33DBLGteL0LwWIxlFO23KyuELAh3R08Q70%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346496/ei/oOPjYb3yAYevlu8P6uORmAU/ip/104.215.117.107/id/RmmRlztXETI.1/source/yt_live_broadcast/requiressl/yes/tx/24129501/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJoenoeo3WSYwiA3oPj79tjWpJFjWz_QwvHwv6lopKbLAiA758-ZtLxZLDz-sESbHDJZvN1m37dGLFlM895Da-jQPQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346496/ei/oOPjYfmNGtS4uAK17rWgAQ/ip/104.215.117.107/id/d7Purq6_5T0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJxn54Rp3p92Af-fAEnANnqRhjw9K5BfWJYFCBGndDQ0AiEAtO2iDQx-ZSr5MdxQhQ3tBC-LQS5gT-7RJncu-sHsRWA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346496/ei/oOPjYcu0L56W2_gP84KamA4/ip/104.215.117.107/id/sDwW_OTEJeo.1/source/yt_live_broadcast/requiressl/yes/tx/24129502/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOcZbLbGrgQae2ib4rAUhKH8ey-VL_bkre-BlizrkgLQCIGbvnmP8U8Se5bHJkyML1D246nFILR4ENsji1XQFU8H0/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346497/ei/oePjYcGYFLyNir4P4puNmA8/ip/104.215.117.107/id/II_m28Bm-iM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfeu_1mO_eXpx_PwCl0I0y9DsE74GAjBHDWDZrPVAhdMCIQDAsRB6N9rICyd7qVJWH6OVKGBR8NQB2yAmNSRkxCMA6Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-id="", NTV Telugu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346497/ei/oePjYYL6NJGB_tcPm7aA2AI/ip/104.215.117.107/id/HUiHKse-YgM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPFe9G1lXSFoFPr5XPcxZsx8lh5DuQ8_ZNFzAZwlg9zOAiEA0SOwpnE2bLdaPHZ4_DaVeiw130HAYVTBRiApRwEHoTk%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451" tvg-id="", TV5 Telugu
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg/revision/latest?cb=20171213115114" tvg-id="", Sakshi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346500/ei/pOPjYcb6NbmP2_gPheWx6AM/ip/104.215.117.107/id/8McTsOqeueE.2/source/yt_live_broadcast/requiressl/yes/tx/24129503/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAILdlPEcH3Mt7NFVPylR9kv2edsO8HbfQWfwdCPRjXE6AiBGmGvq6FggqJK1TsK2vUlbQLtVb_bUXesVEQcpl9xkHg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/ABN_Andhra_Jyothi.jpeg/revision/latest?cb=20191226131028" tvg-id="", ABN Telugu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346501/ei/pePjYY3DFYeUlu8P2a6UwA8/ip/104.215.117.107/id/IKj_cj51_W0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIhod-cNv5MEWXakCrwp1OMYcb8Z4hNt5Trps3jeAoQUCIQCfcbCGitT3sfVH1lTOAYzVtqiSW93crcbTMFLaJVuk-w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png" tvg-id="", V6 News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-id="", T News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://d3anib4n105rak.cloudfront.net/wp-content/themes/veegam-news/images/logo1.png" tvg-id="", 10TV Telugu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346503/ei/p-PjYf3FLIWGugKgj4mACQ/ip/104.215.117.107/id/IHuHxUo4Yps.50/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPSJHecZ5fboGRjBVrtYdxNnGHZ6GbfCmHnfoMn4k-pQCIQC4WEqN4x8MK03bDyMqQPf932JSoV7kA1smULxYwaipQg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channel_Logo.png/220px-HMTV_Channel_Logo.png" tvg-id="", hmtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346504/ei/qOPjYdf1CIWsuQKnlKzQBA/ip/104.215.117.107/id/qIY8IeluF9g.2/source/yt_live_broadcast/requiressl/yes/tx/24027701/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVvNLA1R3PkW9uv8Ig4iJQU_UC1TuLfMq7s-zSDQTugACIDNGuicDoQFI92ipmZMB0aoIqTSMGcXJZQ1_8RuthLUt/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjsgaGsmsUgf_p4eaYu1GqAiHOE1WjTlcIy0ZTBDQ=s900-c-k-c0x00ffffff-no-rj" tvg-id="", iNews
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://mahaanews.com/wp-content/uploads/2018/12/logo-1.jpg" tvg-id="", Mahaa News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjCV79paU0oVv_CvDxfKo_eVEi8p6p2_mW3wewgCg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Raj News Telugu
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/CVR_News.jpeg/revision/latest?cb=20191227040840" tvg-id="", CVR News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346507/ei/q-PjYaeNDen-2_gPlcKx-Ac/ip/104.215.117.107/id/GM91zl1Dn4o.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMtPDOmJksbsWBjo0SQifEI0QfSHq6PPTOuhtClUW9l8CIHazIjdUmm2nHDawuEgvItT_wD4qxU25V31PRtJR79ae/file/index.m3u8
+
+#EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346507/ei/q-PjYbysLfqCir4P0YOD2Ak/ip/104.215.117.107/id/CFQGHy2tRsk.2/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJHCXFk1v2PC7-k755sfqkYYxzRz4wVduVxoHJnyYCh8AiEA_Gb5ormfV01j-Eq_vNuHvUozVWXYCHzXTvRtx7UkKDA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346508/ei/rOPjYfDcBsqMir4PnKeRkAc/ip/104.215.117.107/id/jdJoOhqCipA.210/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANy7gZTN-h8RTRK9BmL6UHdsDOnacypM0Ij8x5XqNSikAiAcPC-bceIDwHGsD2SQP3R_I-C57XXxdWbdjcMT_8hGWA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", NewsFirst Kannada
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346508/ei/rOPjYb3cKsiIir4PpuSI0A8/ip/104.215.117.107/id/G_gpihd3lcM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/4ocVC5o4DafxuA8iAmN3m6at6ldr/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMzoraSHNMfiCWXFjd70zNsgkmERqpNOUw6Ta61l6B12AiEA9Kn6uISM1KNBK0w-kLiyKcHxaIknNPwWcKLoLqBuXDI%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV9 Gujarati
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346509/ei/rePjYf_XBfuylu8Pgaa98A4/ip/104.215.117.107/id/Mvz3_9O4p4s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCqY28IWfnEbjBi-EryiIlQlS583FDbnE2GrEfN19bIACIQDu1AfUfxB-CxHTKNT90Rm3chdPEyIQLRUoFFV1rX18HQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ABP Asmita
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346509/ei/rePjYbS1JtuM2_gP54q0uAQ/ip/104.215.117.107/id/Ga4w81eYUhQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP3LltbAQJ8VVze2xapSID2z7WiNH9WqUflSdLsg4xlpAiBpy5MJjpRqRZou1wxGLuLPMWkz3hVMO1a43qFPjhNzCQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346510/ei/ruPjYcaqL92U2_gP5YO-iA4/ip/104.215.117.107/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMlEd0msTIFmcnshAfpb84uyjgy26E922bcHU0-GnrMgAiEA-VFFsLh586sWqkPDmCESlkzZE4HCuxBbwW5qHWwRTkY%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Exyu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" tvg-id="", Al Jazeera Balkans
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346511/ei/r-PjYceqFouMlu8PpKy5wA8/ip/104.215.117.107/id/ng1zLZnjQbI.2/source/yt_live_broadcast/requiressl/yes/tx/24129500/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWz3JVodPaIMICU-LF_xhguv0h7DNhgOtVQneVxDVCzACIEBLEoB3wJq0afO3rhZAK2tcYgEqTji3lfaSPJasSIvj/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346512/ei/sOPjYejYIY2x6QLE846oAw/ip/104.215.117.107/id/Wt923q19gSs.1/source/yt_live_broadcast/requiressl/yes/tx/24027700/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgC9sAQbF0zI3U3mZB3BamV7tcLFnJu0t0r3jMbLd7BA8CIHB2wyeZukVCJNgppMmkAnXb9L_FJkigTj4HGyrTyaT8/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346513/ei/sePjYZOuAsSW2_gPkNWDyAU/ip/104.215.117.107/id/0FG9NpDTVnw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIC-Jv5pD6YWQQd0dkK9N7Pq36np1agWbohedoaWX-zoCIBbXm27sUgeBkaPrGsWBvmWfp6HdfyB9mF6XDNnpRs7N/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Telugu Movies 2021
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346513/ei/sePjYaGuGeCkir4P4KWW0AE/ip/104.215.117.107/id/5UvC9XEAL9k.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL2AZy49ztj7A48NMjlFzVm8AN-51Tp7OiPbLYMWslg6AiBhbkugQP8sVJdBzZCLMNrnDUgKj67BNZSWndfXMDaFSQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", 10TV live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346513/ei/sePjYdmwL4PmjQTTl77AAQ/ip/104.215.117.107/id/IHuHxUo4Yps.50/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQuGs0SOtpg4AMDgg0hXO4KFk6vIHt_krOxS-ihiabfYCIQCCUuB9LAaW5ka3FUUSvRNXABFLl-7u1Z6jwKK59AZ3IA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", V6 News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", ABN Telugu Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346515/ei/s-PjYeyHM4i1tQeWl5CYDg/ip/104.215.117.107/id/IKj_cj51_W0.1/source/yt_live_broadcast/requiressl/yes/tx/24027694/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIWIa7NfMdi_AHu4oX_klBXERqlymNeuqOCj7i1ZP7UxAiBcCTBGLCej8rv48rpWpepFzEyALehOdEdCrBzgbtGFBg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Sakshi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346516/ei/tOPjYb-IEMWb2_gPzN6ZqA8/ip/104.215.117.107/id/8McTsOqeueE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOufmWPqa_9gRqNcRVSkjPm1HqXq5S0CiB3bMQP4dA0cCIH2e7GGTdVV2reYQdG9BxCUnsdRnWCfYt7fDzr_C82-w/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", hmtv Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346516/ei/tOPjYczKMtX0igShuYjwDQ/ip/104.215.117.107/id/qIY8IeluF9g.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZrtmXBB-S8Z9zhcZUy8-PeWZqRR5H4-QYugU4b_Mu3oCIDxnKyPpMDtK1OiZ4THpGcMXF6nDQKq-ZAugzIUbajHC/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Mahaa News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Prime9 News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Raj News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", CVR Health Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Top Tollywood hits (Aditya Music)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346520/ei/uOPjYYaBJ4ftigSEkCY/ip/104.215.117.107/id/W9NyVYHtrIU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL4Pi5oIDPBYSx_MY3fL8CbIzYaSk478-s75VkSGPE_AAiB69_va2vaPGrKnLIbK32v4bbY5dEbJaXIDwxaXWDgg1A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio One
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346521/ei/uePjYZapCKmY2_gP-4yokAU/ip/104.215.117.107/id/4BcPdYGwmIo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBLiUBTfvsdffzWJtgcg8WG5WNS1Vp2Lh4GHNFYYqM0ICIAhTT8MS-IopEUTzpsgS8N0MY6ngWZIn3PCn25RLeW8H/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio Yuva
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346521/ei/uePjYfnAIY3VigTtrIfIDw/ip/104.215.117.107/id/zV2ndzKjGT4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdmI7qwMoWzAoT3uUqpu97xg2UHGA286arxItxRsMxTsCIQC8FsBYA-BEzn5gMnlKahFxHHxLzW35zVUl3qzXqw62hg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Vanitha TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346524/ei/vOPjYe7dHdqlir4Px_-lQA/ip/104.215.117.107/id/d0dB3kSCMmM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIrYP-j2Z2_JwPGF8FNw1OZU8cMVtokqgyUUC2ahv5L0CIEl5rViJM9mekXNAIbg4EDoYT2F5awIOxqzz-lSLU0wj/file/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346524/ei/vOPjYd_RNcOUtQf8j4P4DQ/ip/104.215.117.107/id/qWf-FPFmVw0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIge6s0z9KPgrGw8gJgl-GcPKMDbjj_wyaypFknuauKrPcCIQDlrOTzXsq6_CFvc2bIjJ-vZUrJB0h11QeqU7LZtSOAtQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346525/ei/vePjYYrTEdCDugLqi5qwCw/ip/104.215.117.107/id/GPKXF3mzAlU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYlsFialZF4NVI1wHqEcWGVX9GMoBy8bCp78iFLVSZgcCICJcPB73JxCYmvC0nJCWH46yHMXxD8B9suOyTSFqhFae/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV 24x7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346525/ei/vePjYfvyLJ-D_tcPiICk6AE/ip/104.215.117.107/id/WB-y7_ymPJ4.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKPUfT9RtJPdbrs6b6qIQgPUe6Te3fmLpNydSZtyA8t0AiATy0WkVcDYI8guIubHjlkequ5GrLxdnt9X-ctLhAMTUw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV India
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346526/ei/vuPjYb_7DcKAir4P-N6CqAk/ip/104.215.117.107/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyyNYRNmqOjIA2j9ppw7oJWc/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANUr_Y2XBkTrqe23B9y1uoECcbixIhnS1SLVRjsndkdfAiEAw46JwXJcKjuGquJ3MEiNd2eUOI09hn7rQhx13r97Xz4%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", IndiaTV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Онлайн трансляция телеканала МУЗ-ТВ
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Kral TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346530/ei/wuPjYeaWNreW2_gP_MO3qA8/ip/104.215.117.107/id/88tf0H1ycDU.4/source/yt_live_broadcast/requiressl/yes/tx/24067856/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDq9zE_FK7JKNWAcZWOyd5wLyrAfcsivjGgBtG3bNkq8CIQDjH20ENxs4OHZXicOWPxI83CiLSg0OBhdWCEPqZaeVwg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Kral Pop TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346531/ei/w-PjYb6zE9rPlu8PlcGEmA0/ip/104.215.117.107/id/dEHMR7Qpthw.5/source/yt_live_broadcast/requiressl/yes/tx/24027702/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDXO1snujR5_sAtW5rEV8Dlae8JB7q_PMK1xC8fyVcuYCIQCrMESU9Wdkq4U0ONaIyi7DyaiFeuy4cVv_8rS24Us61A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", QT Relax Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 4K Nature 24/7- LoungeV Films
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346532/ei/xOPjYe-JHISYigS5hIWgDQ/ip/104.215.117.107/id/drhmo4XSVYA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRIBpI4BIXYTO7CzjXRChkdGXuIoCmqQz8ZrmqP9LgkUCIQDVAiCzITAl0751Lukc1iJKS0ewDYC-tln-GL2Qokg_SQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24 TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Greece" tvg-logo="" tvg-id="", MAD TV Greece
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", The World Live- earthTV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Habertürk TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346537/ei/yePjYZO4CdCXir4PrdySMA/ip/104.215.117.107/id/SqHIO2zhxbA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPM6MNvSEykS4_iL4epv2CbCMcUpC-h4utUissia-uSECIBulWoHsVaXSNMHQ7iahYSl4yuR1C5_Z7f9b66wZECFY/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png" tvg-id="", Alternative Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346537/ei/yePjYdLyKLma6QLqzaLACg/ip/104.215.117.107/id/5X18D-EbjUc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL1H0klKOtgRf-VQ-IQuGQt2WJDZTU32hrTxIqQdMbpYAiBWJKlL-PkszEzZJVN2zJzNd5BMnv9p_qtDKEqGIo1olQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346538/ei/yuPjYYiEAsmAugKBq7mwCQ/ip/104.215.117.107/id/qWf-FPFmVw0.2/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ4MEMmo3H02--RNKTyEpw7MhGZO-l3fF5LQPH5uIg0KAiAySswrS4_tthJ6zCN9C-vwZN5c2CoA0gdFesPztl9IYw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png" tvg-id="", Meditation Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://weloveradio.ch/wp-content/uploads/2019/05/radio_oldies_logo_640x640.png" tvg-id="", Oldies Mix
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.pinclipart.com/picdir/middle/98-986111_17-mar-logos-de-los-90s-clipart.png" tvg-id="", Radio 90s Mix
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://1.bp.blogspot.com/-tTku4g-q6iE/T7qzfDLuaXI/AAAAAAAAFsI/bxJickyvn6w/s1600/Radio+Rock+logo.png" tvg-id="", Rock Radio
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ...
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346546/ei/0uPjYYOPK9qlir4Px_-lQA/ip/104.215.117.107/id/YsBe9BFIjBs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIbOy4yvTqfXuDke-cIQbdEgSBg9MiYfelpFtszwJdEYCIEG5llvZbw34ngzRgVgig6aU9Ye6TjvRtCkjpQ9rsorI/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", XDeep Club-Ed Sheeran, Kygo, Dua Lipa, Avicii, Martin Garrix, The Chainsmokers...
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346548/ei/1OPjYcTHA6CD_tcP5sqdoAg/ip/104.215.117.107/id/9UMxZofMNbA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCgO_zqeJ-JBVrf7FyzQur4FmPsS9Hjc2LUHBPJINFIQCICvvMaSZCTZ6K425I8Q2GP38zL2kGFBa5z3JeJVo6h0c/file/index.m3u8
+
+#EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", ATV Canlı Yayını
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", Star TV - Canlı Yayın HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346554/ei/2uPjYeqrHbaY2_gP9ISpqAU/ip/104.215.117.107/id/_F3fvsRAFF0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJS2HMv-Dh6IarFEk7WTBQea5vODMgOQTBxuZvq0GIy8CIQCNIlGv9gTU-OHQWxa6NZ-bCgSaUFfjpoqd1WcujpM-Fg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", Show Türk Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346554/ei/2uPjYerSOOCkir4P4KWW0AE/ip/104.215.117.107/id/rtMDAEQgyl8.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMAZKNvrWjWuLEwwb32SG-S9iqTE12ErryHOSKfUnd34AiBfNOLv64XHOLwbifre9-LHY6auytOD0Ry5h2SWO1TZLQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", Fox tv
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PJ Masks
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346556/ei/3OPjYf2cGYbKuwKY1a_4Aw/ip/104.215.117.107/id/6E-BS0wpPQk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP7_jIyI7FJxdjd0L2ZORtIJiCHBfzyXimMFRbIVYO7XAiEA6UCwUlVArIdxtB8_DPI0htTDz2SBq1jWLbDVWB9T8ZM%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", My Little Pony
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346556/ei/3OPjYc3iM_LDlu8PnfO86A4/ip/104.215.117.107/id/6Vh5dg6eCnY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO8-8uKbk4ll5nAAnwKPrTiGnBEnpzoQXnI5FyXAInv9AiBZXnJowX-XXvw3g7tAEqs-EIpVTQFVoimOYucGoCQQPw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Cocomelon-Nursery Rhymes
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Ben and Holly's Little Kingdom
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Disney Junior- All of Minnie's Bow-Toons!
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment- Kapamilya Online Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346572/ei/7OPjYbjCLIOOir4PspeD2Aw/ip/104.215.117.107/id/_GModLlj5-c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAQT_dJWeiMhcw402r-DyajDSj5MdXe2USx2CYeTQJ4YCIHuID0U0lj-yipsRZi1upQGtnKqebwPuf0gAkohUAuK0/file/index.m3u8
+
+#EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbE1EchB3HTNxl2sAvcqAJVQQsKP0Q5O33ka5cVw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", CitizenTV Kenya
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346573/ei/7ePjYeeRDoWa2_gPxqSNiAY/ip/104.215.117.107/id/du-9KPglmCU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIgvSSOfXtykzBjUm0pjup1qFsR02hRyehddYTDiHbemAiAeGh8ZHN6Lyvwx-yT8Dao7ApyGG1RW_ny2ijZq8pQiZQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgGwEvJmbMQ8tdTPh3MMOn4TzBOorTAEAaSipHV8w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="", NTV Uganda UG
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346573/ei/7ePjYevpLMTKuwLLuZiYDQ/ip/104.215.117.107/id/2p9aUJnmXV4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIOZ5iK9-LzvL2-fpkBaGb69D8i4Q_OtJJH_Ppo3EFkAAiEAlwrOX9cIw9EJuZ1ahXlImvjD5lEai8nk20aRE9wUFQY%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_qnW-VSIBNXd1LJRD3Ud6bYSERVFJ4GBlO0U=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NTV Kenya Kenya
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346574/ei/7uPjYeGeC66Fir4PlKy9yAI/ip/104.215.117.107/id/Slq9bPgTOps.1/source/yt_live_broadcast/requiressl/yes/tx/24027693/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMLXxQ1NVzxD0ClkSmfIrVmPatkbuPe8g_wD-UPKYzJVAiEA-RPOLgH0S4HfLYWb5rot8gzRzLdGzW1f1nRZxaG_7AA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkcR_PzChnpoy_CFEHOhBJoWYzJPUOryL2McEGBSQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KTN News Kenya
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346574/ei/7uPjYevoKd2_lu8PmKyiuA4/ip/104.215.117.107/id/p324rtop04k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAISIpmZJeYn82BfzwzaMoZn3kX2eTarUYDpETsIL-DerAiEAgB_XNq7s4wqsd1m8g1tlqLgia7b8D1ACgRMin_AYRuQ%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR1vkUESExM9jHkADW6pCdw0LQWXULl6vLV-4OR=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Azam TV Tanzania
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346576/ei/8OPjYdfEC9mDir4P75m5sA8/ip/104.215.117.107/id/V9KZGs1MtP4.6/source/yt_live_broadcast/requiressl/yes/tx/24129501/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI5mAdApqTECJuw9MDSjDDDMJ-NkbmJyLYagfxJ8e2JuAiBiF5XJcLpl8Y38z_K235A7g_h854RCEsLEzbuV0y4U-g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346576/ei/8OPjYfGIJZHIuQKOzYKgDA/ip/104.215.117.107/id/-2jyswa95c0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgO8b3pfTGGqPZcujcCK6M0yMARM746RBiuz2MuH-mYRsCICT2UmepldDp9KEpOYnT4L9F8SpRLeXoHLznvJfoCPIQ/file/index.m3u8
+
+#EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346577/ei/8ePjYe3dDI3UigSNl6HQCw/ip/104.215.117.107/id/1lWHO4UcLJs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIeEcwxW6Gu_OxZoEhMMHZUBqGR4eYAROmqmupbAtddaAiEAmH6JaO2STg4fe2LP_0DN0_eeZf6p5ABTicH-DIw4FrA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346577/ei/8ePjYZmgJJKTuAKRiJbgCQ/ip/104.215.117.107/id/-upyPouRrB8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQMUWc-gpG7e3U_lp_tegMjyageeHqBorZ0w9cr2dAl4CIDZTr9WCJ5kD4oGeg-iqwVFRfJDuvkRZ7yteNqeetwVi/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Art of Melodic Techno & House Radio
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Anjunadeep Radio - Deep House, Chill, House, Progressive
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346578/ei/8uPjYe3IDqiR6QKgu4uYCQ/ip/104.215.117.107/id/D4MdHQOILdw.2/source/yt_live_broadcast/requiressl/yes/tx/24044260/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJoVpZDIGb68dJOVbNRSDYjh-nQC-gSwpQWP8V3IaMrcCIAZBu1x6_lS29aMsZA5GlzqE7pKOoT3VyBlSeTbKEmU1/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Anjunadeep Radio - Trance and Progressive
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346578/ei/8uPjYabCL4aWjATHuYTQDQ/ip/104.215.117.107/id/IvuwTft-0cM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXfOlb7Mx7kEALCkpH49Vlc5CP6ORZBBj6_IyTXAE9T8CIQCoUWIACF-BqFbTkYma26ZaKqkisDgWragFLjC-wfcVJQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Deep House Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346579/ei/8-PjYbyLEKiGlu8P5_O1yA8/ip/104.215.117.107/id/5qky3L2Q6G4.270/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMddaGp2yiAqyiiSwJBqxOHS18rXQl2gF-sI7gxi3v3LAiEA0UPuvi3FtLtJrxxHPqiBxjpOwaNOwGJJuPvX1au9E50%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Radio Pop Mix
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Eirewave Radio Pop Rock Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Uplifting Trance Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346580/ei/9OPjYaW2FfClir4PyMigYA/ip/104.215.117.107/id/WYetg3AuLE4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGUDyzy_0JaU4dMgToYGXvPsgk3jKzAa-Lmu5wDQi1fICIGOBKr9X-gjGeRgIFBIcEL3M5ukmnB-6oA3AtnuxAG02/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Euphoric & Uplifting Trance Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346580/ei/9OPjYfGAL5HhigSm45joBQ/ip/104.215.117.107/id/A5sUa0bNRj8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ3sPE6gxar9SEfuVyMKOSZ7vHZqdN_cOifwICcbEOO0AiEAgsnJbtmteeSE_g3QJliQY6yUV3WyXreaWYNiwmWznQU%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Vocal Trance Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346581/ei/9ePjYeD-Dc3EuwLb6a7oDA/ip/104.215.117.107/id/DPXQG8S9Xwc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJBjYWz6kvW69otsmcf4R9QktKLVdbIWKogCB27nYsTlAiBULMpDhpX8CjgjzAr67KaPC_DOY-O2eyf_Sffhj4Uu5w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Chill Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346581/ei/9ePjYYuHLJeriwSVhae4Cw/ip/104.215.117.107/id/21qNxnCS8WU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVcjrsJjG3J2-gNv5fpvVKRqmGAvzJfdoOglglSHybbECIQDeiWfA_oJMHBvUtzg1xUpLjiIqGtT3qFdxWmpX6K1G5w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Electro Remix 2021
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346582/ei/9uPjYeCTCMmAugKBq7mwCQ/ip/104.215.117.107/id/2P2AGaDbmXQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN4YOs5D0TeHp1B6R7C-DNL-k4_RXCtWnnnEThxpufz7AiAGhJdvYtwQihyp7VffJSHT8ZdQ7wfvb9vzzoAQLFJsCA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", City Gym - Alan Walker & Marshmello Mix 2021 - Electro Remix 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Tomorrowland 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346586/ei/-ePjYeSsOp2Dir4PkqylyAk/ip/104.215.117.107/id/36YnV9STBqc.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSYQJVG4CPeRWQhy0Lfh6yu10YfUtBCD1aSTDTFeozu4CICTSLJ5UNC3mffjTaPDlG4EKQwB9_F_hdI4B9evFKdP8/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Summer Music Deep - Best Relax House, Chillout, Study, Running, Happy Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Deep House Radio - Vocal Deep House, Slap House, Summer Chill House, Car Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Tropical House Radio - Best Relax House, Chillout, Study, Running, Happy Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", xDeep - Ibiza Summer Mix 2021 :strawberry: Best Of Tropical Deep House Music Chill Out Mix 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Haa Taa Deep - Avicii, Jonas Blue, Kygo Alok, Robin Schulz - Chillout Lounge
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Queen Club - SUMMER MIX 2021 ↠ DUBAI, HAWAII, THAILAND, MYKONOS, ISLANDS, :palm_tree: Feeling Me
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Café del Mar Chill House Radio (Deep House · Organic House · Nu Disco)
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346599/ei/B-TjYeS7I9Wa2_gPmP6x8AY/ip/104.215.117.107/id/FM6MKgVcfyo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIYatFVpHu3qFyhVuOVATfrM-dDGU1o52k2mRjhWbIfRAiEA208wRq5dVen8A1aW22oCpj76Ed66RQPNKhCWBHlVXc0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", A State Of Trance Radio @A State Of Trance
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346600/ei/COTjYc_WBYOF_tcPhdyL2AM/ip/104.215.117.107/id/5lMmnfVylEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_uOj14ikWB6FSVgqCmWmfJE/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKkjGWFYdkm8baJvY26JnTK9SRFuA7yr4Qu3G8aLKCxZAiAacttyfMsme9EeQuYPw0cLm0LZRci6EkHfHy16jrCtOA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", SunMusic - NEW PARTY MIX 2021 :boom:TOMORROWLAND 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", SunMusic - :boom:TOMORROWLAND 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Tomorrowland - One World Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346606/ei/DuTjYbeBDMO1ugKv86TQCw/ip/104.215.117.107/id/DY_rFed96mg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQKWpC7z9JNWJqYBOIdJ7oGSv17Nh43TChN088_cuHKsCIC31LAhFs9mwuwpYP0Qbwt4EpSAQ3Uebtvi6-hYLr7T_/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", N&T Party - HOT EDM Party Dance Club Remix 2021 ♫ Best Shuffle Dance Music Video ♫ New Shuffle Dance 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", N&T Party - Party Dance Club Remix 2021 ♫ Best Shuffle Dance Party Video Mix ♫ New EDM Dance Charts Songs
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346607/ei/D-TjYZLaDIWsuQKnlKzQBA/ip/104.215.117.107/id/QBjYQhhmzO8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIlYJYkdKJads334s7LZNuoVijv8PWaqjrys3sPRy4U7AiEAooWBWSsiNJ1LwyZrAtAgr3BjR0EdL9YAAhYz_Fd_M2o%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", ChillYourMind - Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", France24
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Webcams" tvg-logo="" tvg-id="", Wetter-Panorama – 24/7 LIVE Stream Webcams Österreich
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France24 (French)
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RT France
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346614/ei/FuTjYdnfFZr5igS6jJ3wCA/ip/104.215.117.107/id/SjV-bNomRkY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAISb8j6fCORGHDu9MZsAJO0gybj_JcfuQWYeDSop_jDgAiEAkUBchvsLN3d_aJacUDu904iPearQFwNS1bBUsXmpyg0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Franceinfo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346614/ei/FuTjYdPXMfOa2_gP9c-XoAU/ip/104.215.117.107/id/Z-Nwo-ypKtM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgH-dpJWdJ0IKE9U81AiAndlzxdkysWAnZVgsWw4J95ucCIBLOgO1qyBtZRbE072kEKsKCLEfW6Ft_G8YuoaO9Rh_F/file/index.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France Inter (video feed of the radio channel)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346615/ei/F-TjYZzvEuCgir4P3_S0sA4/ip/104.215.117.107/id/5JHIgJYE-78.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJR2Q9PPUQlylotvhYvlsEUCsdELlL7hgOFWfpARCOa1AiEA4dl-zGaJcFE8hGPFVjNVcLJJqwuAB7dBc_KkuuWIbDs%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Mother goose club
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Little Baby Bum Nursery Rhymes & Kids Songs
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News24
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Tez Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Zee Business
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", CNBC Awaaz
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Live Darshan - Shree Somnath Temple, First Jyotirlinga
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree KasthBhanjandev Hanumanji Mandir Salangpur
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Mahakaleshwar Mandir Live Stream
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Bhuj Mandir NarNarayan Dev Darshan
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346637/ei/LeTjYZ7xI8qMir4PnKeRkAc/ip/104.215.117.107/id/hwOBHfokS7Q.38/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0VSChYpJRXENbbH5cyMaX-W/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdKjIo6mDskrK_cqZqNgI4uVRASXPUJ-LQ8sxJEWLI-ICIC_sx4gBRQT-VL4LQgHBl3pYlGSYekhshtzpLtkY3wOZ/file/index.m3u8
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Dwarkadhish Temple Dwarka
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Live Darshan From Sri Naga Sai Mandir
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346639/ei/L-TjYduuBdOc6QKZ1LJg/ip/104.215.117.107/id/mI63qi6V_zc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALMvX6ouCShTPNxaYHBOJGobgLHmdcM3PWW0BjNoJUcoAiA_u6SP40ltQBDILTjETenRS2GxH_0bCId16FqMC1BJAA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", TV9 Bharatvarsh
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346639/ei/L-TjYe3wG8XLjATKmIKYAw/ip/104.215.117.107/id/Xg1-mF4BJEk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALffxaU__ICfgOL7xXQbx32vutjF3rwmt-SPgnyB8ItQAiAVxJwJicH3IGJv9GwC4ecuErUJAcihLMHdMlyjjzFIOA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Republic Bharat
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ABP NEWS
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Bharat Samachar
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png" tvg-id="", Geo News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/178/61/png-transparent-ary-news-pakistan-electronic-media-regulatory-authority-breaking-news-news-live-text-rectangle-logo-thumbnail.png" tvg-id="", ARY News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346650/ei/OuTjYc3pCYbbigT-56XACA/ip/104.215.117.107/id/uiJXIkM3MoQ.4/source/yt_live_broadcast/requiressl/yes/tx/24044259/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIPB8jt6lS6IyXuejCMxyrZWBCbicR4yUc6focn9iId9AiEAvibDtyKtUxTb3ZB1duuMc5B_atiatDOblytv_xvOroM%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540954.png" tvg-id="", SAMMA News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511541300.png" tvg-id="", Dawn News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540898.png" tvg-id="", 92 HD News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2018/05/_1/200x200/pic_1527785751.png" tvg-id="", HUM News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" tvg-id="", GNN News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2018/08/_1/200x200/pic_1533839822.png" tvg-id="", Public News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540857.png" tvg-id="", 24 News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dunya_News_Logo.svg/1200px-Dunya_News_Logo.svg.png" tvg-id="", Dunya News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" tvg-id="", BOL News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346656/ei/QOTjYYz1DueKir4Pu6iK-As/ip/104.215.117.107/id/2mCSYvcfhtc.1/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/4ocVC69FN0bgcH35yI0SWnQcdab1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPSAbi8T6fLrqmi8iGaQtLxfSPpw3DYstOjGB27da4AbAiA5Igf00EXm5icVFOuhne-Y6nqxvJsFNqGXfCoIzfFBNg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346656/ei/QOTjYc6SKeKMir4PtvqAsA8/ip/104.215.117.107/id/xL0ch83RAK8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3v5SRVOHnlMQeFlgut9k_sb/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaLscgf8G7LnX6-O5bhLnlcPEHI4W5GzXhPosjhDf2fACIQCRmGms_HstiF1BUVD9XruZAIKC0N3g4HcOTI1bMDCW1Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET Live News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan CTV News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan Formosa Live News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan EBC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346662/ei/RuTjYc3NHYSXigSQxrCAAw/ip/104.215.117.107/id/R2iMq5LKXco.2/source/yt_live_broadcast/requiressl/yes/tx/24129500/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgM2OU7owtKuG4EY5tPhOjWNa2lJqDM8tOAeFeLvQBFgQCIDoV-Zkat5-Au6QFyd_Zu6REglBSpfhHN4x7scfnHQv6/file/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan EBC Financial
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346663/ei/R-TjYYj8BMTKuwLLuZiYDQ/ip/104.215.117.107/id/ABn_ccXn_jc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgITBIJfaVLQ62MZJIJTzmjOiL2llkm-mSokX6NW6jz1oCICeOWj8u3hmVnW9OeTWZ6h7v_ugwhLOIxZY44g6NCPCW/file/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTITV Taiwan News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346663/ei/R-TjYdCXKO6q6QL23ZP4CQ/ip/104.215.117.107/id/lu_BJKxqGnk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJz6-4S0DNjJOpC7JhAuIJPfF64YiPg8FazUfRKxhGRJAiEApBbTwHFzxSlrDSSL4AmC5vlZ4SIve40aVM0m1X4K9Ds%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346664/ei/SOTjYYzxC8G_uALw8qK4Bw/ip/104.215.117.107/id/bOhuCHL51Fc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCAl6rty_E5oVqF1IaI0DmdFAby691PFiKIp9JxU510kCIGNwIjljgiIJpox59jh74anhdagUxaXzmMzwIrg9fxHx/file/index.m3u8
+
+#EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346664/ei/SOTjYfPqJt6xlu8P2Ze4kAM/ip/104.215.117.107/id/rutZ55N26Ho.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKCmD4YgpGVJweJYObvFpyVIxbTppPOUaaw0zDWoeJwyAiBc8SJZGJkNDLAo4T99_qYA67_6B-GrqrfPQ5wSZzMm2Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Bossa Nova Covers Popular Songs
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, "Tropical Birds" By Tim Janis
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Beautiful Relaxing Music Combined With Beautiful 4K Quality • Relax, Sleep, Meditation, Study, Yoga
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346666/ei/SuTjYdr2J8SW2_gPkNWDyAU/ip/104.215.117.107/id/HMnatoiMdjA.1/source/yt_live_broadcast/requiressl/yes/tx/24070731/txs/24070731%2C24070734/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTcDlazRZCTQUN0zRVVpNkWoZBcYNfqTyzbBOTldK840CIQDLsjqINLH0pX2y1rD9EtPaz_bk_9UIbSrZH6R8bCAH3A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 4K Video (Ultra HD) Unbelievable Beauty - Amazing Nature Scenery with Beautiful Relaxing Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346670/ei/TuTjYYO1MYv-jQTqnIiACw/ip/104.215.117.107/id/R7vrbiDi0Tc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAJr1RgEoXOiX9SiJdOz4nx5nQXmg9UWIsGH2QwKP88ICIQCYAnz_jAfVyKU37j8sELTRG7G6eABkhWqSh4-Owlnw3w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Lofi" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LOFI MUSIC LIVE 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346675/ei/U-TjYb-LJtfjigTVurbwDA/ip/104.215.117.107/id/5qap5aO4i9A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKY-_WOl2lb09OAEAyE1XMxIftjC5lA6VgIq6ENDIvaQAiEA7lrx7TXdUNysr081FZT1v9ohbfO2I75O5rrvj3DSi08%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346676/ei/VOTjYd3jBNeX2_gPqriMuAw/ip/104.215.117.107/id/xKDaDXRSzoM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgECTuhbRJ72IwMD2DsY37PWAjAd9119G0OOUbPI8qQlUCIQDk9ukXIlezR9T1AKRQrUnGVy5xb2aFn4nkxidWnpjOjw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346676/ei/VOTjYb_AHpbpNr3fuLAM/ip/104.215.117.107/id/MA8fd_oEBa4.1/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKOW7X5VJ8YKjXGDbbcFaAGPL8_pXzJQThgcHzL3ZtZ5AiEA4VI1mGnWV0N2EoZCtuoI7BskSRZDig_j4eVoxt4Gi78%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Webcam" tvg-logo="" tvg-id="", Elysium Resort & Spa Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346676/ei/VOTjYdnTOcT4ugKzmpGoCA/ip/104.215.117.107/id/V513W2TVk50.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVClOTEVeWL9Dln6VBmFEhZLXBSdrFCIoKFFujU6mrcYCIQCDE82qoJcP4gI18n-MDIEolhXwMa5U1mpVh7RkMu6zpg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Makkah Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", MUSICOLABORASI
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346677/ei/VeTjYZHKMI2MuAKdn5m4DQ/ip/104.215.117.107/id/_PHF0lCSpDE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANofc5KzRjce3WRHVfm2RMzWZwOz0I5IKowkRSXmAm0TAiB2hV3vdiQT5SYXMoSzmvJ9-RzFanfLURRn6a5jOLBhPw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346678/ei/VuTjYfuKCOWfjQS_uoLICA/ip/104.215.117.107/id/6xtEufNUwuY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYozMZSKFEvVzXHB5zGStI3RsEFOK5hDw9jmwZ0KIFsMCIQDMAfSmXYpbb75t5_WYz7fsEbchUrvoC4P3Z2wT206o0g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346678/ei/VuTjYYrCIcqMir4PnKeRkAc/ip/104.215.117.107/id/oRRLy76VVyA.8/source/yt_live_broadcast/requiressl/yes/tx/24070731/txs/24070731%2C24070734/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMS4UFDXxWd4IPnLnqyU6EbsYh1YxIYapvOV8j7DhwcdAiEAjEvD2_Ew5m_6xKSvT-0QN0iiZl4acwfxmTxV_8H7BZY%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346679/ei/VuTjYa3sPI_xjQS0oL_QCw/ip/104.215.117.107/id/RGF_Z-3WxGc.2/source/yt_live_broadcast/requiressl/yes/tx/24070731/txs/24070731%2C24070734/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMFCs1kFYYv8vBsutbWSLrEkY6Dai6apOsqBoZPHcVXiAiEA93hEIQTL70nrOocYD2oV87lwahDuYGVZCkaX9sIUiqg%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346679/ei/V-TjYcq4HLazlu8PreqO8AU/ip/104.215.117.107/id/Rs3GfkHRwXA.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPi_lCPcE4ualpPgl4cq47jjHvwhGqhP4XW9becov7DYCIQDlzfdelPI6xV688QqzzI8EdPZTe-bGik2YzcxuC1coCw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346680/ei/WOTjYeWLAs6wlu8Py7yJqAs/ip/104.215.117.107/id/J19rvQz0Oqg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQhkmm99xXU556sbD6f2BSClZ0kc4RISQkkNlYO5o0wECIQDczU8oIE2UIEEDU9FSdtwxuQoJjn0-Jpx7CAQP5S__hA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346682/ei/WuTjYfazIdCXir4PrdySMA/ip/104.215.117.107/id/1HUdHYnW-rM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCZC2FAV-glIxafVhU9lTl4U0WBCMdshgJBi1TFGOX7oCIQCoVs7DvsF2ACAbiurhb7Lzt39leYiMGgfB99S-9ObYfA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", News 18 Kannada
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346683/ei/W-TjYY2CBJO2uwKDxZLoAw/ip/104.215.117.107/id/2Mdjqa3dPD8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2dTo71qLWso-fFCwh6GpXL2/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHnUnqj4vMfmrASYISPvmvpi4QGZfYKAUXLJq__zLlKQCIQCq8G2zemrPY4GTESe4gGUx1P1R22EJkpFATo-L2m4PEQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Wion
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346683/ei/W-TjYaewI9eb2_gPnqWTyAM/ip/104.215.117.107/id/1gVvSfBxdEQ.42/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgP5sQwrOEcLyQp9w4Mp2fEAgjYXVrFIAxAqYRvvH5vY8CIE03hZQc0RL1BOXWE1pdw1qd53Q8V6eH_oMNqvuuXNzN/file/index.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="" tvg-id="", Molek FM live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346684/ei/XOTjYd-GC5bpNr3fuLAM/ip/104.215.117.107/id/It3415lOIUU.2/source/yt_live_broadcast/requiressl/yes/tx/24129502/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOURJOh9oOX7O0gyEdwoLWIfwQ20chpXr5v0OIAd7aAeAiATMQ_shEa3rSXTDbfRAifp0J3Tay-PVM9Wi9gDoqe2HA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346684/ei/XOTjYeCaJI_xjQS0oL_QCw/ip/104.215.117.107/id/GgPvrIdzFoM.1/source/yt_live_broadcast/requiressl/yes/tx/24129502/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJg5jOQFtJv4cNkUhSQ9K2SRwoC_QBXHNcnE_dsgtpLECIQCua3q_cmgAp-ArN-BLGtAA1gjjYyFY8NQJxTO8QZUB9g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642346685/ei/XOTjYZyqO8rmigTf25noCw/ip/104.215.117.107/id/V0I5eglJMRI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOJTyAOYowYwfhKCDgCEUnetz-DLdOiJwCimKdT3znIbAiBc_HguZwJ-CBJmsDMbUsJkTscMURSBRNQN-AJeE8tgcg%3D%3D/file/index.m3u8
 
 
 
