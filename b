@@ -323,7 +323,342 @@ https://delta12tatasky.akamaized.net/out/i/3569776.mpd
 #EXTINF:-1  tvg-id=619  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12285-ja1e8580-v3/imageContent-12285-ja1e8580-m3.png"   group-title=Lifestyle,   Naaptol
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+#EXTM3U    x-tvg-url="http://botallen.live/epg.xml.gz" 
 
+#EXTINF:-1  tvg-id=208  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png"   group-title=News,   NDTV 24x7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000219&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJiZTg1MjA1NS00YWY1LTRkMWYtYWQ2ZS02ZDk4NDNjMDA0MjIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTUzLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTUzLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTIxNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Os0i8QB3qTmo7QS_r_qOTSCIKVZlIe2UsJI-Cq1vcrQ
+https://delta13tatasky.akamaized.net/out/i/2284312.mpd
+
+#EXTINF:-1  tvg-id=90  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png"   group-title=News,   TIMES NOW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000095&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5MTc5Zjk3MS1kOGNiLTQ5YzEtOGI3Yi1mMzhmMjI1NDZiMWEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTUzLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTUzLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTUzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.ZVaHkYaGR-dh73j-USYUWW5RecN3l9SwsrAwhU4RC-E
+https://delta31tatasky.akamaized.net/out/i/4140.mpd
+
+#EXTINF:-1  tvg-id=1  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png"   group-title=News,   INDIA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000001&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5NDY0NzYzOC1lMDg4LTQwZDYtYmE0Zi0zMTQ3ZTE1ZjJkNzAiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTUzLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTUzLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTA5NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.RGYO5IjjvBMofdtO33rPMIYal9IiUzAFpKvG2E_G8Gc
+https://delta15tatasky.akamaized.net/out/i/1460881.mpd
+
+#EXTINF:-1  tvg-id=168  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png"   group-title=News,   CNBC-TV18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000186&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzODZlZmRlNC05Y2Q0LTRlNTgtYTBkZS1kNTgzMTA0OWRhNDYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTUzLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTUzLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTE5MywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.DgqbZqkf7glA2zbKD5zw98TeXxKgzvvQQNAwc3QLPSU
+https://delta15tatasky.akamaized.net/out/i/1927189.mpd
+
+#EXTINF:-1  tvg-id=88  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png"   group-title=News,   ET NOW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000089&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhMjBkZjE0YS05ODFjLTQxMzMtYjZhYi0yYTc5MTc4Mzg2M2IiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTUzLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTUzLCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.OHJ3RI9hG-Qpre5ksi3K8psSF2Fue4rUbVeYEWHxLB8
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/184.mpd
+
+#EXTINF:-1  tvg-id=131  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png"   group-title=News,   France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIwMzU4OTVhMS1kOTYxLTQxYWEtYjk0YS1jMjc0Y2M2MTU1MzAiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.3NCKDdmLmdG0XEBZgUwQmGmWR92W2xHgiFIBM9SDIKE
+https://delta12tatasky.akamaized.net/out/i/5870205.mpd
+
+#EXTINF:-1  tvg-id=65  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png"   group-title=Drama,   TV5 Monde Asie
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000063&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI4NDA0MTU4Yi02OWU2LTRhNTItYWJlMC0yYzRmYzY5N2FhYTQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.NWF-DQ8eV0jiex8qmOFr_6NErwM2v-TBDQUGHU0ewKc
+https://delta11tatasky.akamaized.net/out/i/2696453.mpd
+
+#EXTINF:-1  tvg-id=60  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png"   group-title=Knowledge,   DW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000057&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJiY2UzNTVhMy0yYjAwLTQwNDktOGQ3Zi1mZWFhNWVlYjU3YmMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQxNiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.hll1qpJ--Y4cxy4-t3Yk1TZxWcM6fBCl4w5l9xN36jE
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/4092328.mpd
+
+#EXTINF:-1  tvg-id=105  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-324-j5jl5hp4-v2/imageContent-324-j5jl5hp4-m2.png"   group-title=News,   Australia TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000102&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIwNWNiY2E0OS0wYTkwLTRhZTctYjRmMy04MjE0ZjE4MjI1OWIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDU1MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.M-bnSCCKsBx-evlH6cWYxThBDjxNz03o_q-SGcl0B6Y
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/4292421.mpd
+
+#EXTINF:-1  tvg-id=98  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png"   group-title=Knowledge,   Russia Today
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000098&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI4NzgxNDM2My05ZjQ4LTRlMDItYTJlOC0yYzdmYzkyNWM5NDkiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQxNiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.DUr2nhWVampoRH5He1eSxFvneeBkjWKYL0JtCsBMWw8
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240984.mpd
+
+#EXTINF:-1  tvg-id=791  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png"   group-title=Entertainment,   Fateh TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000878&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIxN2I1OTY1OC0wZTk1LTRkZWQtYWRlYy0xOGZkNzVjY2ZjMmMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.zgZ_JHDIF7extXdNPwl4xH_T_xm3csoi4PnJZBwJ0SU
+https://delta45tatasky.akamaized.net/out/i/353.mpd
+
+#EXTINF:-1  tvg-id=790  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v1/imageContent-48807-k4m7ud0o-m1.png"   group-title=Spiritual,   Ek Onkar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000879&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJjYzE5ZjVmYy1mOTU0LTQyZGItYTc0Mi02MjYxMTdmNmM4MGUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.w1LrzKxZbKYLDysrz-6ZA70Do8P2Qyq_aG7g3NjTmIQ
+https://delta45tatasky.akamaized.net/out/i/371.mpd
+
+#EXTINF:-1  tvg-id=806  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49636-k6lo3yfc-v1/imageContent-49636-k6lo3yfc-m1.png"   group-title=Entertainment,   Boogle Bollywood
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000895&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJiMjc1NzlmZS1jZTkyLTRhYzAtOTBlNS05ZjgxZjc2NTg3OTQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.khz-SweoVAEfxneWb1QPr_j1vg1qYonvCuUKEigMQ4c
+https://delta45tatasky.akamaized.net/out/i/263.mpd
+
+#EXTINF:-1  tvg-id=942  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65211-ktcka8r4-v2/imageContent-65211-ktcka8r4-m2.png"   group-title=Spiritual,   Powai Sarvajanin Durgotsav
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001093&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI0OTUwYWM3MS03ZTMwLTRmNzEtOGU3Yy1mYjM3MDliNTE3MTUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.ps92S09Qn1GUz4PrnmQ3NawsmqjowS9tFWO_I4tkRJk
+https://delta14tatasky.akamaized.net/out/i/5752721.mpd
+
+#EXTINF:-1  tvg-id=353  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png"   group-title=Spiritual,   DY 365
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000367&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI4ZGM5MThkNy0yN2Y1LTQyYjEtOWE3Ny00NzVhZDE4N2I1ZGMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDEzMCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.U7f-padXShBz9rxLkMhr25ps7Oxw4blxS3XTMuyDhDU
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2115400.mpd
+
+#EXTINF:-1  tvg-id=226  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-956-j5mipkxs-v1/imageContent-956-j5mipkxs-m1.png"   group-title=Entertainment,   NEWS LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000239&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI2MjA2ZGQ3Yi1lZGMwLTQ1MjMtOTNkYi02NmFlZTE4OWRkMjYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.OJ4O5A_ueNupnMRVyfM9WbzLFIBcN7BjaYDMOeiVHEQ
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145171.mpd
+
+#EXTINF:-1  tvg-id=221  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-879-j5mdmlqw-v1/imageContent-879-j5mdmlqw-m1.png"   group-title=News,   Protidin Time
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000234&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhNTdlMGY3Mi01ZjAyLTRmZTctODFiNi1mYTA4OWVjODEwNDYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.3wA6-4VWQBpKD1KALAEhEkcpXWyrVRuuBGMNQ8OGgps
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145168.mpd
+
+#EXTINF:-1  tvg-id=423  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png"   group-title=News,   Prag News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000447&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIwNGZkNWM4ZC04NDA4LTRlNTEtOGRkZi1iMTY5OWQ4MTcyYWMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.ltq8TJ7-4R-US4bk2KTt7aQUyPcxJzzeJKtZ_5FLRkY
+https://delta39tatasky.akamaized.net/out/i/2817627.mpd
+
+#EXTINF:-1  tvg-id=894  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61722-kmprxffs-v1/imageContent-61722-kmprxffs-m2.png"   group-title=News,   NKTV 24x7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001043&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzMWFjMjhiMS0xN2I5LTRmYmQtYmJkZS1jZjJlNDk5ODY5YzciLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Iq6xIJ76zdBprfCmL9sQJ0de5dY5CmrGD2y6RoIK_f0
+https://delta39tatasky.akamaized.net/out/i/4938758.mpd
+
+#EXTINF:-1  tvg-id=898  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62147-knict3og-v1/imageContent-62147-knict3og-m1.png"   group-title=News,   Hornbill TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001047&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJkZTU5MWQ2NC0xNzdhLTQwYzktYjQ3My1iNWU1NTQ4Y2ExZDIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.E_9DNpEuFlA13m8MQffOA89uFLNaaARAl03ogUmG1Ak
+https://delta44tatasky.akamaized.net/out/i/190490.mpd
+
+#EXTINF:-1  tvg-id=331  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png"   group-title=Spiritual,   DD North East
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000349&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI4ZDMyY2I4Yi03MzFjLTQxZWYtYjIzZC1iYWMzNWVhZWM2ODUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Yi37BakAyKjFLl3a68T4GC26cHKejEmlLYCWLqhRvXA
+https://delta15tatasky.akamaized.net/out/i/1454826.mpd
+
+#EXTINF:-1  tvg-id=325  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11345-j9jpidkw-v1/imageContent-11345-j9jpidkw-m1.png"   group-title=Knowledge,   DD Kashir
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000343&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzNmFjYTZkMy0xMDY3LTQ3YTUtOGNkZS02ZTU3YWZmZTFjY2QiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTI3NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.FfTEGNkVZTGbs1eL-MK8LNa2tRHF0rAGpn3u3ymlz-c
+https://delta15tatasky.akamaized.net/out/i/1454821.mpd
+
+#EXTINF:-1  tvg-id=101  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-333-j5jl5q6o-v1/imageContent-333-j5jl5q6o-m1.png"   group-title=Entertainment,   Rang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000105&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhYWQyMGM4YS1hMjY4LTRhMjEtOTIwYy0yZWZhMTRmY2IzYTgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.qysUfQjFg88eOb9Bn64f-zJIm07LtnFtB9w7G4x6u9U
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2727342.mpd
+
+#EXTINF:-1  tvg-id=368  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11485-j9jsysqw-v1/imageContent-11485-j9jsysqw-m1.png"   group-title=Drama,   Indradhanu
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000387&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIwY2M0N2ViMi04MGNlLTQyMjYtYWMyZS1iZmM5NGY0MDllOGQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.wVfeP5EA_c69Ns9lP-MBoW17RAmVHFNMWKdildiiqpU
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/3550131.mpd
+
+#EXTINF:-1  tvg-id=100  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png"   group-title=Action,   Zee Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000106&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmMGI0MmVjZS04MDgxLTQzZGEtYWMyYy05YTYxZTI0OGI5NjMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTI2NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.T6KYaYpbk-XNlw7IwmXGNQqtsF5vlhenpFDKaDHvuVs
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2122476.mpd
+
+#EXTINF:-1  tvg-id=259  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png"   group-title=News,   Zee News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000273&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI2MWMxZjhhZS0zMDVkLTRlOTMtOWIwMi01MDc2Mzg4OTk2MjkiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTEyNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.m5dNLf5hSp-4CrjjMZsFTLgXRsVl3TrHEVvFb_RZqJ4
+https://delta16tatasky.akamaized.net/out/i/2903703.mpd
+
+#EXTINF:-1  tvg-id=514  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png"   group-title=News,   Zee Hindustan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000547&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI2Y2ZlYWFmNC0yODhhLTRhNTgtYWY1Ny1hN2FhZGUzYjgxMzYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.uuI2lum-eU-19stS_RXl8YyHh-GWL6R7w5kJANv4xoA
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2973727.mpd
+
+#EXTINF:-1  tvg-id=255  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png"   group-title=News,   WION
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000269&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIyOWQ3ODE2OC01N2FmLTQyZmEtYjJjYS1iMTJkYzczZDFmN2UiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDU3NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Rr16-pY-CbiDjUqd724pUChMdmkLsMlAXp1usTmTkpk
+https://delta16tatasky.akamaized.net/out/i/3215617.mpd
+
+#EXTINF:-1  tvg-id=382  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11544-j9ju5kvc-v2/imageContent-11544-j9ju5kvc-m3.png"   group-title=Entertainment,   Zee Zest HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000403&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJjMmYwZjk3OC05MDU4LTQyNTItOTQ0Ni1mZDY2NzU5OWZhYmMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQxOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.6uwYKfgrsjpIAQtCeRchrkzt5tH6-bpCge7Fx9EXxKo
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_604/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=504  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11918-j9l5dbgg-v4/imageContent-11918-j9l5dbgg-m7.png"   group-title=Entertainment,   Zee Zest
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000529&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1NGY0ZDdjYi03MTc3LTQ0NzItYTI5OC01NTI1MWU4MTFmZjIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTExOSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.lKYu9_ErJThE6zGJbUvFqqE79NJlNMwJnK1xs6EyiK8
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_830/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=518  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11984-j9lup2rc-v2/imageContent-11984-j9lup2rc-m3.png"   group-title=News,   Zee Salaam
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000549&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5YjQ2YmMzZC1jN2ZmLTQxNjYtYjUyNC1hMTQ1ODdhYmQxZTAiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU0LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM0NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.uowZupSok1d1jOb82Z8PNqdYpL9YtFJs2qLRiNthvCI
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=44  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png"   group-title=News,   Seithigal TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000042&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJkNjc3Mjk0Yi0wZTkxLTQzMmEtYmExMi1lZTQ4MzJhZGQwYTYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDQzMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.yd6IVYlSzdtYGxhod4u2QsVF8p7tXc09dufpv0LJa-k
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=282  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11230-j9icx1i0-v1/imageContent-11230-j9icx1i0-m1.png"   group-title=Spiritual,   Angel TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhMjNiM2Q1MC05N2YzLTQ2OTgtOGRmYS0wNWM5NzU3OWMzNDIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ._0EGjo_E0ji_dRcikXlFselrC0cSgFw6IZFyTrT53_I
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=694  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png"   group-title=Comedy,   Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000737&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJlMWJhYjBlYy1mZjE3LTQ2MjYtYmQ5ZC1jYTFjN2E3MTM3N2IiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTIxMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.02NHezZBwazDHxoUlIZUPA4JqmTLnHJx99EWKiuZRHc
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=684  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png"   group-title=Comedy,   Zee Keralam
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000727&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI3Yjk4MjQzYS02ZjQ5LTQ4ZmYtYjA4Ny02ODU2YmM1NTUxNTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQyOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.h6KMhonK9IIywXGmgKHTPQaNN5vBgW6c7ca6H8IPJtk
+https://delta35tatasky.akamaized.net/out/i/2643036.mpd
+
+#EXTINF:-1  tvg-id=553  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png"   group-title=Lifestyle,   We TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000582&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIyODM3MDg0Yi05Mzg4LTRhMzQtYWUxMy03Y2QzYzFkNjQyNWUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.wg-ndQza4PXsTdZfQpQk-35nWKkYvMjIIxxB6SDaVbo
+https://delta43tatasky.akamaized.net/out/i/18131.mpd
+
+#EXTINF:-1  tvg-id=436  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png"   group-title=Lifestyle,   Safari TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000459&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5MTA1YWMzYi0yNWY3LTRkYTAtYTcxNS01ZWY2YjQ1NzhiY2EiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDM2MywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.HEEsrA70AYnWw3XwB60Ps96lMeJucxI7yUcZHkTeE84
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2734019.mpd
+
+#EXTINF:-1  tvg-id=211  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png"   group-title=News,   Kairali News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000226&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJkZDBhN2VjMC00MGNkLTRkYjQtYjM0Mi1mODgyZjY3ZWQ3MTciLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.8ZwkYehDeTV6h_QO4QB6yV35tVjYD4LKlpXKY_wPGHs
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/47.mpd
+
+#EXTINF:-1  tvg-id=394  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png"   group-title=News,   Mathrubhumi News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000414&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5YTUzYjE2YS0xMzZlLTRlOTMtOTM3Ni1hNzYwOTk3ODViMTIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.okm0o_HXyZ4ZtK3hb41KIwIaE-zsf7YRlGu34JSNtcI
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/4752209.mpd
+
+#EXTINF:-1  tvg-id=270  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11179-j9i3nhs8-v2/imageContent-11179-j9i3nhs8-m3.png"   group-title=News,   Janam TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000284&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1MGU1MTNkYy00ZDQ5LTQ1MzQtYWYxMi1kZmVlYTQxYTVjNWEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDQzNiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.D1_DIEnU9DMIdbk-_NIb3qFXutVWsOp8HzOf82kDxH4
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=378  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11524-j9jtu07c-v2/imageContent-11524-j9jtu07c-m2.png"   group-title=Entertainment,   Kaumudy TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000398&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmYzIzNjQ3NS0wYzQ1LTQ0N2YtYmM4OC01YmM0MzIxZjdkMjQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTI0NywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.bv5I9h9iSIWU5QMDMQ0bER5WKJ_ymWP83Mm7IAAjuEE
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=428  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11694-j9kjc0tc-v1/imageContent-11694-j9kjc0tc-m1.png"   group-title=News,   Raj News Malayalam
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000454&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzYTNhMzU3Yy00NGYxLTQ2ODgtYTM4MC1iYmYwYjE3ZWU0Y2IiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.NLF54Ga5MVMlpyqfqadl1oOEiVgntwXELoNoxJO2Okk
+https://delta16tatasky.akamaized.net/out/i/2914715.mpd
+
+#EXTINF:-1  tvg-id=541  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png"   group-title=Music,   Raj Musix Malayalam
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000452&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmZWExMzVhMy1iNWFlLTQ4N2ItODZhNy0zMDZjYTRmZGM3YjgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDY2MCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.6cK79HqeQfkzHSZbgVD73LitY6HYRrJu-y3n_0shpWg
+https://delta33tatasky.akamaized.net/out/i/2496615.mpd
+
+#EXTINF:-1  tvg-id=377  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png"   group-title=Music,   Kappa TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000397&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI5ODYzYWVlYy1iMWFhLTQ2ODUtOTk1My1kODJkMDk1MDhiYzkiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.v7vZ_QZhXeU6_Fo5qAhuXUnU_eLvGIi8MHQ9jY4LBdk
+https://delta32tatasky.akamaized.net/out/i/1727668.mpd
+
+#EXTINF:-1  tvg-id=269  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11176-j9i3lv54-v2/imageContent-11176-j9i3lv54-m2.png"   group-title=Spiritual,   Goodness
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000282&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhZWQ0NjE3Ni1jMzUxLTQzNmUtOGYyNi1lMTc3MmRiZGE0YTgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.k6PIMtAIZXHkd7om1oEWhhAEz60pz_vHUuyjBo8PK1Y
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=457  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11772-j9kwsqns-v1/imageContent-11772-j9kwsqns-m1.png"   group-title=Spiritual,   Shalom TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000480&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIxOGQ4NmEyNC1mOWEwLTRkZmYtOTM3My03NWMwZjI3ZTg2YTgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Wms_MlEth2oQogO9G76PYSeVVMi2IP-_yKsakditNwU
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2227018.mpd
+
+#EXTINF:-1  tvg-id=39  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png"   group-title=Entertainment,   9X Jalwa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000034&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1N2M4OGFlNS04YjNlLTRhMzctYjUwYy01NmE3ZmJmMWUyOGMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTI0NywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.8MfEWvewXVOD-RssdQLkBaIL0ujzbsYCbtgL8ivClBw
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/5061322.mpd
+
+#EXTINF:-1  tvg-id=74  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-225-j5fxgwfk-v1/imageContent-225-j5fxgwfk-m1.png"   group-title=Music,   9X Jhakaas
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000070&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1OGRlMDA0Ny1jMmNmLTRjZGUtOWIxYS02MjVjYjYxMTQ5MTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.6RHqJm_rqFfybRFNJLGBnGHJ5RPYCOuzm7q2T_GYgcQ
+https://delta13tatasky.akamaized.net/out/i/2284240.mpd
+
+#EXTINF:-1  tvg-id=824  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png"   group-title=News,   Power TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000934&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1ZWM0NzM5NC04NjY2LTRmZjYtYjgwOC1mOGY1NWY3OGM4ZjMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMiwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.1UxBe5yOkzxtxUyAZqQmy3Aoo2XRTiEkizYiDp3YnDA
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=62  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-180-j5fsqxls-v1/imageContent-180-j5fsqxls-m1.png"   group-title=Music,   9X Tashan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000055&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIyM2NkN2U3NC0yMWEzLTQ2ZWEtOWE1NS1lZWFjMzZlZmUwNTIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.IAQ7AXMLGHI9zDSzrbWNvmhDg6BRxJJXimuFJn6CuQI
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2455039.mpd
+
+#EXTINF:-1  tvg-id=888  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60986-klq1vs5s-v2/imageContent-60986-klq1vs5s-m5.png"   group-title=Spiritual,   Ishara
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI1ZWM1YzQ5NC01ZjM1LTQ5ZGYtYjE2My1hNmMyN2U0NGUwYzkiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTg3NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.9Rk7U_2U8_LVGuhsUF1ZHTwNxeVPyZSQmUYnBsGXkA4
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=905  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png"   group-title=Kids,   ETV Bal Bharat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001053&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI0MDA1YmRhMC1hZTUyLTRmMWQtYTEwMC05MzkyNTE1OTdjMTkiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTI3NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.bG2vI0eam4BlnohYZZl4aoiizsbpO7DgNi6d93GLKbY
+https://delta44tatasky.akamaized.net/out/i/190502.mpd
+
+#EXTINF:-1  tvg-id=864  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57767-khdq7qlk-v2/imageContent-57767-khdq7qlk-m2.png"   group-title=Knowledge,   Tata Sky Curiosity Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001006&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmMGFiMzdkNy1jNjM5LTRkZGItYjI1My0yODE1ZDk2ZjYyMTciLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.bLaXHXjh7FjSIcL1Xzk_nYeveLyxkZm7e_BZ17gVuE0
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/3431292.mpd
+
+#EXTINF:-1  tvg-id=814  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png"   group-title=Music,   Zee Biskope
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000909&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI2NDU2MDQ3ZC0yY2Y3LTQ0ZWYtYTAwZC03ZTk4MzJmMWNkNmEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTg3NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.PGZDnNEBPDhgD8XwsgKLN-xJZJM71LLbxVRj3wIycI0
+https://delta11tatasky.akamaized.net/out/i/2852946.mpd
+
+#EXTINF:-1  tvg-id=830  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55553-kdzetu0o-v3/imageContent-55553-kdzetu0o-m8.png"   group-title=Spiritual,   Filamchi Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000957&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJkN2UzZThlNi03ZjI5LTQ5OTMtYjU0Ny0xMGM5Zjg1ZTgyZTUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTg3NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.vC7-xwacZKQnWsF_V5Jbh16kpvX7GD8qquC4KjNQ0cc
+https://delta38tatasky.akamaized.net/out/i/2948826.mpd
+
+#EXTINF:-1  tvg-id=861  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57511-kgg03elk-v2/imageContent-57511-kgg03elk-m3.png"   group-title=Spiritual,   Zee Vajwa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001000&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIyNWE3NzAwOC00OTRkLTQ2NDctYjg0Zi0yMzFmMjdlMjk0ZDYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM5NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.feL9yIlCpG0I8XOO2HlhVY9Jv8q1LnV4vE4CHZn-YzE
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1139/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=796  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png"   group-title=Music,   Zee Punjabi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000883&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJhNThhOTBhOC03YmRiLTQxOWEtODZkOC03ODNjYTY1OTczMzgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.0vhszqpeNCOG8UZGSZ0IlSWrpMV51SRVl4GP5VfboU8
+https://delta15tatasky.akamaized.net/out/i/2554667.mpd
+
+#EXTINF:-1  tvg-id=871  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58487-kixjuhmg-v1/imageContent-58487-kixjuhmg-m1.png"   group-title=Spiritual,   Tehzeeb TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001014&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJiMzRiYmM0NS0wNmEzLTRhOTAtODU0MS1iZDhmMDBkZDNiODQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.l94wYD6CkKq5QOj9F3Ub05z9v_6i_hdmmutZP3_GvEw
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1146/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=448  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11733-j9kw4100-v4/imageContent-11733-j9kw4100-m4.png"   group-title=Entertainment,   News7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000467&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJmZWNmNzQ4NS02MGRiLTQwNTYtYjAzOS0yZDhhZmQ3YjIwZTciLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU1LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU1LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.JzyuArUkVg8LxbieAgO6z__LIfoRQM0JbF1riWGqaTE
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=922  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63498-kqq89g5k-v2/imageContent-63498-kqq89g5k-m3.png"   group-title=Music,   PTC Music
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001073&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIxNDA2ZmIwNi04YWY2LTQ3MzAtOGYxYS01MzgxNGExNDY2NzgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU2LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU2LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTg4NCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.i_HlpWmk5H1QE6SfmVWpd-G2aYzO9LgkQdyP0JNOkpg
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd
+
+#EXTINF:-1  tvg-id=193  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png"   group-title=Entertainment,   Chardikla Time TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000205&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJlYWNhNWNlNi0zOTYzLTQyNTEtYWUwYi1lYWQzNTAyMzEzZWQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU2LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU2LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM4MywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.sqReg-k_ibFjVoCzxQa0Js7V36Jje2_kMEp-Vi3sRrs
+https://delta9tatasky.akamaized.net/out/i/2100220.mpd
+
+#EXTINF:-1  tvg-id=897  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62144-knict1d4-v1/imageContent-62144-knict1d4-m1.png"   group-title=Spiritual,   Enterr10 Rangeela
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001046&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiJkOGNlMDkxNy1iMDNhLTRhNTgtODVhMy00NDBlMGE4YTBkYzUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU2LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU2LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.1ad68qNdT3-2LKC3Gl6plN6m07vwIcqWgcaCL9GOUk0
+https://delta44tatasky.akamaized.net/out/i/190499.mpd
+
+#EXTINF:-1  tvg-id=22  tvg-logo=""   group-title=,   
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000023&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiI0ZDZlOGVlYi0wZDU1LTQ2MmYtYTFhZi04MjAxNTBhZmVmMTIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU2LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU2LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAyMywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.0TEeVq2183B7U9beo_vDH9C8I4GeHnfjGPDAoLieYjg
+https://delta31tatasky.akamaized.net/out/i/57073.mpd
+
+#EXTINF:-1  tvg-id=191  tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png"   group-title=Entertainment,   DD National
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000206&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzMDQ0ZGE1Zi0wMmI5LTQxMjItYWJkYy1mZGExMjRiNzAyMmMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQxMjk2NTU2LCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjQxMjEwMTU2LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTAzOCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.yOTY3YphFyehfZ5AZBd0MSm4xbijZmy48SXb7kqrRMk
+https://delta12tatasky.akamaized.net/out/i/3569776.mpd
+
+#EXTINF:-1  tvg-id=619  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12285-ja1e8580-v3/imageContent-12285-ja1e8580-m3.png"   group-title=Lifestyle,   Naaptol
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgu
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgu
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
