@@ -1215,3 +1215,509 @@ https://delta32tatasky.akamaized.net/out/i/1739529.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001089&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjgyOTM3NzQ1IiwiaXNlIjp0cnVlLCJqdGkiOiJlYzMyZmI0NC03ZjdmLTRlZmItOTY0YS02ZDkxYWQwYzQxN2YiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ0MTU4OTM3LCJuYW1lIjoiTWFkaGF2YW4gUGlsbGFpIiwiaWF0IjoxNjQ0MDcyNTM3LCJlbnQiOlt7ImJpZCI6MTAwMDAwMDAwMSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Bcp4IhMS6xck9Zr0KOB-jLIeI7y97uVWeqaWdyf8EaI
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
+https://mayank5.herokuapp.com/?c=zeecinemahd
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Mayank-Z5 Movie te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
+https://mayank5.herokuapp.com/?c=zeecinemalu
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png",&Pictures HD
+https://mayank5.herokuapp.com/?c=tvpictureshd
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Mayank-Z5 Movie mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png",Zee Talkies HD
+https://mayank5.herokuapp.com/?c=zeetalkies
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
+https://mayank5.herokuapp.com/?c=zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
+https://mayank5.herokuapp.com/?c=zeeclassic
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
+https://mayank5.herokuapp.com/?c=zeecinema
+#EXTINF:-1 tvg-id="0-9-pictures" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
+https://mayank5.herokuapp.com/?c=pictures
+#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+https://mayank5.herokuapp.com/?c=zeeaction
+#EXTINF:-1 tvg-id="0-9-privéhd" group-title="Mayank-Z5 Movie en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
+https://mayank5.herokuapp.com/?c=privéhd
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Mayank-Z5 Movie en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png",&flix HD
+https://mayank5.herokuapp.com/?c=channel_2105335046
+#EXTINF:-1 tvg-id="0-9-176" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
+https://mayank5.herokuapp.com/?c=176
+#EXTINF:-1 tvg-id="0-9-209" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo_358457080.png",&xplorHD
+https://mayank5.herokuapp.com/?c=209
+#EXTINF:-1 tvg-id="0-9-216" group-title="Mayank-Z5 Movie hr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_web/1170x658withlogo_20909261.png",Zee Biskope
+https://mayank5.herokuapp.com/?c=216
+#EXTINF:-1 tvg-id="0-9-224" group-title="Mayank-Z5 Movie ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png",Zee Thirai
+https://mayank5.herokuapp.com/?c=224
+#EXTINF:-1 tvg-id="0-9-394" group-title="Mayank-Z5 Movie mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_web/1170x658717187404.png",Zee Chitramandir
+https://mayank5.herokuapp.com/?c=394
+#EXTINF:-1 tvg-id="0-9-259" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/1170x658withlogo_382506495.png",TV9 Kannada
+https://mayank5.herokuapp.com/?c=259
+#EXTINF:-1 tvg-id="0-9-201" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658_503553443.png",Suvarna News
+https://mayank5.herokuapp.com/?c=201
+#EXTINF:-1 tvg-id="0-9-indiatoday" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatoday117068cdd35c1f2245f4ac08b7861011f5c5.png",India Today
+https://mayank5.herokuapp.com/?c=indiatoday
+#EXTINF:-1 tvg-id="0-9-258" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
+https://mayank5.herokuapp.com/?c=258
+#EXTINF:-1 tvg-id="0-9-zeenews" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeenews/channel_web/zeenews117067d69647227c42c799c106b95e75863b.png",Zee News
+https://mayank5.herokuapp.com/?c=zeenews
+#EXTINF:-1 tvg-id="0-9-channel_1422341819" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1422341819/channel_web/rtv11706704bf3a67124226957ff6c042a1cac3.png",Republic TV
+https://mayank5.herokuapp.com/?c=channel_1422341819
+#EXTINF:-1 tvg-id="0-9-wion" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wion117072b948c43ee4429da75fb2754e57dea1.png",WION
+https://mayank5.herokuapp.com/?c=wion
+#EXTINF:-1 tvg-id="0-9-257" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656.png",TV9 Marathi
+https://mayank5.herokuapp.com/?c=257
+#EXTINF:-1 tvg-id="0-9-203" group-title="Mayank-Z5 News ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-203/channel_web/1170x658withlog_1911071689.png",Polimer News
+https://mayank5.herokuapp.com/?c=203
+#EXTINF:-1 tvg-id="0-9-306" group-title="Mayank-Z5 News ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/1170x658withlog_1787137922.png",Vendhar TV
+https://mayank5.herokuapp.com/?c=306
+#EXTINF:-1 tvg-id="0-9-222" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-222/channel_web/1170x658withlogo_273514222.png",TV5 News
+https://mayank5.herokuapp.com/?c=222
+#EXTINF:-1 tvg-id="0-9-270" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399.png",Saam TV
+https://mayank5.herokuapp.com/?c=270
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/1170x658withlog_1111951312.png",Zee Punjab Haryana Himachal Pradesh
+https://mayank5.herokuapp.com/?c=zeepunjabharyanahima
+#EXTINF:-1 tvg-id="0-9-162" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-162/channel_web/rbharat1170b53c8b2d8aa8433bb3241a03d73320f8.png",Republic Bharat
+https://mayank5.herokuapp.com/?c=162
+#EXTINF:-1 tvg-id="0-9-aajtak" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_web/aajtak1170d58dada7cd7d49beb33cf3b6fe07c19d.png",Aaj Tak
+https://mayank5.herokuapp.com/?c=aajtak
+#EXTINF:-1 tvg-id="0-9-282" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-282/channel_web/indiatv11700e1f122838044fcb8772b2a43b655b6b.png",India TV
+https://mayank5.herokuapp.com/?c=282
+#EXTINF:-1 tvg-id="0-9-251" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-251/channel_web/tv9bharatvarsh117026292d6aba054bf79a6df9bb58faac64.png",TV9 Bharatvarsh
+https://mayank5.herokuapp.com/?c=251
+#EXTINF:-1 tvg-id="0-9-170" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/newsnation117075a8d0c62a5e4179b3e74725dfb0ea94.png",News Nation
+https://mayank5.herokuapp.com/?c=170
+#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebusiness/channel_web/zeebusiness1170bdf4358f037248ab8ca4921d5027751a.png",Zee Business
+https://mayank5.herokuapp.com/?c=zeebusiness
+#EXTINF:-1 tvg-id="0-9-206" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/e24newslogo1170df2a109f270348169e905ac0c4f09e70.png",News24
+https://mayank5.herokuapp.com/?c=206
+#EXTINF:-1 tvg-id="0-9-260" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/1170x658withlog_1673213675.png",TV9 Gujarati
+https://mayank5.herokuapp.com/?c=260
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/1170x658withlog_1335796285.png",Zee 24 Kalak
+https://mayank5.herokuapp.com/?c=zee24kalak
+#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24taas/channel_web/zee24taas11706b837cd38a8f47239f5662d3b65773a8.png",Zee 24 Taas
+https://mayank5.herokuapp.com/?c=zee24taas
+#EXTINF:-1 tvg-id="0-9-255" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-255/channel_web/gnt117056e68f21cd674630b6487d561a45c4c5.png",Good News Today
+https://mayank5.herokuapp.com/?c=255
+#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeehindustan/channel_web/zeehindustan1170b72d976bed824d51b90afa25e47e06bf.png",Zee Hindustan
+https://mayank5.herokuapp.com/?c=zeehindustan
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/channel_web/zeebiharjharkhand117066bbcb82e7984318b78491ad848b6515.png",Zee Bihar Jharkhand
+https://mayank5.herokuapp.com/?c=zeebiharjharkhand
+#EXTINF:-1 tvg-id="0-9-171" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396.png",News State Uttar Pradesh Uttrakhand
+https://mayank5.herokuapp.com/?c=171
+#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Mayank-Z5 News bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/zee24ghanta144006057109b4094870a564bb8291205b45.png",24 Ghanta
+https://mayank5.herokuapp.com/?c=24ghantatv
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="Mayank-Z5 News or" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/1170x658withlog_1893514287.png",Zee Odisha
+https://mayank5.herokuapp.com/?c=zeekalinganews
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeerajasthannews/channel_web/1170x658withlog1709739390.png",Zee Rajasthan News
+https://mayank5.herokuapp.com/?c=zeerajasthannews
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/channel_web/1170x658withlogo_823530713.png",Zee Madhya Pradesh Chhattisgarh
+https://mayank5.herokuapp.com/?c=zeemadhyapradeshchat
+#EXTINF:-1 tvg-id="0-9-chardiklatimetvtimet" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/1170x658withlog_1413076946.png",Chardikla Time TV
+https://mayank5.herokuapp.com/?c=chardiklatimetvtimet
+#EXTINF:-1 tvg-id="0-9-ddnews" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddnews/channel_web/1170x658withlogo_72275493.png",DD News
+https://mayank5.herokuapp.com/?c=ddnews
+#EXTINF:-1 tvg-id="0-9-ddindia" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddindia/channel_web/ddindia1170ae75e0a939e941e6ada075a7420c4524.png",DD India
+https://mayank5.herokuapp.com/?c=ddindia
+#EXTINF:-1 tvg-id="0-9-ddkisan" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddkisan/channel_web/1170x658withlogo_579794123.png",DD Kisan
+https://mayank5.herokuapp.com/?c=ddkisan
+#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeesalaam/channel_web/1170x658withlog_1866029228.png",Zee Salaam
+https://mayank5.herokuapp.com/?c=zeesalaam
+#EXTINF:-1 tvg-id="0-9-ddyadagiri" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddyadagiri/channel_web/1170x658withlogo_671555942.png",DD Yadagiri
+https://mayank5.herokuapp.com/?c=ddyadagiri
+#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_265145625/channel_web/zeeupuk1170a954f4baf4b74e42808140f08e16b5a3.png",Zee News Uttar Pradesh Uttrakhand
+https://mayank5.herokuapp.com/?c=channel_265145625
+#EXTINF:-1 tvg-id="0-9-172" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382.png",News State Madhya Pradesh Chhattisgarh
+https://mayank5.herokuapp.com/?c=172
+#EXTINF:-1 tvg-id="0-9-200" group-title="Mayank-Z5 News ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-200/channel_web/pgsureshkumarne_1752938193.png",Asianet News
+https://mayank5.herokuapp.com/?c=200
+#EXTINF:-1 tvg-id="0-9-227" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/1170x658_1957432816.png",TV5 Kannada
+https://mayank5.herokuapp.com/?c=227
+#EXTINF:-1 tvg-id="0-9-272" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-272/channel_web/indianews1170d2ca4d94bc1b452f917352338962e8b8.png",India News
+https://mayank5.herokuapp.com/?c=272
+#EXTINF:-1 tvg-id="0-9-273" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/newsx11708c0a9068c9f94a20a0ebefbe95a42f98.png",News X
+https://mayank5.herokuapp.com/?c=273
+#EXTINF:-1 tvg-id="0-9-274" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/1170x658withlogo212610744.png",India News Punjabi Himachal
+https://mayank5.herokuapp.com/?c=274
+#EXTINF:-1 tvg-id="0-9-275" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-275/channel_web/1170x658withlog_1850271375.png",India News UP
+https://mayank5.herokuapp.com/?c=275
+#EXTINF:-1 tvg-id="0-9-276" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-276/channel_web/1170x658withlogo_324814827.png",India News Rajasthan
+https://mayank5.herokuapp.com/?c=276
+#EXTINF:-1 tvg-id="0-9-277" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-277/channel_web/1170x658withlog_1336270103.png",India News MP
+https://mayank5.herokuapp.com/?c=277
+#EXTINF:-1 tvg-id="0-9-278" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-278/channel_web/1170x658withlog_1582071351.png",India News Haryana
+https://mayank5.herokuapp.com/?c=278
+#EXTINF:-1 tvg-id="0-9-279" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-279/channel_web/1170x658withlogo_1805050.png",India News Gujarat
+https://mayank5.herokuapp.com/?c=279
+#EXTINF:-1 tvg-id="0-9-280" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-280/channel_web/1170x658withlog_1639808461.png",NE News
+https://mayank5.herokuapp.com/?c=280
+#EXTINF:-1 tvg-id="0-9-305" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093.png",Living India
+https://mayank5.herokuapp.com/?c=305
+#EXTINF:-1 tvg-id="0-9-310" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-310/channel_web/1170x658withlog_1667539974.png",Prag News
+https://mayank5.herokuapp.com/?c=310
+#EXTINF:-1 tvg-id="0-9-313" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-313/channel_web/1170x658withlogo_142056468.png",Sadhna Plus News
+https://mayank5.herokuapp.com/?c=313
+#EXTINF:-1 tvg-id="0-9-314" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-314/channel_web/1170x658withlogo_171386133.png",VIP News
+https://mayank5.herokuapp.com/?c=314
+#EXTINF:-1 tvg-id="0-9-317" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-317/channel_web/1170x658withlog_1346638136.png",TIME8
+https://mayank5.herokuapp.com/?c=317
+#EXTINF:-1 tvg-id="0-9-319" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-319/channel_web/1170x658withlog_2140696542.png",Sadhna News MP/CG
+https://mayank5.herokuapp.com/?c=319
+#EXTINF:-1 tvg-id="0-9-354" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-354/channel_web/1170x658withlog_1425324314.png",Bharat Samachar
+https://mayank5.herokuapp.com/?c=354
+#EXTINF:-1 tvg-id="0-9-355" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414.png",ABN Andhra Jyothy
+https://mayank5.herokuapp.com/?c=355
+#EXTINF:-1 tvg-id="0-9-356" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-356/channel_web/1170x658withlog_1495734600.png",News First
+https://mayank5.herokuapp.com/?c=356
+#EXTINF:-1 tvg-id="0-9-371" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/1170x658withlogo_203787503.png",10TV
+https://mayank5.herokuapp.com/?c=371
+#EXTINF:-1 tvg-id="0-9-377" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-377/channel_web/1170x658withlog_1939892250.png",BTV
+https://mayank5.herokuapp.com/?c=377
+#EXTINF:-1 tvg-id="0-9-378" group-title="Mayank-Z5 News bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-378/channel_web/1170x658withlog_1900210183.png",TV9 Bangla
+https://mayank5.herokuapp.com/?c=378
+#EXTINF:-1 tvg-id="0-9-383" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-383/channel_web/1170x658_1535320119.png",Sudarshan TV
+https://mayank5.herokuapp.com/?c=383
+#EXTINF:-1 tvg-id="0-9-384" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/1170x658_1283511414.png",Dainik Savera
+https://mayank5.herokuapp.com/?c=384
+#EXTINF:-1 tvg-id="0-9-385" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-385/channel_web/1170x658_1634325786.png",C News Bharat
+https://mayank5.herokuapp.com/?c=385
+#EXTINF:-1 tvg-id="0-9-386" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-386/channel_web/1170x658_1866825600.png",TV 100
+https://mayank5.herokuapp.com/?c=386
+#EXTINF:-1 tvg-id="0-9-387" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-387/channel_web/1170x658_1072460698.png",AB Star News
+https://mayank5.herokuapp.com/?c=387
+#EXTINF:-1 tvg-id="0-9-388" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/1170x658_290485787.png",Sanjhi Soch
+https://mayank5.herokuapp.com/?c=388
+#EXTINF:-1 tvg-id="0-9-389" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/euronews117070476f8dd3d5433c8b4246c6edf5c1c1.png",Euro News
+https://mayank5.herokuapp.com/?c=389
+#EXTINF:-1 tvg-id="0-9-390" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-390/channel_web/africanews11700c3b45e62ec84be48b77cd207df81479.png",Africa News
+https://mayank5.herokuapp.com/?c=390
+#EXTINF:-1 tvg-id="0-9-398" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-398/channel_web/abpnews1170090c9867faf143d7b78f6b5d49a566ba.png",ABP News
+https://mayank5.herokuapp.com/?c=398
+#EXTINF:-1 tvg-id="0-9-399" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-399/channel_web/1170x658_1777650730.png",ABP Ganga
+https://mayank5.herokuapp.com/?c=399
+#EXTINF:-1 tvg-id="0-9-400" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-400/channel_web/1170x658_111747038.png",ABP Majha
+https://mayank5.herokuapp.com/?c=400
+#EXTINF:-1 tvg-id="0-9-402" group-title="Mayank-Z5 News bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-402/channel_web/1170x658_916167039.png",ABP Ananda
+https://mayank5.herokuapp.com/?c=402
+#EXTINF:-1 tvg-id="0-9-403" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-403/channel_web/1170x658_395672680.png",ABP Asmita
+https://mayank5.herokuapp.com/?c=403
+#EXTINF:-1 tvg-id="0-9-404" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-404/channel_web/1170x658_1764620565.png",ABP Sanjha
+https://mayank5.herokuapp.com/?c=404
+#EXTINF:-1 tvg-id="0-9-407" group-title="Mayank-Z5 News as" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-407/channel_web/1170x658_671581899.png",News Time Assam
+https://mayank5.herokuapp.com/?c=407
+#EXTINF:-1 tvg-id="0-9-408" group-title="Mayank-Z5 News as" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-408/channel_web/1170x658_527636606.png",ND24
+https://mayank5.herokuapp.com/?c=408
+#EXTINF:-1 tvg-id="0-9-410" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-410/channel_web/1170x658_739766421.png",CVR News Telugu
+https://mayank5.herokuapp.com/?c=410
+#EXTINF:-1 tvg-id="0-9-411" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-411/channel_web/cvrenglish1170c341c1cb689247d9880a8968e024edd2.png",CVR English
+https://mayank5.herokuapp.com/?c=411
+#EXTINF:-1 tvg-id="0-9-413" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-413/channel_web/1170x658_92722619.png",Pratidin Time
+https://mayank5.herokuapp.com/?c=413
+#EXTINF:-1 tvg-id="0-9-417" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-417/channel_web/1170x658_560606826.png",News1 India
+https://mayank5.herokuapp.com/?c=417
+#EXTINF:-1 tvg-id="0-9-418" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-418/channel_web/1170x658_1377677687.png",V6
+https://mayank5.herokuapp.com/?c=418
+#EXTINF:-1 tvg-id="0-9-423" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-423/channel_web/1170x658_1426309917.png",Newsmax
+https://mayank5.herokuapp.com/?c=423
+#EXTINF:-1 tvg-id="0-9-424" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-424/channel_web/1170x658_439820624.png",Ticker News
+https://mayank5.herokuapp.com/?c=424
+#EXTINF:-1 tvg-id="0-9-425" group-title="Mayank-Z5 News ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-425/channel_web/1170x658_220005254.png",Media One
+https://mayank5.herokuapp.com/?c=425
+#EXTINF:-1 tvg-id="0-9-430" group-title="Mayank-Z5 News ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-430/channel_web/sarath_1170.png",Kairali News
+https://mayank5.herokuapp.com/?c=430
+#EXTINF:-1 tvg-id="0-9-431" group-title="Mayank-Z5 News bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-431/channel_web/rbangla_1170.png",Republic Bangla
+https://mayank5.herokuapp.com/?c=431
+#EXTINF:-1 tvg-id="0-9-9z583386" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583386/channel_web/timesnownavbharat117041f74f15592743eab48d343f0227d655.png",Times Now Navbharat
+https://mayank5.herokuapp.com/?c=9z583386
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_web/1170x658withlog_2022520414.png",Big Magic
+https://mayank5.herokuapp.com/?c=bigmagic_1786965389
+#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog_1554775145.png",Zee TV HD
+https://mayank5.herokuapp.com/?c=zeetvhd
+#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
+https://mayank5.herokuapp.com/?c=tvhd_0
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149.png",Zee Marathi HD
+https://mayank5.herokuapp.com/?c=zeemarathi
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131.png",Zee Yuva
+https://mayank5.herokuapp.com/?c=zeeyuva
+#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Mayank-Z5 Entertainment en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png",Zee Café HD
+https://mayank5.herokuapp.com/?c=zeecafehd
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Mayank-Z5 Entertainment hr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_web/1170x658_1735687172.png",Zee Ganga
+https://mayank5.herokuapp.com/?c=bigganga
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
+https://mayank5.herokuapp.com/?c=zeetamil
+#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Mayank-Z5 Entertainment te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
+https://mayank5.herokuapp.com/?c=zeetelugu
+#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658_611455469.png",Zee Kannada HD
+https://mayank5.herokuapp.com/?c=zeekannada
+#EXTINF:-1 tvg-id="0-9-129" group-title="Mayank-Z5 Entertainment ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785.png",Zee Keralam HD
+https://mayank5.herokuapp.com/?c=129
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Mayank-Z5 Entertainment bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121.png",Zee Bangla HD
+https://mayank5.herokuapp.com/?c=zeebangla
+#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
+https://mayank5.herokuapp.com/?c=zeeanmol
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Mayank-Z5 Entertainment bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598.png",Zee Bangla Cinema
+https://mayank5.herokuapp.com/?c=zeebanglacinema
+#EXTINF:-1 tvg-id="0-9-215" group-title="Mayank-Z5 Entertainment pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog_1031170304.png",Zee Punjabi
+https://mayank5.herokuapp.com/?c=215
+#EXTINF:-1 tvg-id="0-9-ddodia" group-title="Mayank-Z5 Entertainment or" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736.png",DD Odia
+https://mayank5.herokuapp.com/?c=ddodia
+#EXTINF:-1 tvg-id="0-9-165" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png",Boogle Bollywood
+https://mayank5.herokuapp.com/?c=165
+#EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="Mayank-Z5 Entertainment pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog1071598760.png",Alpha ETC Punjabi
+https://mayank5.herokuapp.com/?c=channel_2132977507
+#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png",Zee TV
+https://mayank5.herokuapp.com/?c=zeetv
+#EXTINF:-1 tvg-id="0-9-makkaltv" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187.png",Makkal TV
+https://mayank5.herokuapp.com/?c=makkaltv
+#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077.png",DD Podhigai
+https://mayank5.herokuapp.com/?c=ddpodhigai
+#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="Mayank-Z5 Entertainment ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155.png",DD Malayalam
+https://mayank5.herokuapp.com/?c=ddmalayalam
+#EXTINF:-1 tvg-id="0-9-ddbangla" group-title="Mayank-Z5 Entertainment bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbangla/channel_web/1170x658withlog_1242891543.png",DD Bangla
+https://mayank5.herokuapp.com/?c=ddbangla
+#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298.png",DD Chandana
+https://mayank5.herokuapp.com/?c=ddchandana
+#EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="Mayank-Z5 Entertainment or" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-sarthaktv/channel_web/1170x658withlog1150431941.png",Zee Sarthak
+https://mayank5.herokuapp.com/?c=sarthaktv
+#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog_1078376781.png",DD Sahyadri
+https://mayank5.herokuapp.com/?c=ddsahyadri
+#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="Mayank-Z5 Entertainment gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484.png",DD Girnar
+https://mayank5.herokuapp.com/?c=ddgirnar
+#EXTINF:-1 tvg-id="0-9-ddurdu" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddurdu/channel_web/1170x658withlog_1440959247.png",DD Urdu
+https://mayank5.herokuapp.com/?c=ddurdu
+#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddrajasthanjaipur/channel_web/1170x658withlog_1491909175.png",DD Rajasthan
+https://mayank5.herokuapp.com/?c=ddrajasthanjaipur
+#EXTINF:-1 tvg-id="0-9-ddbharati" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbharati/channel_web/1170x658withlog_1749264623.png",DD Bharati
+https://mayank5.herokuapp.com/?c=ddbharati
+#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmadhyapradesh/channel_web/1170x658withlog_1218231157.png",DD Madhya Pradesh
+https://mayank5.herokuapp.com/?c=ddmadhyapradesh
+#EXTINF:-1 tvg-id="0-9-ddbihar" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_web/1170x658withlog_1865440648.png",DD Bihar
+https://mayank5.herokuapp.com/?c=ddbihar
+#EXTINF:-1 tvg-id="0-9-dduttarpradesh" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-dduttarpradesh/channel_web/1170x658withlog_1445486903.png",DD Uttar Pradesh
+https://mayank5.herokuapp.com/?c=dduttarpradesh
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Mayank-Z5 Entertainment pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800.png",DD Punjabi
+https://mayank5.herokuapp.com/?c=ddpunjabi
+#EXTINF:-1 tvg-id="0-9-241" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342.png",Zee Picchar
+https://mayank5.herokuapp.com/?c=241
+#EXTINF:-1 tvg-id="0-9-250" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-250/channel_web/1170x658withlogo_436360213.png",DD National HD
+https://mayank5.herokuapp.com/?c=250
+#EXTINF:-1 tvg-id="0-9-322" group-title="Mayank-Z5 Entertainment as" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-322/channel_web/1170x658withlog_1602476580.png",Rengoni
+https://mayank5.herokuapp.com/?c=322
+#EXTINF:-1 tvg-id="0-9-434" group-title="Mayank-Z5 Entertainment en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-434/channel_web/1170x658zee5ki682000421.png",Live Test Global
+https://mayank5.herokuapp.com/?c=434
+#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Mayank-Z5 News bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/1170x658withlogo_644392845.png",24 Ghanta
+https://mayank5.herokuapp.com/?c=24ghantatv
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Mayank-Z5 Entertainment bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121.png",Zee Bangla HD
+https://mayank5.herokuapp.com/?c=zeebangla
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Mayank-Z5 Entertainment bn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598.png",Zee Bangla Cinema
+https://mayank5.herokuapp.com/?c=zeebanglacinema
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1144658965/channel_web/1170x658withlog_1152304152.png",Sanskar TV
+https://mayank5.herokuapp.com/?c=channel_1144658965
+#EXTINF:-1 tvg-id="0-9-327" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-327/channel_web/1170x658withlog_2031259137.png",Shubh TV
+https://mayank5.herokuapp.com/?c=327
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1565694979/channel_web/1170x658withlogo_66703857.png",Satsang TV
+https://mayank5.herokuapp.com/?c=channel_1565694979
+#EXTINF:-1 tvg-id="0-9-divyatv" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-divyatv/channel_web/1170x658withlog_2128007300.png",Divya TV
+https://mayank5.herokuapp.com/?c=divyatv
+#EXTINF:-1 tvg-id="0-9-166" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-166/channel_web/1170x658withlogo_450865576.png",Krishna Vani
+https://mayank5.herokuapp.com/?c=166
+#EXTINF:-1 tvg-id="0-9-183" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-183/channel_web/1170x658withlog_1124442022.png",Hare Krsna
+https://mayank5.herokuapp.com/?c=183
+#EXTINF:-1 tvg-id="0-9-284" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-284/channel_web/1170x658withlogo_844800250.png",Sadhna TV
+https://mayank5.herokuapp.com/?c=284
+#EXTINF:-1 tvg-id="0-9-285" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-285/channel_web/1170x658withlog_1126976137.png",Ishwar  TV
+https://mayank5.herokuapp.com/?c=285
+#EXTINF:-1 tvg-id="0-9-316" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-316/channel_web/1170x658withlog_1836335736.png",Awakening
+https://mayank5.herokuapp.com/?c=316
+#EXTINF:-1 tvg-id="0-9-345" group-title="Mayank-Z5 Devotional pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-345/channel_web/1170x658withlogo_361016754.png",Ek Onkar
+https://mayank5.herokuapp.com/?c=345
+#EXTINF:-1 tvg-id="0-9-412" group-title="Mayank-Z5 Devotional hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-412/channel_web/1170x658_1626283630.png",Devam
+https://mayank5.herokuapp.com/?c=412
+#EXTINF:-1 tvg-id="0-9-433" group-title="Mayank-Z5 Drama ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-433/channel_web/tamil1170x658list4c7c6f75527743cd929bed695fb6c96e.png",ZCL 2022 Tamil
+https://mayank5.herokuapp.com/?c=433
+#EXTINF:-1 tvg-id="0-9-wion" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wionpalkisharmaupadhyay.png",WION
+https://mayank5.herokuapp.com/?c=wion
+#EXTINF:-1 tvg-id="0-9-273" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/1170x658withlog_2139188797.png",News X
+https://mayank5.herokuapp.com/?c=273
+#EXTINF:-1 tvg-id="0-9-389" group-title="Mayank-Z5 News en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/1170x658_1189289223.png",Euro News
+https://mayank5.herokuapp.com/?c=389
+#EXTINF:-1 tvg-id="0-9-170" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
+https://mayank5.herokuapp.com/?c=170
+#EXTINF:-1 tvg-id="0-9-171" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396.png",News State Uttar Pradesh Uttrakhand
+https://mayank5.herokuapp.com/?c=171
+#EXTINF:-1 tvg-id="0-9-172" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382.png",News State Madhya Pradesh Chhattisgarh
+https://mayank5.herokuapp.com/?c=172
+#EXTINF:-1 tvg-id="0-9-260" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/1170x658withlog_1673213675.png",TV9 Gujarati
+https://mayank5.herokuapp.com/?c=260
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Mayank-Z5 News gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/1170x658withlog_1335796285.png",Zee 24 Kalak
+https://mayank5.herokuapp.com/?c=zee24kalak
+#EXTINF:-1 tvg-id="0-9-163" group-title="Mayank-Z5 Devotional gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389.png",Shiksha TV
+https://mayank5.herokuapp.com/?c=163
+#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="Mayank-Z5 Entertainment gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484.png",DD Girnar
+https://mayank5.herokuapp.com/?c=ddgirnar
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
+https://mayank5.herokuapp.com/?c=zeecinemahd
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
+https://mayank5.herokuapp.com/?c=tvpictureshd
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
+https://mayank5.herokuapp.com/?c=zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
+https://mayank5.herokuapp.com/?c=zeeclassic
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
+https://mayank5.herokuapp.com/?c=zeecinema
+#EXTINF:-1 tvg-id="0-9-pictures" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
+https://mayank5.herokuapp.com/?c=pictures
+#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Mayank-Z5 Movie hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+https://mayank5.herokuapp.com/?c=zeeaction
+#EXTINF:-1 tvg-id="0-9-176" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
+https://mayank5.herokuapp.com/?c=176
+#EXTINF:-1 tvg-id="0-9-170" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
+https://mayank5.herokuapp.com/?c=170
+#EXTINF:-1 tvg-id="0-9-171" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396.png",News State Uttar Pradesh Uttrakhand
+https://mayank5.herokuapp.com/?c=171
+#EXTINF:-1 tvg-id="0-9-172" group-title="Mayank-Z5 News hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382.png",News State Madhya Pradesh Chhattisgarh
+https://mayank5.herokuapp.com/?c=172
+#EXTINF:-1 tvg-id="0-9-163" group-title="Mayank-Z5 Devotional gu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389.png",Shiksha TV
+https://mayank5.herokuapp.com/?c=163
+#EXTINF:-1 tvg-id="0-9-259" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/1170x658withlogo_382506495.png",TV9 Kannada
+https://mayank5.herokuapp.com/?c=259
+#EXTINF:-1 tvg-id="0-9-201" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658withlog_1629853975.png",Suvarna News
+https://mayank5.herokuapp.com/?c=201
+#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658_611455469.png",Zee Kannada HD
+https://mayank5.herokuapp.com/?c=zeekannada
+#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298.png",DD Chandana
+https://mayank5.herokuapp.com/?c=ddchandana
+#EXTINF:-1 tvg-id="0-9-227" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/1170x658_1957432816.png",TV5 Kannada
+https://mayank5.herokuapp.com/?c=227
+#EXTINF:-1 tvg-id="0-9-241" group-title="Mayank-Z5 Entertainment kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342.png",Zee Picchar
+https://mayank5.herokuapp.com/?c=241
+#EXTINF:-1 tvg-id="0-9-356" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-356/channel_web/1170x658withlog_1495734600.png",News First
+https://mayank5.herokuapp.com/?c=356
+#EXTINF:-1 tvg-id="0-9-377" group-title="Mayank-Z5 News kn" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-377/channel_web/1170x658withlog_1939892250.png",BTV
+https://mayank5.herokuapp.com/?c=377
+#EXTINF:-1 tvg-id="0-9-207" group-title="Mayank-Z5 Lifestyle hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24_list.png",E24
+https://mayank5.herokuapp.com/?c=207
+#EXTINF:-1 tvg-id="0-9-348" group-title="Mayank-Z5 Lifestyle en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog_2096037619.png",Zee Zest HD
+https://mayank5.herokuapp.com/?c=348
+#EXTINF:-1 tvg-id="0-9-271" group-title="Mayank-Z5 Lifestyle mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572.png",Sugran TV
+https://mayank5.herokuapp.com/?c=271
+#EXTINF:-1 tvg-id="0-9-392" group-title="Mayank-Z5 Lifestyle en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-392/channel_web/1170x658_11759167.png",Fashion TV Mumbai
+https://mayank5.herokuapp.com/?c=392
+#EXTINF:-1 tvg-id="0-9-393" group-title="Mayank-Z5 Lifestyle en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-393/channel_web/1170x658_1715566364.png",Fashion TV Paris
+https://mayank5.herokuapp.com/?c=393
+#EXTINF:-1 tvg-id="0-9-129" group-title="Mayank-Z5 Entertainment ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785.png",Zee Keralam HD
+https://mayank5.herokuapp.com/?c=129
+#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="Mayank-Z5 Entertainment ml" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155.png",DD Malayalam
+https://mayank5.herokuapp.com/?c=ddmalayalam
+#EXTINF:-1 tvg-id="0-9-257" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656.png",TV9 Marathi
+https://mayank5.herokuapp.com/?c=257
+#EXTINF:-1 tvg-id="0-9-270" group-title="Mayank-Z5 News mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399.png",Saam TV
+https://mayank5.herokuapp.com/?c=270
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149.png",Zee Marathi HD
+https://mayank5.herokuapp.com/?c=zeemarathi
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131.png",Zee Yuva
+https://mayank5.herokuapp.com/?c=zeeyuva
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Mayank-Z5 Movie mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png",Zee Talkies HD
+https://mayank5.herokuapp.com/?c=zeetalkies
+#EXTINF:-1 tvg-id="0-9-134" group-title="Mayank-Z5 Music mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png",9X Jhakaas
+https://mayank5.herokuapp.com/?c=134
+#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="Mayank-Z5 Entertainment mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog_1078376781.png",DD Sahyadri
+https://mayank5.herokuapp.com/?c=ddsahyadri
+#EXTINF:-1 tvg-id="0-9-271" group-title="Mayank-Z5 Lifestyle mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572.png",Sugran TV
+https://mayank5.herokuapp.com/?c=271
+#EXTINF:-1 tvg-id="0-9-353" group-title="Mayank-Z5 Music mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781.png",Zee Vajwa
+https://mayank5.herokuapp.com/?c=353
+#EXTINF:-1 tvg-id="0-9-zing" group-title="Mayank-Z5 Music hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo895666865.png",Zing
+https://mayank5.herokuapp.com/?c=zing
+#EXTINF:-1 tvg-id="0-9-165" group-title="Mayank-Z5 Entertainment hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png",Boogle Bollywood
+https://mayank5.herokuapp.com/?c=165
+#EXTINF:-1 tvg-id="0-9-296" group-title="Mayank-Z5 Music en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810.png",Non-stop EDM
+https://mayank5.herokuapp.com/?c=296
+#EXTINF:-1 tvg-id="0-9-353" group-title="Mayank-Z5 Music mr" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog1434429781.png",Zee Vajwa
+https://mayank5.herokuapp.com/?c=353
+#EXTINF:-1 tvg-id="0-9-375" group-title="Mayank-Z5 Music hv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-375/channel_web/1170x658withlogo_976067553.png",Haryanvi Hits
+https://mayank5.herokuapp.com/?c=375
+#EXTINF:-1 tvg-id="0-9-376" group-title="Mayank-Z5 Music pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-376/channel_web/1170x658withlog_1062825349.png",Wah Punjabi
+https://mayank5.herokuapp.com/?c=376
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="Mayank-Z5 News or" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/1170x658withlog_1893514287.png",Zee Odisha
+https://mayank5.herokuapp.com/?c=zeekalinganews
+#EXTINF:-1 tvg-id="0-9-ddodia" group-title="Mayank-Z5 Entertainment or" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736.png",DD Odia
+https://mayank5.herokuapp.com/?c=ddodia
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/1170x658withlog_1111951312.png",Zee Punjab Haryana Himachal Pradesh
+https://mayank5.herokuapp.com/?c=zeepunjabharyanahima
+#EXTINF:-1 tvg-id="0-9-215" group-title="Mayank-Z5 Entertainment pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog_1031170304.png",Zee Punjabi
+https://mayank5.herokuapp.com/?c=215
+#EXTINF:-1 tvg-id="0-9-chardiklatimetvtimet" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/1170x658withlog_1413076946.png",Chardikla Time TV
+https://mayank5.herokuapp.com/?c=chardiklatimetvtimet
+#EXTINF:-1 tvg-id="0-9-132" group-title="Mayank-Z5 Music pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png",9X Tashan
+https://mayank5.herokuapp.com/?c=132
+#EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="Mayank-Z5 Entertainment pu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog_1071598760.png",Alpha ETC Punjabi
+https://mayank5.herokuapp.com/?c=channel_2132977507
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Mayank-Z5 Entertainment pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800.png",DD Punjabi
+https://mayank5.herokuapp.com/?c=ddpunjabi
+#EXTINF:-1 tvg-id="0-9-274" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/1170x658withlogo_212610744.png",India News Punjabi Himachal
+https://mayank5.herokuapp.com/?c=274
+#EXTINF:-1 tvg-id="0-9-305" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093.png",Living India
+https://mayank5.herokuapp.com/?c=305
+#EXTINF:-1 tvg-id="0-9-384" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/1170x658_1283511414.png",Dainik Savera
+https://mayank5.herokuapp.com/?c=384
+#EXTINF:-1 tvg-id="0-9-388" group-title="Mayank-Z5 News pa" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/1170x658_290485787.png",Sanjhi Soch
+https://mayank5.herokuapp.com/?c=388
+#EXTINF:-1 tvg-id="0-9-428" group-title="Mayank-Z5 Sports hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-428/channel_web/zeenewssudhirchaudhary21.png",Internal VE Test
+https://mayank5.herokuapp.com/?c=428
+#EXTINF:-1 tvg-id="0-9-429" group-title="Mayank-Z5 Sports en" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-429/channel_web/english1170x658listdd79ff2b2a6c46d2b1b3e79f3042d32f.png",ZCL 2022 English
+https://mayank5.herokuapp.com/?c=429
+#EXTINF:-1 tvg-id="0-9-432" group-title="Mayank-Z5 Sports hi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-432/channel_web/hindi1170x658list5a3eac986b6d49d082e861e5eb13a4fc.png",ZCL 2022 Hindi
+https://mayank5.herokuapp.com/?c=432
+#EXTINF:-1 tvg-id="0-9-306" group-title="Mayank-Z5 News ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/1170x658withlog_1787137922.png",Vendhar TV
+https://mayank5.herokuapp.com/?c=306
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
+https://mayank5.herokuapp.com/?c=zeetamil
+#EXTINF:-1 tvg-id="0-9-makkaltv" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187.png",Makkal TV
+https://mayank5.herokuapp.com/?c=makkaltv
+#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="Mayank-Z5 Entertainment ta" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077.png",DD Podhigai
+https://mayank5.herokuapp.com/?c=ddpodhigai
+#EXTINF:-1 tvg-id="0-9-258" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
+https://mayank5.herokuapp.com/?c=258
+#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Mayank-Z5 Entertainment te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
+https://mayank5.herokuapp.com/?c=zeetelugu
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Mayank-Z5 Movie te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
+https://mayank5.herokuapp.com/?c=zeecinemalu
+#EXTINF:-1 tvg-id="0-9-355" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414.png",ABN Andhra Jyothy
+https://mayank5.herokuapp.com/?c=355
+#EXTINF:-1 tvg-id="0-9-371" group-title="Mayank-Z5 News te" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/1170x658withlogo_203787503.png",10TV
+https://mayank5.herokuapp.com/?c=371
+
+#EXTINF:-1 group-title="Sony Liv",SONY SET HD
+https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1 group-title="Sony Liv",SONY SAB HD
+https://bit.ly/3fBsABhd
+#EXTINF:-1 group-title="Sony Liv",SONY PAL
+https://bit.ly/30a3wsONyPal
+#EXTINF:-1 group-title="Sony Liv",SONY MARATHI
+https://bit.ly/32JsoNYMaraTHi
+#EXTINF:-1 group-title="Sony Liv",SONY AATH
+https://bit.ly/2ORsONyaAaTh
+#EXTINF:-1 group-title="Sony Liv",SONY YAY HIN
+https://bit.ly/2WmsoNYYaY
+#EXTINF:-1 group-title="Sony Liv",SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1 group-title="Sony Liv",SONY MAX 2
+https://bit.ly/30dsoNYmaX2
+#EXTINF:-1 group-title="Sony Liv",SONY WAH
+https://bit.ly/3j7sOnywAh
+#EXTINF:-1 group-title="Sony Liv",SONY PIX HD
+https://bit.ly/32sOnypIXhd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 1
+https://bit.ly/2ZtEn1Sd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 2
+https://bit.ly/30teN2sd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 3
+https://bit.ly/2B9teN3sd
+#EXTINF:-1 group-title="Sony Liv",SONY SIX
+https://bit.ly/3j8sIx7sd
+#EXTINF:-1 group-title="Sony Liv",SONY SIX HD
+https://bit.ly/3h6sIXHd
